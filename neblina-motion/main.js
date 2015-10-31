@@ -66,7 +66,7 @@ var main = (function() {
         return;
       }
 
-      if (chrcs.length == 0) {
+      if (chrcs.length === 0) {
         console.log('Service has no characteristics: ' + service.instanceId);
         return;
       }
@@ -179,7 +179,7 @@ var main = (function() {
       return;
     }
 
-    if (hrFormat == 0) {
+    if (hrFormat === 0) {
       console.log('8-bit Heart Rate format');
       heartRateMeasurement = valueBytes[1];
     } else {
@@ -351,7 +351,7 @@ var main = (function() {
             return;
           }
 
-          // See if the device exposes a Heart Rate service.
+          // See if the device exposes a Neblina Motion Service.
           chrome.bluetoothLowEnergy.getServices(device.address,
                                                 function (services) {
             if (chrome.runtime.lastError) {
@@ -366,7 +366,7 @@ var main = (function() {
             var found = false;
             services.forEach(function (service) {
               if (service.uuid == HEART_RATE_SERVICE_UUID) {
-                console.log('Found Heart Rate service!');
+                console.log('Found Neblina Motino Service!');
                 found = true;
               }
             });
@@ -376,7 +376,7 @@ var main = (function() {
             }
 
             if (!self.deviceMap_.hasOwnProperty(device.address)) {
-              console.log('Found device with Heart Rate service: ' +
+              console.log('Found device with Neblina Motion service: ' +
                           device.address);
               self.deviceMap_[device.address] =
                   (device.name ? device.name : device.address);

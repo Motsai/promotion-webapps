@@ -94,7 +94,7 @@ var UI = (function() {
     deviceSelector.appendChild(placeHolder);
 
     // Clear the drop-down menu.
-    if (addresses.length == 0) {
+    if (addresses.length === 0) {
       console.log('No heart rate devices found');
       placeHolder.appendChild(document.createTextNode('No HR devices found'));
       return;
@@ -135,7 +135,7 @@ var UI = (function() {
     var div = document.getElementById(id);
     div.innerHTML = '';
     div.appendChild(
-        document.createTextNode((value == null) ? '-' : value));
+        document.createTextNode((value === null) ? '-' : value));
   }
 
   return {
