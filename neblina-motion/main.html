@@ -5,6 +5,8 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <script src="ui.js"></script>
   <script src="main.js"></script>
+  <script src="js/three.min.js"></script>
+  
 </head>
 <body>
   <div id="header">
@@ -29,7 +31,23 @@
       </button>
     </div>
   </div>
-  <img src="neblina.png" alt="Neblina Logo">
+
+  <div id="3dscene" class="3dscene">
+    <img src="neblina.png" alt="Neblina Logo">
+    3D Scene
+    <script src="scene.js" style="
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-top-width: 10px;
+    border-left-width: 10px;
+    border-bottom-width: 10px;
+    border-right-width: 10px;
+    ">
+    </script>
+  </div>
+  
   <div id="no-devices-error">
     No Neblina ProMotion selected
   </div>
@@ -56,5 +74,6 @@
       <button id="heart-rate-control-point">Reset Energy Expanded</button>
     </div>
   </div>
+
 </body>
 </html>
