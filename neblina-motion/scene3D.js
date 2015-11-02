@@ -3,6 +3,10 @@
     var geometry, material, mesh, teapot;
   	var teapotSize = 200;
   	var tess = 10;
+  	var loader;
+    var arrow, trace, triGeo;
+		var	pos = {x:-1000, y:-500};
+		var heading = 0;
 
 		effectController = {
 		  size: 200,
@@ -13,20 +17,23 @@
 			fitLid: false,
 			nonblinn: false
 		};
-				
+		
+
     init();
     animate();
 
     function init() {
 				
+			  var element = document.querySelector("#greeting");
+
+	      element.innerText = "Press up/right keys to change direction, zero key to go back to origin.";
+
 				var width = window.innerWidth;
 				var height = 400;
         scene = new THREE.Scene();
 
         camera = new THREE.PerspectiveCamera( 75, width / height, 1, 10000 );
         camera.position.z = 1000;
-
-
 
 				var teapotGeometry = new THREE.TeapotBufferGeometry( effectController.size,
 					effectController.tess,
@@ -37,14 +44,15 @@
 					! effectController.nonblinn );
 					
         // instantiate a loader
-        var loader = new THREE.TextureLoader();
+        loader = new THREE.TextureLoader();
 
+				teapot = new THREE.Mesh( teapotGeometry, material );
 
 				loader.load( 'neblina.jpg', function ( texture ) {
 
 					//var geometry = new THREE.SphereGeometry( 200, 20, 20 );
 
-					var material = new THREE.MeshBasicMaterial( { map: texture, overdraw: 0.5 } );
+					material = new THREE.MeshBasicMaterial( { map: texture, overdraw: 0.5 } );
 					teapot = new THREE.Mesh( teapotGeometry, material );
 					scene.add( teapot );
 
@@ -69,18 +77,33 @@
 */
 
 
-				var triangleShape = new THREE.Shape();
-				triangleShape.moveTo(  80, 20 );
-				triangleShape.lineTo(  40, 80 );
-				triangleShape.lineTo( 120, 80 );
-				triangleShape.lineTo(  80, 20 ); // close path
+				var triShape = new THREE.Shape();
+				triShape.moveTo(0, 0);
+				triShape.lineTo(0, -15);
+				triShape.lineTo(80, 0);
+				triShape.lineTo(0, 15); 
+				triShape.lineTo(0, 0); 
+				triGeo = new THREE.ShapeGeometry( triShape );
 				
-				var geometry = new THREE.ShapeGeometry( triangleShape );
+
+        trace = new THREE.Mesh( triGeo, new THREE.MeshNormalMaterial( { side: THREE.DoubleSide } ) );
+				trace.rotation.z = heading;
+				trace.position.set(pos.x,pos.y,0);
+        scene.add(trace);
+        
+				arrow = new THREE.Mesh( triGeo, new THREE.MeshBasicMaterial( {color: 0xff0000, wireframe: true, side: THREE.DoubleSide } ) );
+				arrow.rotation.z = heading;
+				arrow.position.set(pos.x,pos.y,0);
+        scene.add(arrow);
+
+
+
+				// circle = new THREE.CircleGeometry( circleRadius, 64 );
+				// mesh = new THREE.Mesh( circle, new THREE.MeshNormalMaterial( { side: THREE.DoubleSide } ) );
 				
-				var mesh = new THREE.Mesh( geometry, new THREE.MeshNormalMaterial( { side: THREE.DoubleSide } ) );
-				mesh.position.set(10,10,10);
-        mesh.scale.set( 3, 3, 3 );
-        scene.add(mesh);
+				// mesh.position.set(pos.x,pos.y,0);
+    //     scene.add(mesh);
+
 
         renderer = new THREE.WebGLRenderer();
         renderer.setSize( width, height );
@@ -96,6 +119,9 @@
         
         teapot.rotation.x -= 0.005;
         teapot.rotation.y -= 0.005;
+        
+        arrow.rotation.z = heading;
+        trace.rotation.z = heading;
 
         renderer.render( scene, camera );
 
