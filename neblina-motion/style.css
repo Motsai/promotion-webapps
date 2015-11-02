@@ -22,6 +22,12 @@ body {
   margin: 8px;
 }
 
+#scene img {
+  margin-left: auto;
+  margin-right:auto;
+  display:block;
+}
+
 #adapter-status {
   float: right;
   margin-top: 2px;
