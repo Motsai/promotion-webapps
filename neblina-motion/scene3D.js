@@ -38,6 +38,19 @@
 				teapot.rotation.z=0.2;
 				scene.add( teapot );
 
+				var triangleShape = new THREE.Shape();
+				triangleShape.moveTo(  80, 20 );
+				triangleShape.lineTo(  40, 80 );
+				triangleShape.lineTo( 120, 80 );
+				triangleShape.lineTo(  80, 20 ); // close path
+				
+				var geometry = new THREE.ShapeGeometry( triangleShape );
+				
+				var mesh = new THREE.Mesh( geometry, new THREE.MeshNormalMaterial( { side: THREE.DoubleSide } ) );
+				mesh.position.set(10,10,10);
+        mesh.scale.set( 3, 3, 3 );
+        scene.add(mesh);
+
         renderer = new THREE.WebGLRenderer();
         renderer.setSize( window.innerWidth, window.innerHeight );
 
