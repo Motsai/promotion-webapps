@@ -1,4 +1,6 @@
 chrome.app.runtime.onLaunched.addListener(function() {
+  
+/*  
   chrome.app.window.create('main.html', {
     'innerBounds': {
       'width': 620,
@@ -8,5 +10,10 @@ chrome.app.runtime.onLaunched.addListener(function() {
       'left': 100,
       'top': 100
     }
+  });
+  */
+  
+  chrome.app.window.create('testing.html', {
+    'innerBounds':{ 'width' : 400, 'height': 400 }
   });
 });
