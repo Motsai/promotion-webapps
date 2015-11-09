@@ -8,6 +8,7 @@
   <script src="js/three.min.js"></script>
   <script src='js/TeapotBufferGeometry.js'></script>
   <script src='path.js'></script>
+  <script src='cmdReader.js'></script>
 </head>
 <body>
   <div id="header">
@@ -39,7 +40,13 @@
   </div>
   <div id="greeting"></div>
 
+  <p></p>
+  <input type="file" id="files" name="file" /> 
+
   <script src="scene3D.js"></script>
+  <div id="byte_content"></div>
+  <div id="byte_range"></div>
+  
   
   <div id="no-devices-error">
     No Neblina ProMotion selected

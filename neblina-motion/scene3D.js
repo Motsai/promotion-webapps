@@ -5,9 +5,11 @@
   	var tess = 10;
   	var loader;
     var arrow, trace, triGeo;
-		var	pos = {x:-1000, y:-500};
+		var	pos = {x:-1000, y:-200};
 		var heading = 0;
-
+    var yaw, roll, pitch = 0;
+    var refresh_rate = 1;
+  
 		effectController = {
 		  size: 200,
 		  tess: 10,
@@ -80,7 +82,7 @@
 				var triShape = new THREE.Shape();
 				triShape.moveTo(0, 0);
 				triShape.lineTo(0, -15);
-				triShape.lineTo(80, 0);
+				triShape.lineTo(30, 0);
 				triShape.lineTo(0, 15); 
 				triShape.lineTo(0, 0); 
 				triGeo = new THREE.ShapeGeometry( triShape );
@@ -97,14 +99,6 @@
         scene.add(arrow);
 
 
-
-				// circle = new THREE.CircleGeometry( circleRadius, 64 );
-				// mesh = new THREE.Mesh( circle, new THREE.MeshNormalMaterial( { side: THREE.DoubleSide } ) );
-				
-				// mesh.position.set(pos.x,pos.y,0);
-    //     scene.add(mesh);
-
-
         renderer = new THREE.WebGLRenderer();
         renderer.setSize( width, height );
 
@@ -115,14 +109,19 @@
 
     function animate() {
 
+      setTimeout( function() 
+      {
+
+        readBlob();
+        teapot.rotation.x = yaw;//-= 0.005;
+        //teapot.rotation.y -= 0.005;
         requestAnimationFrame( animate );
         
-        teapot.rotation.x -= 0.005;
-        teapot.rotation.y -= 0.005;
+      }, 1000 / refresh_rate);
         
-        arrow.rotation.z = heading;
-        trace.rotation.z = heading;
+      arrow.rotation.z = heading;
+      trace.rotation.z = heading;
 
-        renderer.render( scene, camera );
+      renderer.render( scene, camera );
 
     }
