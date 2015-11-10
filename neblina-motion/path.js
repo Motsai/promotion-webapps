@@ -28,9 +28,7 @@ document.addEventListener('keydown', function(event) {
       break;
     
     case key_zero:
-      element.innerText = "Back to origin";
-			pos={x:-1000, y:-500};
-			heading = 0;
+      backToOrigin();
       refresh(arrow);
     break;
   }
@@ -38,7 +36,7 @@ document.addEventListener('keydown', function(event) {
 
 function stepForward()
 {
-  var step_size=60;
+  var step_size=20;
 
 	trace = new THREE.Mesh( triGeo, new THREE.MeshNormalMaterial( { side: THREE.DoubleSide } ) );
 
@@ -53,4 +51,11 @@ function refresh(item)
 {
 	item.position.set(pos.x,pos.y,0);
 	item.rotation.z = heading;
+}
+function backToOrigin()
+{
+  //element.innerText = "Back to origin";
+	pos.x = pos_orig.x;
+	pos.y = pos_orig.y;
+	heading = 0;
 }
