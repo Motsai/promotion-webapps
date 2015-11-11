@@ -5,7 +5,7 @@ var teapotSize = 200;
 var tess = 10;
 var loader;
 
-var yaw, roll, pitch = 0;
+var yaw = roll = pitch = 0;
 var refresh_rate = 30;
 
 effectController = {
@@ -29,7 +29,7 @@ function init3d()
     element.innerText = "Press up/right keys to change direction, zero key to go back to origin.";
 
 		var width = window.innerWidth;
-		var height = 200;
+		var height = 300;
     scene3d = new THREE.Scene();
 
     camera3d = new THREE.PerspectiveCamera( 75, width / height, 1, 10000 );
