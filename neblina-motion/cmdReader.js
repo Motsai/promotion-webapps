@@ -43,7 +43,7 @@ function readBlob() {
             roll = parseAngle(byteArray[12], byteArray[13]);
 
             document.getElementById('greeting').textContent = 
-              "yaw = "+ yaw +" pitch = "+ pitch + " roll = "+ roll;
+              "yaw = "+ yaw.toFixed(2) +" pitch = "+ pitch.toFixed(2) + " roll = "+ roll.toFixed(2);
             break;
           case 0x0b:
             stepForward();
