@@ -1,0 +1,944 @@
+[17:08:59:334] : 'Read Characteristic Value' request sent
+[17:08:59:334] : 	Attribute Handle: 0x000E
+[17:08:59:336] : 'Command Status' event received
+[17:08:59:336] : 	Status: BLE_STATUS_OK
+[17:08:59:349] : 'Read Characteristic Value Response' event received
+[17:08:59:349] : 	Value: [01:10:82:05:F4:FD:32:07:7F:FF:D9:FF:90:FF:00:00:00:00:00:00]
+[17:08:59:384] : 'Command Complete' event received
+[17:08:59:384] : 	Status: BLE_STATUS_OK
+[17:08:59:558] : 'Read Characteristic Value' request sent
+[17:08:59:558] : 	Attribute Handle: 0x000E
+[17:08:59:561] : 'Command Status' event received
+[17:08:59:561] : 	Status: BLE_STATUS_OK
+[17:08:59:576] : 'Read Characteristic Value Response' event received
+[17:08:59:576] : 	Value: [01:10:90:05:74:A7:36:07:7E:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:08:59:611] : 'Command Complete' event received
+[17:08:59:611] : 	Status: BLE_STATUS_OK
+[17:08:59:766] : 'Read Characteristic Value' request sent
+[17:08:59:766] : 	Attribute Handle: 0x000E
+[17:08:59:769] : 'Command Status' event received
+[17:08:59:769] : 	Status: BLE_STATUS_OK
+[17:08:59:786] : 'Read Characteristic Value Response' event received
+[17:08:59:786] : 	Value: [01:10:8A:05:B4:B4:39:07:7E:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:08:59:822] : 'Command Complete' event received
+[17:08:59:822] : 	Status: BLE_STATUS_OK
+[17:08:59:950] : 'Read Characteristic Value' request sent
+[17:08:59:950] : 	Attribute Handle: 0x000E
+[17:08:59:952] : 'Command Status' event received
+[17:08:59:952] : 	Status: BLE_STATUS_OK
+[17:08:59:970] : 'Read Characteristic Value Response' event received
+[17:08:59:970] : 	Value: [01:10:C4:05:D4:73:3C:07:7E:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:09:00:005] : 'Command Complete' event received
+[17:09:00:005] : 	Status: BLE_STATUS_OK
+[17:09:00:134] : 'Read Characteristic Value' request sent
+[17:09:00:134] : 	Attribute Handle: 0x000E
+[17:09:00:136] : 'Command Status' event received
+[17:09:00:136] : 	Status: BLE_STATUS_OK
+[17:09:00:162] : 'Read Characteristic Value Response' event received
+[17:09:00:162] : 	Value: [01:10:AC:05:14:81:3F:07:7E:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:09:00:198] : 'Command Complete' event received
+[17:09:00:198] : 	Status: BLE_STATUS_OK
+[17:09:00:326] : 'Read Characteristic Value' request sent
+[17:09:00:326] : 	Attribute Handle: 0x000E
+[17:09:00:329] : 'Command Status' event received
+[17:09:00:329] : 	Status: BLE_STATUS_OK
+[17:09:00:347] : 'Read Characteristic Value Response' event received
+[17:09:00:347] : 	Value: [01:10:8A:05:34:40:42:07:7E:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:09:00:384] : 'Command Complete' event received
+[17:09:00:384] : 	Status: BLE_STATUS_OK
+[17:09:00:510] : 'Read Characteristic Value' request sent
+[17:09:00:510] : 	Attribute Handle: 0x000E
+[17:09:00:513] : 'Command Status' event received
+[17:09:00:513] : 	Status: BLE_STATUS_OK
+[17:09:00:530] : 'Read Characteristic Value Response' event received
+[17:09:00:530] : 	Value: [01:10:F0:05:58:FF:44:07:7D:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:09:00:566] : 'Command Complete' event received
+[17:09:00:566] : 	Status: BLE_STATUS_OK
+[17:09:00:694] : 'Read Characteristic Value' request sent
+[17:09:00:694] : 	Attribute Handle: 0x000E
+[17:09:00:696] : 'Command Status' event received
+[17:09:00:696] : 	Status: BLE_STATUS_OK
+[17:09:00:714] : 'Read Characteristic Value Response' event received
+[17:09:00:714] : 	Value: [01:10:9A:05:98:0C:48:07:7E:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:09:00:749] : 'Command Complete' event received
+[17:09:00:749] : 	Status: BLE_STATUS_OK
+[17:09:00:886] : 'Read Characteristic Value' request sent
+[17:09:00:886] : 	Attribute Handle: 0x000E
+[17:09:00:891] : 'Command Status' event received
+[17:09:00:891] : 	Status: BLE_STATUS_OK
+[17:09:00:906] : 'Read Characteristic Value Response' event received
+[17:09:00:906] : 	Value: [01:10:84:05:B8:CB:4A:07:7E:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:09:00:942] : 'Command Complete' event received
+[17:09:00:942] : 	Status: BLE_STATUS_OK
+[17:09:01:077] : 'Read Characteristic Value' request sent
+[17:09:01:077] : 	Attribute Handle: 0x000E
+[17:09:01:080] : 'Command Status' event received
+[17:09:01:080] : 	Status: BLE_STATUS_OK
+[17:09:01:098] : 'Read Characteristic Value Response' event received
+[17:09:01:098] : 	Value: [01:10:86:05:F8:D8:4D:07:7E:FF:D7:FF:8F:FF:00:00:00:00:00:00]
+[17:09:01:135] : 'Command Complete' event received
+[17:09:01:135] : 	Status: BLE_STATUS_OK
+[17:09:01:262] : 'Read Characteristic Value' request sent
+[17:09:01:262] : 	Attribute Handle: 0x000E
+[17:09:01:265] : 'Command Status' event received
+[17:09:01:265] : 	Status: BLE_STATUS_OK
+[17:09:01:283] : 'Read Characteristic Value Response' event received
+[17:09:01:283] : 	Value: [01:10:86:05:18:98:50:07:7D:FF:D8:FF:8F:FF:00:00:00:00:00:00]
+[17:09:01:318] : 'Command Complete' event received
+[17:09:01:318] : 	Status: BLE_STATUS_OK
+[17:09:01:454] : 'Read Characteristic Value' request sent
+[17:09:01:454] : 	Attribute Handle: 0x000E
+[17:09:01:456] : 'Command Status' event received
+[17:09:01:456] : 	Status: BLE_STATUS_OK
+[17:09:01:476] : 'Read Characteristic Value Response' event received
+[17:09:01:476] : 	Value: [01:10:90:05:58:A5:53:07:7D:FF:D7:FF:8F:FF:00:00:00:00:00:00]
+[17:09:01:511] : 'Command Complete' event received
+[17:09:01:511] : 	Status: BLE_STATUS_OK
+[17:09:01:638] : 'Read Characteristic Value' request sent
+[17:09:01:638] : 	Attribute Handle: 0x000E
+[17:09:01:640] : 'Command Status' event received
+[17:09:01:640] : 	Status: BLE_STATUS_OK
+[17:09:01:659] : 'Read Characteristic Value Response' event received
+[17:09:01:659] : 	Value: [01:10:E2:05:78:64:56:07:7D:FF:D7:FF:8F:FF:00:00:00:00:00:00]
+[17:09:01:698] : 'Command Complete' event received
+[17:09:01:698] : 	Status: BLE_STATUS_OK
+[17:09:01:830] : 'Read Characteristic Value' request sent
+[17:09:01:830] : 	Attribute Handle: 0x000E
+[17:09:01:832] : 'Command Status' event received
+[17:09:01:832] : 	Status: BLE_STATUS_OK
+[17:09:01:851] : 'Read Characteristic Value Response' event received
+[17:09:01:851] : 	Value: [01:10:42:05:98:23:59:07:7D:FF:D7:FF:8F:FF:00:00:00:00:00:00]
+[17:09:01:886] : 'Command Complete' event received
+[17:09:01:886] : 	Status: BLE_STATUS_OK
+[17:09:02:022] : 'Read Characteristic Value' request sent
+[17:09:02:022] : 	Attribute Handle: 0x000E
+[17:09:02:025] : 'Command Status' event received
+[17:09:02:025] : 	Status: BLE_STATUS_OK
+[17:09:02:044] : 'Read Characteristic Value Response' event received
+[17:09:02:044] : 	Value: [01:10:2A:05:D8:30:5C:07:7D:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:02:083] : 'Command Complete' event received
+[17:09:02:083] : 	Status: BLE_STATUS_OK
+[17:09:02:206] : 'Read Characteristic Value' request sent
+[17:09:02:206] : 	Attribute Handle: 0x000E
+[17:09:02:209] : 'Command Status' event received
+[17:09:02:209] : 	Status: BLE_STATUS_OK
+[17:09:02:228] : 'Read Characteristic Value Response' event received
+[17:09:02:228] : 	Value: [01:10:F4:05:F8:EF:5E:07:7D:FF:D7:FF:8F:FF:00:00:00:00:00:00]
+[17:09:02:263] : 'Command Complete' event received
+[17:09:02:263] : 	Status: BLE_STATUS_OK
+[17:09:02:398] : 'Read Characteristic Value' request sent
+[17:09:02:398] : 	Attribute Handle: 0x000E
+[17:09:02:400] : 'Command Status' event received
+[17:09:02:400] : 	Status: BLE_STATUS_OK
+[17:09:02:429] : 'Read Characteristic Value Response' event received
+[17:09:02:429] : 	Value: [01:10:50:05:3C:FD:61:07:7D:FF:D7:FF:8F:FF:00:00:00:00:00:00]
+[17:09:02:469] : 'Command Complete' event received
+[17:09:02:469] : 	Status: BLE_STATUS_OK
+[17:09:02:573] : 'Read Characteristic Value' request sent
+[17:09:02:573] : 	Attribute Handle: 0x000E
+[17:09:02:576] : 'Command Status' event received
+[17:09:02:576] : 	Status: BLE_STATUS_OK
+[17:09:02:595] : 'Read Characteristic Value Response' event received
+[17:09:02:595] : 	Value: [01:10:2A:05:5C:BC:64:07:7D:FF:D7:FF:8F:FF:00:00:00:00:00:00]
+[17:09:02:630] : 'Command Complete' event received
+[17:09:02:630] : 	Status: BLE_STATUS_OK
+[17:09:02:758] : 'Read Characteristic Value' request sent
+[17:09:02:758] : 	Attribute Handle: 0x000E
+[17:09:02:761] : 'Command Status' event received
+[17:09:02:761] : 	Status: BLE_STATUS_OK
+[17:09:02:779] : 'Read Characteristic Value Response' event received
+[17:09:02:779] : 	Value: [01:10:DC:05:7C:7B:67:07:7D:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:02:818] : 'Command Complete' event received
+[17:09:02:818] : 	Status: BLE_STATUS_OK
+[17:09:02:950] : 'Read Characteristic Value' request sent
+[17:09:02:950] : 	Attribute Handle: 0x000E
+[17:09:02:952] : 'Command Status' event received
+[17:09:02:952] : 	Status: BLE_STATUS_OK
+[17:09:02:971] : 'Read Characteristic Value Response' event received
+[17:09:02:971] : 	Value: [01:10:2A:05:9C:3A:6A:07:7D:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:03:007] : 'Command Complete' event received
+[17:09:03:007] : 	Status: BLE_STATUS_OK
+[17:09:03:142] : 'Read Characteristic Value' request sent
+[17:09:03:142] : 	Attribute Handle: 0x000E
+[17:09:03:144] : 'Command Status' event received
+[17:09:03:144] : 	Status: BLE_STATUS_OK
+[17:09:03:164] : 'Read Characteristic Value Response' event received
+[17:09:03:164] : 	Value: [01:10:52:05:DC:47:6D:07:7C:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:03:202] : 'Command Complete' event received
+[17:09:03:202] : 	Status: BLE_STATUS_OK
+[17:09:03:326] : 'Read Characteristic Value' request sent
+[17:09:03:326] : 	Attribute Handle: 0x000E
+[17:09:03:328] : 'Command Status' event received
+[17:09:03:328] : 	Status: BLE_STATUS_OK
+[17:09:03:347] : 'Read Characteristic Value Response' event received
+[17:09:03:347] : 	Value: [01:10:18:05:FC:06:70:07:7C:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:03:382] : 'Command Complete' event received
+[17:09:03:382] : 	Status: BLE_STATUS_OK
+[17:09:03:526] : 'Read Characteristic Value' request sent
+[17:09:03:526] : 	Attribute Handle: 0x000E
+[17:09:03:529] : 'Command Status' event received
+[17:09:03:529] : 	Status: BLE_STATUS_OK
+[17:09:03:540] : 'Read Characteristic Value Response' event received
+[17:09:03:540] : 	Value: [01:10:9E:05:3C:14:73:07:7C:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:03:580] : 'Command Complete' event received
+[17:09:03:580] : 	Status: BLE_STATUS_OK
+[17:09:03:726] : 'Read Characteristic Value' request sent
+[17:09:03:726] : 	Attribute Handle: 0x000E
+[17:09:03:729] : 'Command Status' event received
+[17:09:03:729] : 	Status: BLE_STATUS_OK
+[17:09:03:741] : 'Read Characteristic Value Response' event received
+[17:09:03:741] : 	Value: [01:10:7C:05:7C:21:76:07:7C:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:03:777] : 'Command Complete' event received
+[17:09:03:777] : 	Status: BLE_STATUS_OK
+[17:09:03:910] : 'Read Characteristic Value' request sent
+[17:09:03:910] : 	Attribute Handle: 0x000E
+[17:09:03:913] : 'Command Status' event received
+[17:09:03:913] : 	Status: BLE_STATUS_OK
+[17:09:03:925] : 'Read Characteristic Value Response' event received
+[17:09:03:925] : 	Value: [01:10:14:05:9C:E0:78:07:7C:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:03:961] : 'Command Complete' event received
+[17:09:03:961] : 	Status: BLE_STATUS_OK
+[17:09:04:110] : 'Read Characteristic Value' request sent
+[17:09:04:110] : 	Attribute Handle: 0x000E
+[17:09:04:113] : 'Command Status' event received
+[17:09:04:113] : 	Status: BLE_STATUS_OK
+[17:09:04:126] : 'Read Characteristic Value Response' event received
+[17:09:04:126] : 	Value: [01:10:2C:05:DC:ED:7B:07:7C:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:04:162] : 'Command Complete' event received
+[17:09:04:162] : 	Status: BLE_STATUS_OK
+[17:09:04:286] : 'Read Characteristic Value' request sent
+[17:09:04:286] : 	Attribute Handle: 0x000E
+[17:09:04:288] : 'Command Status' event received
+[17:09:04:288] : 	Status: BLE_STATUS_OK
+[17:09:04:302] : 'Read Characteristic Value Response' event received
+[17:09:04:302] : 	Value: [01:10:D6:05:FC:AC:7E:07:7C:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:04:337] : 'Command Complete' event received
+[17:09:04:337] : 	Status: BLE_STATUS_OK
+[17:09:04:470] : 'Read Characteristic Value' request sent
+[17:09:04:470] : 	Attribute Handle: 0x000E
+[17:09:04:473] : 'Command Status' event received
+[17:09:04:473] : 	Status: BLE_STATUS_OK
+[17:09:04:485] : 'Read Characteristic Value Response' event received
+[17:09:04:485] : 	Value: [01:10:56:05:20:6C:81:07:7C:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:04:521] : 'Command Complete' event received
+[17:09:04:521] : 	Status: BLE_STATUS_OK
+[17:09:04:670] : 'Read Characteristic Value' request sent
+[17:09:04:670] : 	Attribute Handle: 0x000E
+[17:09:04:673] : 'Command Status' event received
+[17:09:04:673] : 	Status: BLE_STATUS_OK
+[17:09:04:687] : 'Read Characteristic Value Response' event received
+[17:09:04:687] : 	Value: [01:10:EC:05:60:79:84:07:7B:FF:D7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:04:722] : 'Command Complete' event received
+[17:09:04:722] : 	Status: BLE_STATUS_OK
+[17:09:04:870] : 'Read Characteristic Value' request sent
+[17:09:04:870] : 	Attribute Handle: 0x000E
+[17:09:04:873] : 'Command Status' event received
+[17:09:04:873] : 	Status: BLE_STATUS_OK
+[17:09:04:888] : 'Read Characteristic Value Response' event received
+[17:09:04:888] : 	Value: [01:10:72:05:A0:86:87:07:79:FF:D8:FF:8D:FF:00:00:00:00:00:00]
+[17:09:04:923] : 'Command Complete' event received
+[17:09:04:923] : 	Status: BLE_STATUS_OK
+[17:09:05:118] : 'Read Characteristic Value' request sent
+[17:09:05:118] : 	Attribute Handle: 0x000E
+[17:09:05:120] : 'Command Status' event received
+[17:09:05:120] : 	Status: BLE_STATUS_OK
+[17:09:05:132] : 'Read Characteristic Value Response' event received
+[17:09:05:132] : 	Value: [01:10:16:05:40:7E:8B:07:79:FF:D5:FF:8C:FF:00:00:00:00:00:00]
+[17:09:05:168] : 'Command Complete' event received
+[17:09:05:168] : 	Status: BLE_STATUS_OK
+[17:09:05:333] : 'Read Characteristic Value' request sent
+[17:09:05:333] : 	Attribute Handle: 0x000E
+[17:09:05:339] : 'Command Status' event received
+[17:09:05:339] : 	Status: BLE_STATUS_OK
+[17:09:05:351] : 'Read Characteristic Value Response' event received
+[17:09:05:351] : 	Value: [01:10:0A:05:80:8B:8E:07:74:FF:C2:FF:69:FF:00:00:00:00:00:00]
+[17:09:05:388] : 'Command Complete' event received
+[17:09:05:388] : 	Status: BLE_STATUS_OK
+[17:09:05:518] : 'Read Characteristic Value' request sent
+[17:09:05:518] : 	Attribute Handle: 0x000E
+[17:09:05:521] : 'Command Status' event received
+[17:09:05:521] : 	Status: BLE_STATUS_OK
+[17:09:05:535] : 'Read Characteristic Value Response' event received
+[17:09:05:535] : 	Value: [01:10:5A:05:C0:98:91:07:6C:FF:CA:FF:6A:FF:00:00:00:00:00:00]
+[17:09:05:571] : 'Command Complete' event received
+[17:09:05:571] : 	Status: BLE_STATUS_OK
+[17:09:05:710] : 'Read Characteristic Value' request sent
+[17:09:05:710] : 	Attribute Handle: 0x000E
+[17:09:05:712] : 'Command Status' event received
+[17:09:05:712] : 	Status: BLE_STATUS_OK
+[17:09:05:728] : 'Read Characteristic Value Response' event received
+[17:09:05:728] : 	Value: [01:10:94:05:E0:57:94:07:78:FF:BE:FF:53:FF:00:00:00:00:00:00]
+[17:09:05:763] : 'Command Complete' event received
+[17:09:05:763] : 	Status: BLE_STATUS_OK
+[17:09:05:910] : 'Read Characteristic Value' request sent
+[17:09:05:910] : 	Attribute Handle: 0x000E
+[17:09:05:912] : 'Command Status' event received
+[17:09:05:912] : 	Status: BLE_STATUS_OK
+[17:09:05:929] : 'Read Characteristic Value Response' event received
+[17:09:05:929] : 	Value: [01:10:22:05:20:65:97:07:77:FF:8B:FF:1D:FF:00:00:00:00:00:00]
+[17:09:05:964] : 'Command Complete' event received
+[17:09:05:964] : 	Status: BLE_STATUS_OK
+[17:09:06:117] : 'Read Characteristic Value' request sent
+[17:09:06:117] : 	Attribute Handle: 0x000E
+[17:09:06:120] : 'Command Status' event received
+[17:09:06:120] : 	Status: BLE_STATUS_OK
+[17:09:06:138] : 'Read Characteristic Value Response' event received
+[17:09:06:138] : 	Value: [01:10:36:05:80:C0:9A:07:4E:FF:79:FF:EA:FE:00:00:00:00:00:00]
+[17:09:06:178] : 'Command Complete' event received
+[17:09:06:178] : 	Status: BLE_STATUS_OK
+[17:09:06:310] : 'Read Characteristic Value' request sent
+[17:09:06:310] : 	Attribute Handle: 0x000E
+[17:09:06:313] : 'Command Status' event received
+[17:09:06:313] : 	Status: BLE_STATUS_OK
+[17:09:06:332] : 'Read Characteristic Value Response' event received
+[17:09:06:332] : 	Value: [01:10:C2:05:A4:7F:9D:07:5E:FF:9B:FF:8C:FE:00:00:00:00:00:00]
+[17:09:06:367] : 'Command Complete' event received
+[17:09:06:367] : 	Status: BLE_STATUS_OK
+[17:09:06:550] : 'Read Characteristic Value' request sent
+[17:09:06:550] : 	Attribute Handle: 0x000E
+[17:09:06:552] : 'Command Status' event received
+[17:09:06:552] : 	Status: BLE_STATUS_OK
+[17:09:06:567] : 'Read Characteristic Value Response' event received
+[17:09:06:567] : 	Value: [01:10:F2:05:24:29:A1:07:7F:FF:A6:FF:0D:FE:00:00:00:00:00:00]
+[17:09:06:607] : 'Command Complete' event received
+[17:09:06:607] : 	Status: BLE_STATUS_OK
+[17:09:06:782] : 'Read Characteristic Value' request sent
+[17:09:06:782] : 	Attribute Handle: 0x000E
+[17:09:06:784] : 'Command Status' event received
+[17:09:06:784] : 	Status: BLE_STATUS_OK
+[17:09:06:803] : 'Read Characteristic Value Response' event received
+[17:09:06:803] : 	Value: [01:10:EE:05:A4:D2:A4:07:93:FF:BE:FF:A8:FD:00:00:00:00:00:00]
+[17:09:06:838] : 'Command Complete' event received
+[17:09:06:838] : 	Status: BLE_STATUS_OK
+[17:09:06:990] : 'Read Characteristic Value' request sent
+[17:09:06:990] : 	Attribute Handle: 0x000E
+[17:09:06:993] : 'Command Status' event received
+[17:09:06:993] : 	Status: BLE_STATUS_OK
+[17:09:07:005] : 'Read Characteristic Value Response' event received
+[17:09:07:005] : 	Value: [01:10:30:05:E4:DF:A7:07:BF:FF:D6:FF:5E:FD:00:00:00:00:00:00]
+[17:09:07:044] : 'Command Complete' event received
+[17:09:07:044] : 	Status: BLE_STATUS_OK
+[17:09:07:222] : 'Read Characteristic Value' request sent
+[17:09:07:222] : 	Attribute Handle: 0x000E
+[17:09:07:225] : 'Command Status' event received
+[17:09:07:225] : 	Status: BLE_STATUS_OK
+[17:09:07:242] : 'Read Characteristic Value Response' event received
+[17:09:07:242] : 	Value: [01:10:12:05:64:89:AB:07:1D:00:BC:FF:19:FD:00:00:00:00:00:00]
+[17:09:07:277] : 'Command Complete' event received
+[17:09:07:277] : 	Status: BLE_STATUS_OK
+[17:09:07:430] : 'Read Characteristic Value' request sent
+[17:09:07:430] : 	Attribute Handle: 0x000E
+[17:09:07:433] : 'Command Status' event received
+[17:09:07:433] : 	Status: BLE_STATUS_OK
+[17:09:07:451] : 'Read Characteristic Value Response' event received
+[17:09:07:451] : 	Value: [01:10:B6:05:A4:96:AE:07:23:00:A9:FF:CB:FC:00:00:00:00:00:00]
+[17:09:07:491] : 'Command Complete' event received
+[17:09:07:491] : 	Status: BLE_STATUS_OK
+[17:09:07:638] : 'Read Characteristic Value' request sent
+[17:09:07:638] : 	Attribute Handle: 0x000E
+[17:09:07:641] : 'Command Status' event received
+[17:09:07:641] : 	Status: BLE_STATUS_OK
+[17:09:07:653] : 'Read Characteristic Value Response' event received
+[17:09:07:653] : 	Value: [01:10:C8:05:04:F2:B1:07:21:00:AB:FF:93:FC:00:00:00:00:00:00]
+[17:09:07:689] : 'Command Complete' event received
+[17:09:07:689] : 	Status: BLE_STATUS_OK
+[17:09:07:862] : 'Read Characteristic Value' request sent
+[17:09:07:862] : 	Attribute Handle: 0x000E
+[17:09:07:865] : 'Command Status' event received
+[17:09:07:865] : 	Status: BLE_STATUS_OK
+[17:09:07:880] : 'Read Characteristic Value Response' event received
+[17:09:07:880] : 	Value: [01:10:8C:05:64:4D:B5:07:35:00:B1:FF:89:FC:00:00:00:00:00:00]
+[17:09:07:920] : 'Command Complete' event received
+[17:09:07:920] : 	Status: BLE_STATUS_OK
+[17:09:08:078] : 'Read Characteristic Value' request sent
+[17:09:08:078] : 	Attribute Handle: 0x000E
+[17:09:08:081] : 'Command Status' event received
+[17:09:08:081] : 	Status: BLE_STATUS_OK
+[17:09:08:099] : 'Read Characteristic Value Response' event received
+[17:09:08:099] : 	Value: [01:10:2A:05:C4:A8:B8:07:42:00:B6:FF:B7:FC:00:00:00:00:00:00]
+[17:09:08:135] : 'Command Complete' event received
+[17:09:08:135] : 	Status: BLE_STATUS_OK
+[17:09:08:262] : 'Read Characteristic Value' request sent
+[17:09:08:262] : 	Attribute Handle: 0x000E
+[17:09:08:265] : 'Command Status' event received
+[17:09:08:265] : 	Status: BLE_STATUS_OK
+[17:09:08:283] : 'Read Characteristic Value Response' event received
+[17:09:08:283] : 	Value: [01:10:86:05:E8:67:BB:07:36:00:C0:FF:C8:FC:00:00:00:00:00:00]
+[17:09:08:322] : 'Command Complete' event received
+[17:09:08:322] : 	Status: BLE_STATUS_OK
+[17:09:08:477] : 'Read Characteristic Value' request sent
+[17:09:08:477] : 	Attribute Handle: 0x000E
+[17:09:08:480] : 'Command Status' event received
+[17:09:08:480] : 	Status: BLE_STATUS_OK
+[17:09:08:492] : 'Read Characteristic Value Response' event received
+[17:09:08:492] : 	Value: [01:10:BC:05:48:C3:BE:07:46:00:CB:FF:CB:FC:00:00:00:00:00:00]
+[17:09:08:528] : 'Command Complete' event received
+[17:09:08:528] : 	Status: BLE_STATUS_OK
+[17:09:08:678] : 'Read Characteristic Value' request sent
+[17:09:08:678] : 	Attribute Handle: 0x000E
+[17:09:08:681] : 'Command Status' event received
+[17:09:08:681] : 	Status: BLE_STATUS_OK
+[17:09:08:694] : 'Read Characteristic Value Response' event received
+[17:09:08:694] : 	Value: [01:10:54:05:88:D0:C1:07:50:00:CF:FF:CC:FC:00:00:00:00:00:00]
+[17:09:08:730] : 'Command Complete' event received
+[17:09:08:730] : 	Status: BLE_STATUS_OK
+[17:09:08:878] : 'Read Characteristic Value' request sent
+[17:09:08:878] : 	Attribute Handle: 0x000E
+[17:09:08:880] : 'Command Status' event received
+[17:09:08:880] : 	Status: BLE_STATUS_OK
+[17:09:08:895] : 'Read Characteristic Value Response' event received
+[17:09:08:895] : 	Value: [01:10:4E:05:C8:DD:C4:07:49:00:CC:FF:CC:FC:00:00:00:00:00:00]
+[17:09:08:930] : 'Command Complete' event received
+[17:09:08:930] : 	Status: BLE_STATUS_OK
+[17:09:09:102] : 'Read Characteristic Value' request sent
+[17:09:09:102] : 	Attribute Handle: 0x000E
+[17:09:09:104] : 'Command Status' event received
+[17:09:09:104] : 	Status: BLE_STATUS_OK
+[17:09:09:131] : 'Read Characteristic Value Response' event received
+[17:09:09:131] : 	Value: [01:10:4C:05:28:39:C8:07:45:00:CC:FF:C9:FC:00:00:00:00:00:00]
+[17:09:09:167] : 'Command Complete' event received
+[17:09:09:167] : 	Status: BLE_STATUS_OK
+[17:09:09:341] : 'Read Characteristic Value' request sent
+[17:09:09:341] : 	Attribute Handle: 0x000E
+[17:09:09:344] : 'Command Status' event received
+[17:09:09:344] : 	Status: BLE_STATUS_OK
+[17:09:09:358] : 'Read Characteristic Value Response' event received
+[17:09:09:358] : 	Value: [01:10:D8:05:A8:E2:CB:07:45:00:CB:FF:C9:FC:00:00:00:00:00:00]
+[17:09:09:395] : 'Command Complete' event received
+[17:09:09:395] : 	Status: BLE_STATUS_OK
+[17:09:09:574] : 'Read Characteristic Value' request sent
+[17:09:09:574] : 	Attribute Handle: 0x000E
+[17:09:09:577] : 'Command Status' event received
+[17:09:09:577] : 	Status: BLE_STATUS_OK
+[17:09:09:595] : 'Read Characteristic Value Response' event received
+[17:09:09:595] : 	Value: [01:10:B0:05:28:8C:CF:07:43:00:CB:FF:CB:FC:00:00:00:00:00:00]
+[17:09:09:631] : 'Command Complete' event received
+[17:09:09:631] : 	Status: BLE_STATUS_OK
+[17:09:09:798] : 'Read Characteristic Value' request sent
+[17:09:09:798] : 	Attribute Handle: 0x000E
+[17:09:09:801] : 'Command Status' event received
+[17:09:09:801] : 	Status: BLE_STATUS_OK
+[17:09:09:814] : 'Read Characteristic Value Response' event received
+[17:09:09:814] : 	Value: [01:10:94:05:88:E7:D2:07:3B:00:CB:FF:C3:FC:00:00:00:00:00:00]
+[17:09:09:850] : 'Command Complete' event received
+[17:09:09:850] : 	Status: BLE_STATUS_OK
+[17:09:10:086] : 'Read Characteristic Value' request sent
+[17:09:10:086] : 	Attribute Handle: 0x000E
+[17:09:10:088] : 'Command Status' event received
+[17:09:10:088] : 	Status: BLE_STATUS_OK
+[17:09:10:103] : 'Read Characteristic Value Response' event received
+[17:09:10:103] : 	Value: [01:10:C2:05:4C:2D:D7:07:3F:00:D2:FF:DB:FC:00:00:00:00:00:00]
+[17:09:10:138] : 'Command Complete' event received
+[17:09:10:138] : 	Status: BLE_STATUS_OK
+[17:09:10:350] : 'Read Characteristic Value' request sent
+[17:09:10:350] : 	Attribute Handle: 0x000E
+[17:09:10:353] : 'Command Status' event received
+[17:09:10:353] : 	Status: BLE_STATUS_OK
+[17:09:10:366] : 'Read Characteristic Value Response' event received
+[17:09:10:366] : 	Value: [01:10:E2:05:EC:24:DB:07:57:00:CE:FF:B6:FC:00:00:00:00:00:00]
+[17:09:10:402] : 'Command Complete' event received
+[17:09:10:402] : 	Status: BLE_STATUS_OK
+[17:09:10:638] : 'Read Characteristic Value' request sent
+[17:09:10:638] : 	Attribute Handle: 0x000E
+[17:09:10:641] : 'Command Status' event received
+[17:09:10:641] : 	Status: BLE_STATUS_OK
+[17:09:10:654] : 'Read Characteristic Value Response' event received
+[17:09:10:654] : 	Value: [01:10:D2:05:CC:B8:DF:07:62:00:D5:FF:76:FC:00:00:00:00:00:00]
+[17:09:10:690] : 'Command Complete' event received
+[17:09:10:690] : 	Status: BLE_STATUS_OK
+[17:09:10:870] : 'Read Characteristic Value' request sent
+[17:09:10:870] : 	Attribute Handle: 0x000E
+[17:09:10:872] : 'Command Status' event received
+[17:09:10:872] : 	Status: BLE_STATUS_OK
+[17:09:10:890] : 'Read Characteristic Value Response' event received
+[17:09:10:890] : 	Value: [01:10:22:05:2C:14:E3:07:61:00:D6:FF:61:FC:00:00:00:00:00:00]
+[17:09:10:926] : 'Command Complete' event received
+[17:09:10:926] : 	Status: BLE_STATUS_OK
+[17:09:11:126] : 'Read Characteristic Value' request sent
+[17:09:11:126] : 	Attribute Handle: 0x000E
+[17:09:11:128] : 'Command Status' event received
+[17:09:11:128] : 	Status: BLE_STATUS_OK
+[17:09:11:144] : 'Read Characteristic Value Response' event received
+[17:09:11:144] : 	Value: [01:10:3C:05:CC:0B:E7:07:62:00:D5:FF:65:FC:00:00:00:00:00:00]
+[17:09:11:179] : 'Command Complete' event received
+[17:09:11:179] : 	Status: BLE_STATUS_OK
+[17:09:11:374] : 'Read Characteristic Value' request sent
+[17:09:11:374] : 	Attribute Handle: 0x000E
+[17:09:11:377] : 'Command Status' event received
+[17:09:11:377] : 	Status: BLE_STATUS_OK
+[17:09:11:389] : 'Read Characteristic Value Response' event received
+[17:09:11:389] : 	Value: [01:10:1C:05:4C:B5:EA:07:6C:00:D5:FF:6D:FC:00:00:00:00:00:00]
+[17:09:11:428] : 'Command Complete' event received
+[17:09:11:428] : 	Status: BLE_STATUS_OK
+[17:09:11:606] : 'Read Characteristic Value' request sent
+[17:09:11:606] : 	Attribute Handle: 0x000E
+[17:09:11:608] : 'Command Status' event received
+[17:09:11:608] : 	Status: BLE_STATUS_OK
+[17:09:11:625] : 'Read Characteristic Value Response' event received
+[17:09:11:625] : 	Value: [01:10:4C:05:CC:5E:EE:07:6C:00:D5:FF:6B:FC:00:00:00:00:00:00]
+[17:09:11:661] : 'Command Complete' event received
+[17:09:11:661] : 	Status: BLE_STATUS_OK
+[17:09:11:814] : 'Read Characteristic Value' request sent
+[17:09:11:814] : 	Attribute Handle: 0x000E
+[17:09:11:817] : 'Command Status' event received
+[17:09:11:817] : 	Status: BLE_STATUS_OK
+[17:09:11:836] : 'Read Characteristic Value Response' event received
+[17:09:11:836] : 	Value: [01:10:BA:05:2C:BA:F1:07:69:00:D6:FF:6D:FC:00:00:00:00:00:00]
+[17:09:11:875] : 'Command Complete' event received
+[17:09:11:875] : 	Status: BLE_STATUS_OK
+[17:09:12:094] : 'Read Characteristic Value' request sent
+[17:09:12:094] : 	Attribute Handle: 0x000E
+[17:09:12:097] : 'Command Status' event received
+[17:09:12:097] : 	Status: BLE_STATUS_OK
+[17:09:12:115] : 'Read Characteristic Value Response' event received
+[17:09:12:115] : 	Value: [01:10:BC:05:F0:FF:F5:07:5E:00:D4:FF:75:FC:00:00:00:00:00:00]
+[17:09:12:151] : 'Command Complete' event received
+[17:09:12:151] : 	Status: BLE_STATUS_OK
+[17:09:12:366] : 'Read Characteristic Value' request sent
+[17:09:12:366] : 	Attribute Handle: 0x000E
+[17:09:12:368] : 'Command Status' event received
+[17:09:12:368] : 	Status: BLE_STATUS_OK
+[17:09:12:386] : 'Read Characteristic Value Response' event received
+[17:09:12:386] : 	Value: [01:10:B0:05:90:F7:F9:07:36:00:CE:FF:7E:FC:00:00:00:00:00:00]
+[17:09:12:425] : 'Command Complete' event received
+[17:09:12:425] : 	Status: BLE_STATUS_OK
+[17:09:12:581] : 'Read Characteristic Value' request sent
+[17:09:12:581] : 	Attribute Handle: 0x000E
+[17:09:12:584] : 'Command Status' event received
+[17:09:12:584] : 	Status: BLE_STATUS_OK
+[17:09:12:596] : 'Read Characteristic Value Response' event received
+[17:09:12:596] : 	Value: [01:10:EE:05:F0:52:FD:07:34:00:D1:FF:72:FC:00:00:00:00:00:00]
+[17:09:12:631] : 'Command Complete' event received
+[17:09:12:631] : 	Status: BLE_STATUS_OK
+[17:09:12:846] : 'Read Characteristic Value' request sent
+[17:09:12:846] : 	Attribute Handle: 0x000E
+[17:09:12:849] : 'Command Status' event received
+[17:09:12:849] : 	Status: BLE_STATUS_OK
+[17:09:12:868] : 'Read Characteristic Value Response' event received
+[17:09:12:868] : 	Value: [01:10:FA:05:90:4A:01:08:32:00:C3:FF:74:FC:00:00:00:00:00:00]
+[17:09:12:907] : 'Command Complete' event received
+[17:09:12:907] : 	Status: BLE_STATUS_OK
+[17:09:13:381] : 'Read Characteristic Value' request sent
+[17:09:13:381] : 	Attribute Handle: 0x000E
+[17:09:13:384] : 'Command Status' event received
+[17:09:13:384] : 	Status: BLE_STATUS_OK
+[17:09:13:401] : 'Read Characteristic Value Response' event received
+[17:09:13:401] : 	Value: [01:10:EA:05:F0:87:09:08:DB:FF:9A:FF:4D:FC:00:00:00:00:00:00]
+[17:09:13:437] : 'Command Complete' event received
+[17:09:13:437] : 	Status: BLE_STATUS_OK
+[17:09:13:678] : 'Read Characteristic Value' request sent
+[17:09:13:678] : 	Attribute Handle: 0x000E
+[17:09:13:681] : 'Command Status' event received
+[17:09:13:681] : 	Status: BLE_STATUS_OK
+[17:09:13:699] : 'Read Characteristic Value Response' event received
+[17:09:13:699] : 	Value: [01:10:76:05:D0:1B:0E:08:C5:FF:A3:FF:53:FC:00:00:00:00:00:00]
+[17:09:13:738] : 'Command Complete' event received
+[17:09:13:738] : 	Status: BLE_STATUS_OK
+[17:09:13:950] : 'Read Characteristic Value' request sent
+[17:09:13:950] : 	Attribute Handle: 0x000E
+[17:09:13:952] : 'Command Status' event received
+[17:09:13:952] : 	Status: BLE_STATUS_OK
+[17:09:13:970] : 'Read Characteristic Value Response' event received
+[17:09:13:970] : 	Value: [01:10:EA:05:74:13:12:08:E9:FF:BD:FF:79:FC:00:00:00:00:00:00]
+[17:09:14:005] : 'Command Complete' event received
+[17:09:14:005] : 	Status: BLE_STATUS_OK
+[17:09:14:237] : 'Read Characteristic Value' request sent
+[17:09:14:237] : 	Attribute Handle: 0x000E
+[17:09:14:240] : 'Command Status' event received
+[17:09:14:240] : 	Status: BLE_STATUS_OK
+[17:09:14:258] : 'Read Characteristic Value Response' event received
+[17:09:14:258] : 	Value: [01:10:D2:05:54:A7:16:08:E9:FF:D3:FF:CF:FC:00:00:00:00:00:00]
+[17:09:14:298] : 'Command Complete' event received
+[17:09:14:298] : 	Status: BLE_STATUS_OK
+[17:09:14:606] : 'Read Characteristic Value' request sent
+[17:09:14:606] : 	Attribute Handle: 0x000E
+[17:09:14:608] : 'Command Status' event received
+[17:09:14:608] : 	Status: BLE_STATUS_OK
+[17:09:14:627] : 'Read Characteristic Value Response' event received
+[17:09:14:627] : 	Value: [01:10:0A:05:94:25:1C:08:D1:FF:D5:FF:63:FD:00:00:00:00:00:00]
+[17:09:14:663] : 'Command Complete' event received
+[17:09:14:663] : 	Status: BLE_STATUS_OK
+[17:09:14:846] : 'Read Characteristic Value' request sent
+[17:09:14:846] : 	Attribute Handle: 0x000E
+[17:09:14:849] : 'Command Status' event received
+[17:09:14:849] : 	Status: BLE_STATUS_OK
+[17:09:14:863] : 'Read Characteristic Value Response' event received
+[17:09:14:863] : 	Value: [01:10:AE:05:14:CF:1F:08:AA:FF:CC:FF:9C:FD:00:00:00:00:00:00]
+[17:09:14:899] : 'Command Complete' event received
+[17:09:14:899] : 	Status: BLE_STATUS_OK
+[17:09:15:182] : 'Read Characteristic Value' request sent
+[17:09:15:182] : 	Attribute Handle: 0x000E
+[17:09:15:184] : 'Command Status' event received
+[17:09:15:184] : 	Status: BLE_STATUS_OK
+[17:09:15:204] : 'Read Characteristic Value Response' event received
+[17:09:15:204] : 	Value: [01:10:F6:05:34:FF:24:08:AD:FF:CE:FF:50:FE:00:00:00:00:00:00]
+[17:09:15:240] : 'Command Complete' event received
+[17:09:15:240] : 	Status: BLE_STATUS_OK
+[17:09:15:518] : 'Read Characteristic Value' request sent
+[17:09:15:518] : 	Attribute Handle: 0x000E
+[17:09:15:520] : 'Command Status' event received
+[17:09:15:520] : 	Status: BLE_STATUS_OK
+[17:09:15:536] : 'Read Characteristic Value Response' event received
+[17:09:15:536] : 	Value: [01:10:7A:05:54:2F:2A:08:9A:FF:B4:FF:1C:FF:00:00:00:00:00:00]
+[17:09:15:571] : 'Command Complete' event received
+[17:09:15:571] : 	Status: BLE_STATUS_OK
+[17:09:15:758] : 'Read Characteristic Value' request sent
+[17:09:15:758] : 	Attribute Handle: 0x000E
+[17:09:15:760] : 'Command Status' event received
+[17:09:15:760] : 	Status: BLE_STATUS_OK
+[17:09:15:773] : 'Read Characteristic Value Response' event received
+[17:09:15:773] : 	Value: [01:10:8C:05:D4:D8:2D:08:76:FF:C0:FF:7B:FF:00:00:00:00:00:00]
+[17:09:15:810] : 'Command Complete' event received
+[17:09:15:810] : 	Status: BLE_STATUS_OK
+[17:09:15:974] : 'Read Characteristic Value' request sent
+[17:09:15:974] : 	Attribute Handle: 0x000E
+[17:09:15:976] : 'Command Status' event received
+[17:09:15:976] : 	Status: BLE_STATUS_OK
+[17:09:15:991] : 'Read Characteristic Value Response' event received
+[17:09:15:991] : 	Value: [01:10:8E:05:18:E6:30:08:5A:FF:CD:FF:99:FF:00:00:00:00:00:00]
+[17:09:16:027] : 'Command Complete' event received
+[17:09:16:027] : 	Status: BLE_STATUS_OK
+[17:09:16:190] : 'Read Characteristic Value' request sent
+[17:09:16:190] : 	Attribute Handle: 0x000E
+[17:09:16:192] : 'Command Status' event received
+[17:09:16:192] : 	Status: BLE_STATUS_OK
+[17:09:16:210] : 'Read Characteristic Value Response' event received
+[17:09:16:210] : 	Value: [01:10:AA:05:78:41:34:08:58:FF:DA:FF:89:FF:00:00:00:00:00:00]
+[17:09:16:246] : 'Command Complete' event received
+[17:09:16:246] : 	Status: BLE_STATUS_OK
+[17:09:16:429] : 'Read Characteristic Value' request sent
+[17:09:16:429] : 	Attribute Handle: 0x000E
+[17:09:16:433] : 'Command Status' event received
+[17:09:16:433] : 	Status: BLE_STATUS_OK
+[17:09:16:447] : 'Read Characteristic Value Response' event received
+[17:09:16:447] : 	Value: [01:10:68:05:F8:EA:37:08:51:FF:DB:FF:93:FF:00:00:00:00:00:00]
+[17:09:16:483] : 'Command Complete' event received
+[17:09:16:483] : 	Status: BLE_STATUS_OK
+[17:09:16:670] : 'Read Characteristic Value' request sent
+[17:09:16:670] : 	Attribute Handle: 0x000E
+[17:09:16:675] : 'Command Status' event received
+[17:09:16:675] : 	Status: BLE_STATUS_OK
+[17:09:16:692] : 'Read Characteristic Value Response' event received
+[17:09:16:692] : 	Value: [01:10:58:05:78:94:3B:08:4F:FF:D3:FF:90:FF:00:00:00:00:00:00]
+[17:09:16:727] : 'Command Complete' event received
+[17:09:16:727] : 	Status: BLE_STATUS_OK
+[17:09:16:902] : 'Read Characteristic Value' request sent
+[17:09:16:902] : 	Attribute Handle: 0x000E
+[17:09:16:904] : 'Command Status' event received
+[17:09:16:904] : 	Status: BLE_STATUS_OK
+[17:09:16:919] : 'Read Characteristic Value Response' event received
+[17:09:16:919] : 	Value: [01:10:70:05:F8:3D:3F:08:69:FF:C3:FF:8D:FF:00:00:00:00:00:00]
+[17:09:16:955] : 'Command Complete' event received
+[17:09:16:955] : 	Status: BLE_STATUS_OK
+[17:09:17:125] : 'Read Characteristic Value' request sent
+[17:09:17:125] : 	Attribute Handle: 0x000E
+[17:09:17:128] : 'Command Status' event received
+[17:09:17:128] : 	Status: BLE_STATUS_OK
+[17:09:17:146] : 'Read Characteristic Value Response' event received
+[17:09:17:146] : 	Value: [01:10:EE:05:58:99:42:08:76:FF:BA:FF:92:FF:00:00:00:00:00:00]
+[17:09:17:182] : 'Command Complete' event received
+[17:09:17:182] : 	Status: BLE_STATUS_OK
+[17:09:17:326] : 'Read Characteristic Value' request sent
+[17:09:17:326] : 	Attribute Handle: 0x000E
+[17:09:17:329] : 'Command Status' event received
+[17:09:17:329] : 	Status: BLE_STATUS_OK
+[17:09:17:348] : 'Read Characteristic Value Response' event received
+[17:09:17:348] : 	Value: [01:10:38:05:98:A6:45:08:77:FF:B7:FF:8E:FF:00:00:00:00:00:00]
+[17:09:17:384] : 'Command Complete' event received
+[17:09:17:384] : 	Status: BLE_STATUS_OK
+[17:09:17:526] : 'Read Characteristic Value' request sent
+[17:09:17:526] : 	Attribute Handle: 0x000E
+[17:09:17:528] : 'Command Status' event received
+[17:09:17:528] : 	Status: BLE_STATUS_OK
+[17:09:17:540] : 'Read Characteristic Value Response' event received
+[17:09:17:540] : 	Value: [01:10:A6:05:D8:B3:48:08:77:FF:BA:FF:8E:FF:00:00:00:00:00:00]
+[17:09:17:579] : 'Command Complete' event received
+[17:09:17:579] : 	Status: BLE_STATUS_OK
+[17:09:17:726] : 'Read Characteristic Value' request sent
+[17:09:17:726] : 	Attribute Handle: 0x000E
+[17:09:17:728] : 'Command Status' event received
+[17:09:17:728] : 	Status: BLE_STATUS_OK
+[17:09:17:741] : 'Read Characteristic Value Response' event received
+[17:09:17:741] : 	Value: [01:10:8C:05:18:C1:4B:08:7A:FF:BA:FF:93:FF:00:00:00:00:00:00]
+[17:09:17:777] : 'Command Complete' event received
+[17:09:17:777] : 	Status: BLE_STATUS_OK
+[17:09:17:925] : 'Read Characteristic Value' request sent
+[17:09:17:925] : 	Attribute Handle: 0x000E
+[17:09:17:928] : 'Command Status' event received
+[17:09:17:928] : 	Status: BLE_STATUS_OK
+[17:09:17:942] : 'Read Characteristic Value Response' event received
+[17:09:17:942] : 	Value: [01:10:2E:05:5C:CE:4E:08:71:FF:C1:FF:9C:FF:00:00:00:00:00:00]
+[17:09:17:981] : 'Command Complete' event received
+[17:09:17:981] : 	Status: BLE_STATUS_OK
+[17:09:18:118] : 'Read Characteristic Value' request sent
+[17:09:18:118] : 	Attribute Handle: 0x000E
+[17:09:18:120] : 'Command Status' event received
+[17:09:18:120] : 	Status: BLE_STATUS_OK
+[17:09:18:135] : 'Read Characteristic Value Response' event received
+[17:09:18:135] : 	Value: [01:10:A0:05:9C:DB:51:08:6C:FF:C4:FF:A0:FF:00:00:00:00:00:00]
+[17:09:18:171] : 'Command Complete' event received
+[17:09:18:171] : 	Status: BLE_STATUS_OK
+[17:09:18:318] : 'Read Characteristic Value' request sent
+[17:09:18:318] : 	Attribute Handle: 0x000E
+[17:09:18:320] : 'Command Status' event received
+[17:09:18:320] : 	Status: BLE_STATUS_OK
+[17:09:18:337] : 'Read Characteristic Value Response' event received
+[17:09:18:337] : 	Value: [01:10:D6:05:DC:E8:54:08:6C:FF:C4:FF:A2:FF:00:00:00:00:00:00]
+[17:09:18:375] : 'Command Complete' event received
+[17:09:18:375] : 	Status: BLE_STATUS_OK
+[17:09:18:534] : 'Read Characteristic Value' request sent
+[17:09:18:534] : 	Attribute Handle: 0x000E
+[17:09:18:536] : 'Command Status' event received
+[17:09:18:536] : 	Status: BLE_STATUS_OK
+[17:09:18:555] : 'Read Characteristic Value Response' event received
+[17:09:18:555] : 	Value: [01:10:A4:05:3C:44:58:08:6D:FF:C6:FF:A3:FF:00:00:00:00:00:00]
+[17:09:18:591] : 'Command Complete' event received
+[17:09:18:591] : 	Status: BLE_STATUS_OK
+[17:09:18:733] : 'Read Characteristic Value' request sent
+[17:09:18:733] : 	Attribute Handle: 0x000E
+[17:09:18:736] : 'Command Status' event received
+[17:09:18:736] : 	Status: BLE_STATUS_OK
+[17:09:18:747] : 'Read Characteristic Value Response' event received
+[17:09:18:747] : 	Value: [01:10:BE:05:5C:03:5B:08:6E:FF:C6:FF:A5:FF:00:00:00:00:00:00]
+[17:09:18:787] : 'Command Complete' event received
+[17:09:18:787] : 	Status: BLE_STATUS_OK
+[17:09:18:942] : 'Read Characteristic Value' request sent
+[17:09:18:942] : 	Attribute Handle: 0x000E
+[17:09:18:945] : 'Command Status' event received
+[17:09:18:945] : 	Status: BLE_STATUS_OK
+[17:09:18:958] : 'Read Characteristic Value Response' event received
+[17:09:18:958] : 	Value: [01:10:2C:05:BC:5E:5E:08:70:FF:C7:FF:A7:FF:00:00:00:00:00:00]
+[17:09:18:994] : 'Command Complete' event received
+[17:09:18:994] : 	Status: BLE_STATUS_OK
+[17:09:19:142] : 'Read Characteristic Value' request sent
+[17:09:19:142] : 	Attribute Handle: 0x000E
+[17:09:19:144] : 'Command Status' event received
+[17:09:19:144] : 	Status: BLE_STATUS_OK
+[17:09:19:159] : 'Read Characteristic Value Response' event received
+[17:09:19:159] : 	Value: [01:10:C8:05:FC:6B:61:08:6F:FF:C9:FF:A8:FF:00:00:00:00:00:00]
+[17:09:19:198] : 'Command Complete' event received
+[17:09:19:198] : 	Status: BLE_STATUS_OK
+[17:09:19:342] : 'Read Characteristic Value' request sent
+[17:09:19:342] : 	Attribute Handle: 0x000E
+[17:09:19:344] : 'Command Status' event received
+[17:09:19:344] : 	Status: BLE_STATUS_OK
+[17:09:19:360] : 'Read Characteristic Value Response' event received
+[17:09:19:360] : 	Value: [01:10:76:05:3C:79:64:08:6F:FF:C9:FF:A9:FF:00:00:00:00:00:00]
+[17:09:19:395] : 'Command Complete' event received
+[17:09:19:395] : 	Status: BLE_STATUS_OK
+[17:09:19:533] : 'Read Characteristic Value' request sent
+[17:09:19:533] : 	Attribute Handle: 0x000E
+[17:09:19:536] : 'Command Status' event received
+[17:09:19:536] : 	Status: BLE_STATUS_OK
+[17:09:19:552] : 'Read Characteristic Value Response' event received
+[17:09:19:552] : 	Value: [01:10:E0:05:7C:86:67:08:6F:FF:CA:FF:AA:FF:00:00:00:00:00:00]
+[17:09:19:591] : 'Command Complete' event received
+[17:09:19:591] : 	Status: BLE_STATUS_OK
+[17:09:19:726] : 'Read Characteristic Value' request sent
+[17:09:19:726] : 	Attribute Handle: 0x000E
+[17:09:19:729] : 'Command Status' event received
+[17:09:19:729] : 	Status: BLE_STATUS_OK
+[17:09:19:746] : 'Read Characteristic Value Response' event received
+[17:09:19:746] : 	Value: [01:10:2E:05:A0:45:6A:08:6E:FF:CB:FF:AA:FF:00:00:00:00:00:00]
+[17:09:19:781] : 'Command Complete' event received
+[17:09:19:781] : 	Status: BLE_STATUS_OK
+[17:09:19:918] : 'Read Characteristic Value' request sent
+[17:09:19:918] : 	Attribute Handle: 0x000E
+[17:09:19:920] : 'Command Status' event received
+[17:09:19:920] : 	Status: BLE_STATUS_OK
+[17:09:19:938] : 'Read Characteristic Value Response' event received
+[17:09:19:938] : 	Value: [01:10:8A:05:E0:52:6D:08:6E:FF:CB:FF:AB:FF:00:00:00:00:00:00]
+[17:09:19:973] : 'Command Complete' event received
+[17:09:19:973] : 	Status: BLE_STATUS_OK
+[17:09:20:110] : 'Read Characteristic Value' request sent
+[17:09:20:110] : 	Attribute Handle: 0x000E
+[17:09:20:112] : 'Command Status' event received
+[17:09:20:112] : 	Status: BLE_STATUS_OK
+[17:09:20:130] : 'Read Characteristic Value Response' event received
+[17:09:20:130] : 	Value: [01:10:1E:05:00:12:70:08:6D:FF:CB:FF:AB:FF:00:00:00:00:00:00]
+[17:09:20:166] : 'Command Complete' event received
+[17:09:20:166] : 	Status: BLE_STATUS_OK
+[17:09:20:301] : 'Read Characteristic Value' request sent
+[17:09:20:301] : 	Attribute Handle: 0x000E
+[17:09:20:304] : 'Command Status' event received
+[17:09:20:304] : 	Status: BLE_STATUS_OK
+[17:09:20:322] : 'Read Characteristic Value Response' event received
+[17:09:20:322] : 	Value: [01:10:B6:05:40:1F:73:08:6D:FF:CD:FF:AC:FF:00:00:00:00:00:00]
+[17:09:20:360] : 'Command Complete' event received
+[17:09:20:360] : 	Status: BLE_STATUS_OK
+[17:09:20:502] : 'Read Characteristic Value' request sent
+[17:09:20:502] : 	Attribute Handle: 0x000E
+[17:09:20:505] : 'Command Status' event received
+[17:09:20:505] : 	Status: BLE_STATUS_OK
+[17:09:20:524] : 'Read Characteristic Value Response' event received
+[17:09:20:524] : 	Value: [01:10:EE:05:80:2C:76:08:6D:FF:CD:FF:AD:FF:00:00:00:00:00:00]
+[17:09:20:560] : 'Command Complete' event received
+[17:09:20:560] : 	Status: BLE_STATUS_OK
+[17:09:20:702] : 'Read Characteristic Value' request sent
+[17:09:20:702] : 	Attribute Handle: 0x000E
+[17:09:20:704] : 'Command Status' event received
+[17:09:20:704] : 	Status: BLE_STATUS_OK
+[17:09:20:717] : 'Read Characteristic Value Response' event received
+[17:09:20:717] : 	Value: [01:10:22:05:C0:39:79:08:6C:FF:CD:FF:AD:FF:00:00:00:00:00:00]
+[17:09:20:753] : 'Command Complete' event received
+[17:09:20:753] : 	Status: BLE_STATUS_OK
+[17:09:20:910] : 'Read Characteristic Value' request sent
+[17:09:20:910] : 	Attribute Handle: 0x000E
+[17:09:20:912] : 'Command Status' event received
+[17:09:20:912] : 	Status: BLE_STATUS_OK
+[17:09:20:927] : 'Read Characteristic Value Response' event received
+[17:09:20:927] : 	Value: [01:10:C6:05:00:47:7C:08:6C:FF:CE:FF:AE:FF:00:00:00:00:00:00]
+[17:09:20:963] : 'Command Complete' event received
+[17:09:20:963] : 	Status: BLE_STATUS_OK
+[17:09:21:110] : 'Read Characteristic Value' request sent
+[17:09:21:110] : 	Attribute Handle: 0x000E
+[17:09:21:112] : 'Command Status' event received
+[17:09:21:112] : 	Status: BLE_STATUS_OK
+[17:09:21:128] : 'Read Characteristic Value Response' event received
+[17:09:21:128] : 	Value: [01:10:96:05:40:54:7F:08:6C:FF:CE:FF:AE:FF:00:00:00:00:00:00]
+[17:09:21:163] : 'Command Complete' event received
+[17:09:21:163] : 	Status: BLE_STATUS_OK
+[17:09:21:294] : 'Read Characteristic Value' request sent
+[17:09:21:294] : 	Attribute Handle: 0x000E
+[17:09:21:296] : 'Command Status' event received
+[17:09:21:296] : 	Status: BLE_STATUS_OK
+[17:09:21:312] : 'Read Characteristic Value Response' event received
+[17:09:21:312] : 	Value: [01:10:E6:05:60:13:82:08:6C:FF:CE:FF:AE:FF:00:00:00:00:00:00]
+[17:09:21:347] : 'Command Complete' event received
+[17:09:21:347] : 	Status: BLE_STATUS_OK
+[17:09:21:462] : 'Read Characteristic Value' request sent
+[17:09:21:462] : 	Attribute Handle: 0x000E
+[17:09:21:465] : 'Command Status' event received
+[17:09:21:465] : 	Status: BLE_STATUS_OK
+[17:09:21:478] : 'Read Characteristic Value Response' event received
+[17:09:21:478] : 	Value: [01:10:10:05:80:D2:84:08:6C:FF:CE:FF:AE:FF:00:00:00:00:00:00]
+[17:09:21:514] : 'Command Complete' event received
+[17:09:21:514] : 	Status: BLE_STATUS_OK
+[17:09:21:646] : 'Read Characteristic Value' request sent
+[17:09:21:646] : 	Attribute Handle: 0x000E
+[17:09:21:648] : 'Command Status' event received
+[17:09:21:648] : 	Status: BLE_STATUS_OK
+[17:09:21:662] : 'Read Characteristic Value Response' event received
+[17:09:21:662] : 	Value: [01:10:40:05:A4:91:87:08:6C:FF:CE:FF:AF:FF:00:00:00:00:00:00]
+[17:09:21:697] : 'Command Complete' event received
+[17:09:21:697] : 	Status: BLE_STATUS_OK
+[17:09:21:830] : 'Read Characteristic Value' request sent
+[17:09:21:830] : 	Attribute Handle: 0x000E
+[17:09:21:832] : 'Command Status' event received
+[17:09:21:832] : 	Status: BLE_STATUS_OK
+[17:09:21:846] : 'Read Characteristic Value Response' event received
+[17:09:21:846] : 	Value: [01:10:7C:05:C4:50:8A:08:6B:FF:CF:FF:AF:FF:00:00:00:00:00:00]
+[17:09:21:881] : 'Command Complete' event received
+[17:09:21:881] : 	Status: BLE_STATUS_OK
+[17:09:22:013] : 'Read Characteristic Value' request sent
+[17:09:22:013] : 	Attribute Handle: 0x000E
+[17:09:22:016] : 'Command Status' event received
+[17:09:22:016] : 	Status: BLE_STATUS_OK
+[17:09:22:029] : 'Read Characteristic Value Response' event received
+[17:09:22:029] : 	Value: [01:10:8A:05:E4:0F:8D:08:6B:FF:D0:FF:B0:FF:00:00:00:00:00:00]
+[17:09:22:068] : 'Command Complete' event received
+[17:09:22:068] : 	Status: BLE_STATUS_OK
+[17:09:22:205] : 'Read Characteristic Value' request sent
+[17:09:22:205] : 	Attribute Handle: 0x000E
+[17:09:22:209] : 'Command Status' event received
+[17:09:22:209] : 	Status: BLE_STATUS_OK
+[17:09:22:222] : 'Read Characteristic Value Response' event received
+[17:09:22:222] : 	Value: [01:10:84:05:24:1D:90:08:6B:FF:D0:FF:B1:FF:00:00:00:00:00:00]
+[17:09:22:258] : 'Command Complete' event received
+[17:09:22:258] : 	Status: BLE_STATUS_OK
+[17:09:22:414] : 'Read Characteristic Value' request sent
+[17:09:22:414] : 	Attribute Handle: 0x000E
+[17:09:22:416] : 'Command Status' event received
+[17:09:22:416] : 	Status: BLE_STATUS_OK
+[17:09:22:432] : 'Read Characteristic Value Response' event received
+[17:09:22:432] : 	Value: [01:10:22:05:64:2A:93:08:70:FF:E5:FF:A2:FF:00:00:00:00:00:00]
+[17:09:22:471] : 'Command Complete' event received
+[17:09:22:471] : 	Status: BLE_STATUS_OK
+[17:09:22:654] : 'Read Characteristic Value' request sent
+[17:09:22:654] : 	Attribute Handle: 0x000E
+[17:09:22:656] : 'Command Status' event received
+[17:09:22:656] : 	Status: BLE_STATUS_OK
+[17:09:22:668] : 'Read Characteristic Value Response' event received
+[17:09:22:668] : 	Value: [01:10:1A:05:E4:D3:96:08:A4:FF:D6:FF:9B:FF:00:00:00:00:00:00]
+[17:09:22:703] : 'Command Complete' event received
+[17:09:22:703] : 	Status: BLE_STATUS_OK
+[17:09:22:909] : 'Read Characteristic Value' request sent
+[17:09:22:909] : 	Attribute Handle: 0x000E
+[17:09:22:912] : 'Command Status' event received
+[17:09:22:912] : 	Status: BLE_STATUS_OK
+[17:09:22:930] : 'Read Characteristic Value Response' event received
+[17:09:22:930] : 	Value: [01:10:F8:05:84:CB:9A:08:E4:FF:B2:FF:82:FF:00:00:00:00:00:00]
+[17:09:22:968] : 'Command Complete' event received
+[17:09:22:968] : 	Status: BLE_STATUS_OK
+[17:09:23:182] : 'Read Characteristic Value' request sent
+[17:09:23:182] : 	Attribute Handle: 0x000E
+[17:09:23:185] : 'Command Status' event received
+[17:09:23:185] : 	Status: BLE_STATUS_OK
+[17:09:23:202] : 'Read Characteristic Value Response' event received
+[17:09:23:202] : 	Value: [01:10:3C:05:44:11:9F:08:36:00:9D:FF:7A:FF:00:00:00:00:00:00]
+[17:09:23:238] : 'Command Complete' event received
+[17:09:23:238] : 	Status: BLE_STATUS_OK
+[17:09:23:414] : 'Read Characteristic Value' request sent
+[17:09:23:414] : 	Attribute Handle: 0x000E
+[17:09:23:416] : 'Command Status' event received
+[17:09:23:416] : 	Status: BLE_STATUS_OK
+[17:09:23:429] : 'Read Characteristic Value Response' event received
+[17:09:23:429] : 	Value: [01:10:68:05:A4:6C:A2:08:69:00:A3:FF:71:FF:00:00:00:00:00:00]
+[17:09:23:468] : 'Command Complete' event received
+[17:09:23:468] : 	Status: BLE_STATUS_OK
+[17:09:23:677] : 'Read Characteristic Value' request sent
+[17:09:23:677] : 	Attribute Handle: 0x000E
+[17:09:23:680] : 'Command Status' event received
+[17:09:23:680] : 	Status: BLE_STATUS_OK
+[17:09:23:700] : 'Read Characteristic Value Response' event received
+[17:09:23:700] : 	Value: [01:10:70:05:68:B2:A6:08:B5:00:94:FF:65:FF:00:00:00:00:00:00]
+[17:09:23:735] : 'Command Complete' event received
+[17:09:23:735] : 	Status: BLE_STATUS_OK
+[17:09:23:926] : 'Read Characteristic Value' request sent
+[17:09:23:926] : 	Attribute Handle: 0x000E
+[17:09:23:928] : 'Command Status' event received
+[17:09:23:928] : 	Status: BLE_STATUS_OK
+[17:09:23:946] : 'Read Characteristic Value Response' event received
+[17:09:23:946] : 	Value: [01:10:FE:05:E8:5B:AA:08:DB:00:85:FF:6B:FF:00:00:00:00:00:00]
+[17:09:23:984] : 'Command Complete' event received
+[17:09:23:984] : 	Status: BLE_STATUS_OK
+[17:09:24:182] : 'Read Characteristic Value' request sent
+[17:09:24:182] : 	Attribute Handle: 0x000E
+[17:09:24:184] : 'Command Status' event received
+[17:09:24:184] : 	Status: BLE_STATUS_OK
+[17:09:24:199] : 'Read Characteristic Value Response' event received
+[17:09:24:199] : 	Value: [01:10:98:05:88:53:AE:08:A3:00:71:FF:78:FF:00:00:00:00:00:00]
+[17:09:24:235] : 'Command Complete' event received
+[17:09:24:235] : 	Status: BLE_STATUS_OK
+[17:09:24:461] : 'Read Characteristic Value' request sent
+[17:09:24:461] : 	Attribute Handle: 0x000E
+[17:09:24:464] : 'Command Status' event received
+[17:09:24:464] : 	Status: BLE_STATUS_OK
+[17:09:24:479] : 'Read Characteristic Value Response' event received
+[17:09:24:479] : 	Value: [01:10:F6:05:48:99:B2:08:1E:00:85:FF:88:FF:00:00:00:00:00:00]
+[17:09:24:518] : 'Command Complete' event received
+[17:09:24:518] : 	Status: BLE_STATUS_OK
+[17:09:24:686] : 'Read Characteristic Value' request sent
+[17:09:24:686] : 	Attribute Handle: 0x000E
+[17:09:24:688] : 'Command Status' event received
+[17:09:24:688] : 	Status: BLE_STATUS_OK
+[17:09:24:707] : 'Read Characteristic Value Response' event received
+[17:09:24:707] : 	Value: [01:10:C2:05:A8:F4:B5:08:C4:FF:B1:FF:91:FF:00:00:00:00:00:00]
+[17:09:24:743] : 'Command Complete' event received
+[17:09:24:743] : 	Status: BLE_STATUS_OK
+[17:09:24:918] : 'Read Characteristic Value' request sent
+[17:09:24:918] : 	Attribute Handle: 0x000E
+[17:09:24:920] : 'Command Status' event received
+[17:09:24:920] : 	Status: BLE_STATUS_OK
+[17:09:24:934] : 'Read Characteristic Value Response' event received
+[17:09:24:934] : 	Value: [01:10:F4:05:28:9E:B9:08:5F:FF:D4:FF:82:FF:00:00:00:00:00:00]
+[17:09:24:969] : 'Command Complete' event received
+[17:09:24:969] : 	Status: BLE_STATUS_OK
+[17:09:25:126] : 'Read Characteristic Value' request sent
+[17:09:25:126] : 	Attribute Handle: 0x000E
+[17:09:25:128] : 'Command Status' event received
+[17:09:25:128] : 	Status: BLE_STATUS_OK
+[17:09:25:144] : 'Read Characteristic Value Response' event received
+[17:09:25:144] : 	Value: [01:10:E4:05:68:AB:BC:08:2D:FF:FD:FF:6F:FF:00:00:00:00:00:00]
+[17:09:25:180] : 'Command Complete' event received
+[17:09:25:180] : 	Status: BLE_STATUS_OK
