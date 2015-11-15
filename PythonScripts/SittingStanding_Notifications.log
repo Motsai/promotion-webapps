@@ -1,0 +1,2493 @@
+[17:42:29:691] : 'Characteristic Value Notification' event received
+[17:42:29:691] : 	Attribute Handle: 0x000E
+[17:42:29:691] : 	Value: [01:10:5A:05:C8:2B:46:0D:2E:00:52:FF:A3:FC:00:00:00:00:00:00]
+[17:42:29:708] : 'Characteristic Value Notification' event received
+[17:42:29:708] : 	Attribute Handle: 0x000E
+[17:42:29:708] : 	Value: [01:10:1A:05:E8:79:46:0D:37:00:57:FF:AA:FC:00:00:00:00:00:00]
+[17:42:29:734] : 'Characteristic Value Notification' event received
+[17:42:29:734] : 	Attribute Handle: 0x000E
+[17:42:29:734] : 	Value: [01:10:1C:05:08:C8:46:0D:3D:00:5B:FF:B1:FC:00:00:00:00:00:00]
+[17:42:29:752] : 'Characteristic Value Notification' event received
+[17:42:29:752] : 	Attribute Handle: 0x000E
+[17:42:29:752] : 	Value: [01:10:C4:05:28:16:47:0D:3E:00:5D:FF:B8:FC:00:00:00:00:00:00]
+[17:42:29:769] : 'Characteristic Value Notification' event received
+[17:42:29:769] : 	Attribute Handle: 0x000E
+[17:42:29:769] : 	Value: [01:10:F4:05:48:64:47:0D:3A:00:5E:FF:C1:FC:00:00:00:00:00:00]
+[17:42:29:787] : 'Characteristic Value Notification' event received
+[17:42:29:787] : 	Attribute Handle: 0x000E
+[17:42:29:787] : 	Value: [01:10:72:05:68:B2:47:0D:33:00:5E:FF:C9:FC:00:00:00:00:00:00]
+[17:42:29:813] : 'Characteristic Value Notification' event received
+[17:42:29:813] : 	Attribute Handle: 0x000E
+[17:42:29:813] : 	Value: [01:10:BC:05:88:00:48:0D:2B:00:5E:FF:D1:FC:00:00:00:00:00:00]
+[17:42:29:830] : 'Characteristic Value Notification' event received
+[17:42:29:830] : 	Attribute Handle: 0x000E
+[17:42:29:830] : 	Value: [01:10:08:05:A8:4E:48:0D:25:00:5E:FF:D8:FC:00:00:00:00:00:00]
+[17:42:29:848] : 'Characteristic Value Notification' event received
+[17:42:29:848] : 	Attribute Handle: 0x000E
+[17:42:29:848] : 	Value: [01:10:00:05:C8:9C:48:0D:1F:00:5C:FF:DD:FC:00:00:00:00:00:00]
+[17:42:29:874] : 'Characteristic Value Notification' event received
+[17:42:29:874] : 	Attribute Handle: 0x000E
+[17:42:29:874] : 	Value: [01:10:5A:05:E8:EA:48:0D:1A:00:5A:FF:E3:FC:00:00:00:00:00:00]
+[17:42:29:892] : 'Characteristic Value Notification' event received
+[17:42:29:892] : 	Attribute Handle: 0x000E
+[17:42:29:892] : 	Value: [01:10:F6:05:08:39:49:0D:15:00:58:FF:E7:FC:00:00:00:00:00:00]
+[17:42:29:909] : 'Characteristic Value Notification' event received
+[17:42:29:909] : 	Attribute Handle: 0x000E
+[17:42:29:909] : 	Value: [01:10:C8:05:28:87:49:0D:11:00:56:FF:EB:FC:00:00:00:00:00:00]
+[17:42:29:927] : 'Characteristic Value Notification' event received
+[17:42:29:927] : 	Attribute Handle: 0x000E
+[17:42:29:927] : 	Value: [01:10:E2:05:48:D5:49:0D:0C:00:55:FF:EF:FC:00:00:00:00:00:00]
+[17:42:29:953] : 'Characteristic Value Notification' event received
+[17:42:29:953] : 	Attribute Handle: 0x000E
+[17:42:29:953] : 	Value: [01:10:B0:05:68:23:4A:0D:06:00:56:FF:F2:FC:00:00:00:00:00:00]
+[17:42:29:970] : 'Characteristic Value Notification' event received
+[17:42:29:970] : 	Attribute Handle: 0x000E
+[17:42:29:970] : 	Value: [01:10:5C:05:88:71:4A:0D:00:00:57:FF:F6:FC:00:00:00:00:00:00]
+[17:42:29:997] : 'Characteristic Value Notification' event received
+[17:42:29:997] : 	Attribute Handle: 0x000E
+[17:42:29:997] : 	Value: [01:10:90:05:A8:BF:4A:0D:F7:FF:5A:FF:F9:FC:00:00:00:00:00:00]
+[17:42:30:014] : 'Characteristic Value Notification' event received
+[17:42:30:014] : 	Attribute Handle: 0x000E
+[17:42:30:014] : 	Value: [01:10:12:05:C8:0D:4B:0D:EB:FF:5E:FF:FC:FC:00:00:00:00:00:00]
+[17:42:30:032] : 'Characteristic Value Notification' event received
+[17:42:30:032] : 	Attribute Handle: 0x000E
+[17:42:30:032] : 	Value: [01:10:2C:05:E8:5B:4B:0D:E0:FF:62:FF:FD:FC:00:00:00:00:00:00]
+[17:42:30:049] : 'Characteristic Value Notification' event received
+[17:42:30:049] : 	Attribute Handle: 0x000E
+[17:42:30:049] : 	Value: [01:10:7E:05:08:AA:4B:0D:D5:FF:66:FF:FD:FC:00:00:00:00:00:00]
+[17:42:30:067] : 'Characteristic Value Notification' event received
+[17:42:30:067] : 	Attribute Handle: 0x000E
+[17:42:30:067] : 	Value: [01:10:8A:05:28:F8:4B:0D:CA:FF:69:FF:FC:FC:00:00:00:00:00:00]
+[17:42:30:093] : 'Characteristic Value Notification' event received
+[17:42:30:093] : 	Attribute Handle: 0x000E
+[17:42:30:093] : 	Value: [01:10:C8:05:48:46:4C:0D:C0:FF:6C:FF:FD:FC:00:00:00:00:00:00]
+[17:42:30:111] : 'Characteristic Value Notification' event received
+[17:42:30:111] : 	Attribute Handle: 0x000E
+[17:42:30:111] : 	Value: [01:10:B0:05:68:94:4C:0D:B7:FF:70:FF:FE:FC:00:00:00:00:00:00]
+[17:42:30:128] : 'Characteristic Value Notification' event received
+[17:42:30:128] : 	Attribute Handle: 0x000E
+[17:42:30:128] : 	Value: [01:10:96:05:88:E2:4C:0D:AF:FF:74:FF:00:FD:00:00:00:00:00:00]
+[17:42:30:154] : 'Characteristic Value Notification' event received
+[17:42:30:154] : 	Attribute Handle: 0x000E
+[17:42:30:154] : 	Value: [01:10:EE:05:A8:30:4D:0D:A7:FF:79:FF:03:FD:00:00:00:00:00:00]
+[17:42:30:172] : 'Characteristic Value Notification' event received
+[17:42:30:172] : 	Attribute Handle: 0x000E
+[17:42:30:172] : 	Value: [01:10:74:05:C8:7E:4D:0D:A1:FF:7D:FF:06:FD:00:00:00:00:00:00]
+[17:42:30:189] : 'Characteristic Value Notification' event received
+[17:42:30:189] : 	Attribute Handle: 0x000E
+[17:42:30:189] : 	Value: [01:10:9C:05:E8:CC:4D:0D:9B:FF:80:FF:07:FD:00:00:00:00:00:00]
+[17:42:30:207] : 'Characteristic Value Notification' event received
+[17:42:30:207] : 	Attribute Handle: 0x000E
+[17:42:30:207] : 	Value: [01:10:EA:05:08:1B:4E:0D:95:FF:83:FF:06:FD:00:00:00:00:00:00]
+[17:42:30:233] : 'Characteristic Value Notification' event received
+[17:42:30:233] : 	Attribute Handle: 0x000E
+[17:42:30:233] : 	Value: [01:10:82:05:28:69:4E:0D:90:FF:86:FF:03:FD:00:00:00:00:00:00]
+[17:42:30:251] : 'Characteristic Value Notification' event received
+[17:42:30:251] : 	Attribute Handle: 0x000E
+[17:42:30:251] : 	Value: [01:10:AC:05:48:B7:4E:0D:8B:FF:85:FF:0A:FD:00:00:00:00:00:00]
+[17:42:30:268] : 'Characteristic Value Notification' event received
+[17:42:30:268] : 	Attribute Handle: 0x000E
+[17:42:30:268] : 	Value: [01:10:24:05:68:05:4F:0D:8C:FF:72:FF:12:FD:00:00:00:00:00:00]
+[17:42:30:294] : 'Characteristic Value Notification' event received
+[17:42:30:294] : 	Attribute Handle: 0x000E
+[17:42:30:294] : 	Value: [01:10:58:05:88:53:4F:0D:91:FF:60:FF:19:FD:00:00:00:00:00:00]
+[17:42:30:312] : 'Characteristic Value Notification' event received
+[17:42:30:312] : 	Attribute Handle: 0x000E
+[17:42:30:312] : 	Value: [01:10:DE:05:A8:A1:4F:0D:8C:FF:5F:FF:05:FD:00:00:00:00:00:00]
+[17:42:30:329] : 'Characteristic Value Notification' event received
+[17:42:30:329] : 	Attribute Handle: 0x000E
+[17:42:30:329] : 	Value: [01:10:72:05:C8:EF:4F:0D:8D:FF:5E:FF:F0:FC:00:00:00:00:00:00]
+[17:42:30:347] : 'Characteristic Value Notification' event received
+[17:42:30:347] : 	Attribute Handle: 0x000E
+[17:42:30:347] : 	Value: [01:10:70:05:E8:3D:50:0D:8F:FF:61:FF:E5:FC:00:00:00:00:00:00]
+[17:42:30:373] : 'Characteristic Value Notification' event received
+[17:42:30:373] : 	Attribute Handle: 0x000E
+[17:42:30:373] : 	Value: [01:10:C0:05:08:8C:50:0D:90:FF:68:FF:D3:FC:00:00:00:00:00:00]
+[17:42:30:390] : 'Characteristic Value Notification' event received
+[17:42:30:390] : 	Attribute Handle: 0x000E
+[17:42:30:390] : 	Value: [01:10:FE:05:28:DA:50:0D:94:FF:70:FF:C5:FC:00:00:00:00:00:00]
+[17:42:30:408] : 'Characteristic Value Notification' event received
+[17:42:30:408] : 	Attribute Handle: 0x000E
+[17:42:30:408] : 	Value: [01:10:F0:05:48:28:51:0D:9A:FF:77:FF:B1:FC:00:00:00:00:00:00]
+[17:42:30:435] : 'Characteristic Value Notification' event received
+[17:42:30:435] : 	Attribute Handle: 0x000E
+[17:42:30:435] : 	Value: [01:10:66:05:68:76:51:0D:9C:FF:79:FF:A0:FC:00:00:00:00:00:00]
+[17:42:30:452] : 'Characteristic Value Notification' event received
+[17:42:30:452] : 	Attribute Handle: 0x000E
+[17:42:30:452] : 	Value: [01:10:C0:05:88:C4:51:0D:9C:FF:78:FF:90:FC:00:00:00:00:00:00]
+[17:42:30:469] : 'Characteristic Value Notification' event received
+[17:42:30:469] : 	Attribute Handle: 0x000E
+[17:42:30:469] : 	Value: [01:10:C0:05:A8:12:52:0D:9A:FF:76:FF:84:FC:00:00:00:00:00:00]
+[17:42:30:487] : 'Characteristic Value Notification' event received
+[17:42:30:487] : 	Attribute Handle: 0x000E
+[17:42:30:487] : 	Value: [01:10:DC:05:C8:60:52:0D:96:FF:74:FF:78:FC:00:00:00:00:00:00]
+[17:42:30:513] : 'Characteristic Value Notification' event received
+[17:42:30:513] : 	Attribute Handle: 0x000E
+[17:42:30:513] : 	Value: [01:10:BA:05:E8:AE:52:0D:92:FF:73:FF:6F:FC:00:00:00:00:00:00]
+[17:42:30:531] : 'Characteristic Value Notification' event received
+[17:42:30:531] : 	Attribute Handle: 0x000E
+[17:42:30:531] : 	Value: [01:10:9A:05:08:FD:52:0D:8E:FF:72:FF:67:FC:00:00:00:00:00:00]
+[17:42:30:548] : 'Characteristic Value Notification' event received
+[17:42:30:548] : 	Attribute Handle: 0x000E
+[17:42:30:548] : 	Value: [01:10:60:05:28:4B:53:0D:8B:FF:72:FF:5E:FC:00:00:00:00:00:00]
+[17:42:30:574] : 'Characteristic Value Notification' event received
+[17:42:30:574] : 	Attribute Handle: 0x000E
+[17:42:30:574] : 	Value: [01:10:3E:05:48:99:53:0D:89:FF:72:FF:56:FC:00:00:00:00:00:00]
+[17:42:30:592] : 'Characteristic Value Notification' event received
+[17:42:30:592] : 	Attribute Handle: 0x000E
+[17:42:30:592] : 	Value: [01:10:BC:05:68:E7:53:0D:89:FF:73:FF:4F:FC:00:00:00:00:00:00]
+[17:42:30:609] : 'Characteristic Value Notification' event received
+[17:42:30:609] : 	Attribute Handle: 0x000E
+[17:42:30:609] : 	Value: [01:10:2C:05:88:35:54:0D:89:FF:75:FF:47:FC:00:00:00:00:00:00]
+[17:42:30:627] : 'Characteristic Value Notification' event received
+[17:42:30:627] : 	Attribute Handle: 0x000E
+[17:42:30:627] : 	Value: [01:10:52:05:A8:83:54:0D:8A:FF:77:FF:40:FC:00:00:00:00:00:00]
+[17:42:30:653] : 'Characteristic Value Notification' event received
+[17:42:30:653] : 	Attribute Handle: 0x000E
+[17:42:30:653] : 	Value: [01:10:0E:05:C8:D1:54:0D:8B:FF:7B:FF:3D:FC:00:00:00:00:00:00]
+[17:42:30:671] : 'Characteristic Value Notification' event received
+[17:42:30:671] : 	Attribute Handle: 0x000E
+[17:42:30:671] : 	Value: [01:10:72:05:E8:1F:55:0D:8C:FF:7C:FF:39:FC:00:00:00:00:00:00]
+[17:42:30:688] : 'Characteristic Value Notification' event received
+[17:42:30:688] : 	Attribute Handle: 0x000E
+[17:42:30:688] : 	Value: [01:10:B0:05:08:6E:55:0D:8E:FF:7D:FF:35:FC:00:00:00:00:00:00]
+[17:42:30:714] : 'Characteristic Value Notification' event received
+[17:42:30:714] : 	Attribute Handle: 0x000E
+[17:42:30:714] : 	Value: [01:10:0E:05:28:BC:55:0D:90:FF:7E:FF:30:FC:00:00:00:00:00:00]
+[17:42:30:732] : 'Characteristic Value Notification' event received
+[17:42:30:732] : 	Attribute Handle: 0x000E
+[17:42:30:732] : 	Value: [01:10:DE:05:48:0A:56:0D:91:FF:7F:FF:2A:FC:00:00:00:00:00:00]
+[17:42:30:749] : 'Characteristic Value Notification' event received
+[17:42:30:749] : 	Attribute Handle: 0x000E
+[17:42:30:749] : 	Value: [01:10:9C:05:68:58:56:0D:92:FF:7F:FF:25:FC:00:00:00:00:00:00]
+[17:42:30:767] : 'Characteristic Value Notification' event received
+[17:42:30:767] : 	Attribute Handle: 0x000E
+[17:42:30:767] : 	Value: [01:10:F2:05:88:A6:56:0D:92:FF:80:FF:22:FC:00:00:00:00:00:00]
+[17:42:30:793] : 'Characteristic Value Notification' event received
+[17:42:30:793] : 	Attribute Handle: 0x000E
+[17:42:30:793] : 	Value: [01:10:CA:05:A8:F4:56:0D:8E:FF:84:FF:25:FC:00:00:00:00:00:00]
+[17:42:30:810] : 'Characteristic Value Notification' event received
+[17:42:30:810] : 	Attribute Handle: 0x000E
+[17:42:30:810] : 	Value: [01:10:04:05:C8:42:57:0D:88:FF:8D:FF:30:FC:00:00:00:00:00:00]
+[17:42:30:828] : 'Characteristic Value Notification' event received
+[17:42:30:828] : 	Attribute Handle: 0x000E
+[17:42:30:828] : 	Value: [01:10:0C:05:E8:90:57:0D:85:FF:98:FF:44:FC:00:00:00:00:00:00]
+[17:42:30:854] : 'Characteristic Value Notification' event received
+[17:42:30:854] : 	Attribute Handle: 0x000E
+[17:42:30:854] : 	Value: [01:10:66:05:08:DF:57:0D:83:FF:9A:FF:5B:FC:00:00:00:00:00:00]
+[17:42:30:872] : 'Characteristic Value Notification' event received
+[17:42:30:872] : 	Attribute Handle: 0x000E
+[17:42:30:872] : 	Value: [01:10:52:05:28:2D:58:0D:81:FF:94:FF:78:FC:00:00:00:00:00:00]
+[17:42:30:889] : 'Characteristic Value Notification' event received
+[17:42:30:889] : 	Attribute Handle: 0x000E
+[17:42:30:889] : 	Value: [01:10:8E:05:48:7B:58:0D:81:FF:90:FF:87:FC:00:00:00:00:00:00]
+[17:42:30:907] : 'Characteristic Value Notification' event received
+[17:42:30:907] : 	Attribute Handle: 0x000E
+[17:42:30:907] : 	Value: [01:10:88:05:68:C9:58:0D:7E:FF:8A:FF:8F:FC:00:00:00:00:00:00]
+[17:42:30:933] : 'Characteristic Value Notification' event received
+[17:42:30:933] : 	Attribute Handle: 0x000E
+[17:42:30:933] : 	Value: [01:10:3E:05:88:17:59:0D:77:FF:7F:FF:97:FC:00:00:00:00:00:00]
+[17:42:30:950] : 'Characteristic Value Notification' event received
+[17:42:30:950] : 	Attribute Handle: 0x000E
+[17:42:30:950] : 	Value: [01:10:0C:05:A8:65:59:0D:78:FF:74:FF:A3:FC:00:00:00:00:00:00]
+[17:42:30:968] : 'Characteristic Value Notification' event received
+[17:42:30:968] : 	Attribute Handle: 0x000E
+[17:42:30:968] : 	Value: [01:10:84:05:C8:B3:59:0D:78:FF:68:FF:B8:FC:00:00:00:00:00:00]
+[17:42:30:994] : 'Characteristic Value Notification' event received
+[17:42:30:994] : 	Attribute Handle: 0x000E
+[17:42:30:994] : 	Value: [01:10:20:05:E8:01:5A:0D:72:FF:59:FF:CD:FC:00:00:00:00:00:00]
+[17:42:31:012] : 'Characteristic Value Notification' event received
+[17:42:31:012] : 	Attribute Handle: 0x000E
+[17:42:31:012] : 	Value: [01:10:A8:05:08:50:5A:0D:68:FF:4A:FF:E0:FC:00:00:00:00:00:00]
+[17:42:31:030] : 'Characteristic Value Notification' event received
+[17:42:31:030] : 	Attribute Handle: 0x000E
+[17:42:31:030] : 	Value: [01:10:4A:05:28:9E:5A:0D:5D:FF:42:FF:F1:FC:00:00:00:00:00:00]
+[17:42:31:047] : 'Characteristic Value Notification' event received
+[17:42:31:047] : 	Attribute Handle: 0x000E
+[17:42:31:047] : 	Value: [01:10:5A:05:48:EC:5A:0D:51:FF:40:FF:FC:FC:00:00:00:00:00:00]
+[17:42:31:082] : 'Characteristic Value Notification' event received
+[17:42:31:082] : 	Attribute Handle: 0x000E
+[17:42:31:082] : 	Value: [01:10:7C:05:68:3A:5B:0D:43:FF:43:FF:03:FD:00:00:00:00:00:00]
+[17:42:31:091] : 'Characteristic Value Notification' event received
+[17:42:31:091] : 	Attribute Handle: 0x000E
+[17:42:31:091] : 	Value: [01:10:B6:05:88:88:5B:0D:35:FF:48:FF:07:FD:00:00:00:00:00:00]
+[17:42:31:108] : 'Characteristic Value Notification' event received
+[17:42:31:108] : 	Attribute Handle: 0x000E
+[17:42:31:108] : 	Value: [01:10:28:05:A8:D6:5B:0D:25:FF:4E:FF:0B:FD:00:00:00:00:00:00]
+[17:42:31:134] : 'Characteristic Value Notification' event received
+[17:42:31:134] : 	Attribute Handle: 0x000E
+[17:42:31:134] : 	Value: [01:10:78:05:C8:24:5C:0D:13:FF:56:FF:0D:FD:00:00:00:00:00:00]
+[17:42:31:152] : 'Characteristic Value Notification' event received
+[17:42:31:152] : 	Attribute Handle: 0x000E
+[17:42:31:152] : 	Value: [01:10:A0:05:E8:72:5C:0D:04:FF:5F:FF:0C:FD:00:00:00:00:00:00]
+[17:42:31:169] : 'Characteristic Value Notification' event received
+[17:42:31:169] : 	Attribute Handle: 0x000E
+[17:42:31:169] : 	Value: [01:10:42:05:08:C1:5C:0D:F7:FE:67:FF:06:FD:00:00:00:00:00:00]
+[17:42:31:187] : 'Characteristic Value Notification' event received
+[17:42:31:187] : 	Attribute Handle: 0x000E
+[17:42:31:187] : 	Value: [01:10:9C:05:28:0F:5D:0D:EE:FE:6E:FF:FC:FC:00:00:00:00:00:00]
+[17:42:31:213] : 'Characteristic Value Notification' event received
+[17:42:31:213] : 	Attribute Handle: 0x000E
+[17:42:31:213] : 	Value: [01:10:CC:05:4C:5D:5D:0D:E9:FE:71:FF:F5:FC:00:00:00:00:00:00]
+[17:42:31:231] : 'Characteristic Value Notification' event received
+[17:42:31:231] : 	Attribute Handle: 0x000E
+[17:42:31:231] : 	Value: [01:10:DA:05:6C:AB:5D:0D:E5:FE:72:FF:EC:FC:00:00:00:00:00:00]
+[17:42:31:248] : 'Characteristic Value Notification' event received
+[17:42:31:248] : 	Attribute Handle: 0x000E
+[17:42:31:248] : 	Value: [01:10:0A:05:8C:F9:5D:0D:E1:FE:73:FF:E7:FC:00:00:00:00:00:00]
+[17:42:31:274] : 'Characteristic Value Notification' event received
+[17:42:31:274] : 	Attribute Handle: 0x000E
+[17:42:31:274] : 	Value: [01:10:56:05:AC:47:5E:0D:DE:FE:71:FF:E7:FC:00:00:00:00:00:00]
+[17:42:31:292] : 'Characteristic Value Notification' event received
+[17:42:31:292] : 	Attribute Handle: 0x000E
+[17:42:31:292] : 	Value: [01:10:D4:05:CC:95:5E:0D:D5:FE:6D:FF:EC:FC:00:00:00:00:00:00]
+[17:42:31:309] : 'Characteristic Value Notification' event received
+[17:42:31:309] : 	Attribute Handle: 0x000E
+[17:42:31:309] : 	Value: [01:10:AE:05:EC:E3:5E:0D:CB:FE:69:FF:F6:FC:00:00:00:00:00:00]
+[17:42:31:327] : 'Characteristic Value Notification' event received
+[17:42:31:327] : 	Attribute Handle: 0x000E
+[17:42:31:327] : 	Value: [01:10:FE:05:0C:32:5F:0D:C4:FE:65:FF:FC:FC:00:00:00:00:00:00]
+[17:42:31:353] : 'Characteristic Value Notification' event received
+[17:42:31:353] : 	Attribute Handle: 0x000E
+[17:42:31:353] : 	Value: [01:10:A2:05:2C:80:5F:0D:B2:FE:66:FF:02:FD:00:00:00:00:00:00]
+[17:42:31:370] : 'Characteristic Value Notification' event received
+[17:42:31:370] : 	Attribute Handle: 0x000E
+[17:42:31:370] : 	Value: [01:10:0A:05:4C:CE:5F:0D:B1:FE:55:FF:0B:FD:00:00:00:00:00:00]
+[17:42:31:388] : 'Characteristic Value Notification' event received
+[17:42:31:388] : 	Attribute Handle: 0x000E
+[17:42:31:388] : 	Value: [01:10:8C:05:6C:1C:60:0D:AE:FE:42:FF:0A:FD:00:00:00:00:00:00]
+[17:42:31:414] : 'Characteristic Value Notification' event received
+[17:42:31:414] : 	Attribute Handle: 0x000E
+[17:42:31:414] : 	Value: [01:10:DA:05:8C:6A:60:0D:9A:FE:52:FF:02:FD:00:00:00:00:00:00]
+[17:42:31:432] : 'Characteristic Value Notification' event received
+[17:42:31:432] : 	Attribute Handle: 0x000E
+[17:42:31:432] : 	Value: [01:10:DC:05:AC:B8:60:0D:94:FE:5B:FF:E8:FC:00:00:00:00:00:00]
+[17:42:31:449] : 'Characteristic Value Notification' event received
+[17:42:31:449] : 	Attribute Handle: 0x000E
+[17:42:31:449] : 	Value: [01:10:6A:05:CC:06:61:0D:95:FE:64:FF:D7:FC:00:00:00:00:00:00]
+[17:42:31:467] : 'Characteristic Value Notification' event received
+[17:42:31:467] : 	Attribute Handle: 0x000E
+[17:42:31:467] : 	Value: [01:10:EA:05:EC:54:61:0D:97:FE:6F:FF:BE:FC:00:00:00:00:00:00]
+[17:42:31:493] : 'Characteristic Value Notification' event received
+[17:42:31:493] : 	Attribute Handle: 0x000E
+[17:42:31:493] : 	Value: [01:10:A8:05:0C:A3:61:0D:95:FE:79:FF:AB:FC:00:00:00:00:00:00]
+[17:42:31:511] : 'Characteristic Value Notification' event received
+[17:42:31:511] : 	Attribute Handle: 0x000E
+[17:42:31:511] : 	Value: [01:10:92:05:2C:F1:61:0D:90:FE:7B:FF:9A:FC:00:00:00:00:00:00]
+[17:42:31:528] : 'Characteristic Value Notification' event received
+[17:42:31:528] : 	Attribute Handle: 0x000E
+[17:42:31:528] : 	Value: [01:10:EA:05:4C:3F:62:0D:86:FE:7B:FF:89:FC:00:00:00:00:00:00]
+[17:42:31:555] : 'Characteristic Value Notification' event received
+[17:42:31:555] : 	Attribute Handle: 0x000E
+[17:42:31:555] : 	Value: [01:10:F6:05:6C:8D:62:0D:7B:FE:7D:FF:7A:FC:00:00:00:00:00:00]
+[17:42:31:572] : 'Characteristic Value Notification' event received
+[17:42:31:572] : 	Attribute Handle: 0x000E
+[17:42:31:572] : 	Value: [01:10:16:05:8C:DB:62:0D:71:FE:7E:FF:6C:FC:00:00:00:00:00:00]
+[17:42:31:589] : 'Characteristic Value Notification' event received
+[17:42:31:589] : 	Attribute Handle: 0x000E
+[17:42:31:589] : 	Value: [01:10:86:05:AC:29:63:0D:68:FE:7C:FF:61:FC:00:00:00:00:00:00]
+[17:42:31:607] : 'Characteristic Value Notification' event received
+[17:42:31:607] : 	Attribute Handle: 0x000E
+[17:42:31:607] : 	Value: [01:10:2E:05:CC:77:63:0D:61:FE:7C:FF:52:FC:00:00:00:00:00:00]
+[17:42:31:633] : 'Characteristic Value Notification' event received
+[17:42:31:633] : 	Attribute Handle: 0x000E
+[17:42:31:633] : 	Value: [01:10:94:05:EC:C5:63:0D:5C:FE:7C:FF:45:FC:00:00:00:00:00:00]
+[17:42:31:651] : 'Characteristic Value Notification' event received
+[17:42:31:651] : 	Attribute Handle: 0x000E
+[17:42:31:651] : 	Value: [01:10:10:05:0C:14:64:0D:58:FE:7A:FF:3C:FC:00:00:00:00:00:00]
+[17:42:31:668] : 'Characteristic Value Notification' event received
+[17:42:31:668] : 	Attribute Handle: 0x000E
+[17:42:31:668] : 	Value: [01:10:48:05:2C:62:64:0D:50:FE:7C:FF:38:FC:00:00:00:00:00:00]
+[17:42:31:694] : 'Characteristic Value Notification' event received
+[17:42:31:694] : 	Attribute Handle: 0x000E
+[17:42:31:694] : 	Value: [01:10:24:05:4C:B0:64:0D:4A:FE:7F:FF:35:FC:00:00:00:00:00:00]
+[17:42:31:712] : 'Characteristic Value Notification' event received
+[17:42:31:712] : 	Attribute Handle: 0x000E
+[17:42:31:712] : 	Value: [01:10:58:05:6C:FE:64:0D:44:FE:81:FF:35:FC:00:00:00:00:00:00]
+[17:42:31:729] : 'Characteristic Value Notification' event received
+[17:42:31:729] : 	Attribute Handle: 0x000E
+[17:42:31:729] : 	Value: [01:10:90:05:8C:4C:65:0D:3E:FE:84:FF:34:FC:00:00:00:00:00:00]
+[17:42:31:747] : 'Characteristic Value Notification' event received
+[17:42:31:747] : 	Attribute Handle: 0x000E
+[17:42:31:747] : 	Value: [01:10:6E:05:AC:9A:65:0D:3A:FE:87:FF:2E:FC:00:00:00:00:00:00]
+[17:42:31:773] : 'Characteristic Value Notification' event received
+[17:42:31:773] : 	Attribute Handle: 0x000E
+[17:42:31:773] : 	Value: [01:10:52:05:CC:E8:65:0D:35:FE:8C:FF:2C:FC:00:00:00:00:00:00]
+[17:42:31:790] : 'Characteristic Value Notification' event received
+[17:42:31:790] : 	Attribute Handle: 0x000E
+[17:42:31:790] : 	Value: [01:10:CE:05:EC:36:66:0D:2F:FE:94:FF:28:FC:00:00:00:00:00:00]
+[17:42:31:808] : 'Characteristic Value Notification' event received
+[17:42:31:808] : 	Attribute Handle: 0x000E
+[17:42:31:808] : 	Value: [01:10:58:05:0C:85:66:0D:25:FE:9C:FF:2F:FC:00:00:00:00:00:00]
+[17:42:31:834] : 'Characteristic Value Notification' event received
+[17:42:31:834] : 	Attribute Handle: 0x000E
+[17:42:31:834] : 	Value: [01:10:A0:05:2C:D3:66:0D:17:FE:A8:FF:43:FC:00:00:00:00:00:00]
+[17:42:31:852] : 'Characteristic Value Notification' event received
+[17:42:31:852] : 	Attribute Handle: 0x000E
+[17:42:31:852] : 	Value: [01:10:2E:05:4C:21:67:0D:0C:FE:B4:FF:62:FC:00:00:00:00:00:00]
+[17:42:31:878] : 'Characteristic Value Notification' event received
+[17:42:31:878] : 	Attribute Handle: 0x000E
+[17:42:31:878] : 	Value: [01:10:3E:05:6C:6F:67:0D:07:FE:B6:FF:79:FC:00:00:00:00:00:00]
+[17:42:31:887] : 'Characteristic Value Notification' event received
+[17:42:31:887] : 	Attribute Handle: 0x000E
+[17:42:31:887] : 	Value: [01:10:84:05:8C:BD:67:0D:0B:FE:B1:FF:8E:FC:00:00:00:00:00:00]
+[17:42:31:913] : 'Characteristic Value Notification' event received
+[17:42:31:913] : 	Attribute Handle: 0x000E
+[17:42:31:913] : 	Value: [01:10:C0:05:AC:0B:68:0D:10:FE:A6:FF:9B:FC:00:00:00:00:00:00]
+[17:42:31:930] : 'Characteristic Value Notification' event received
+[17:42:31:930] : 	Attribute Handle: 0x000E
+[17:42:31:930] : 	Value: [01:10:54:05:CC:59:68:0D:0A:FE:98:FF:A8:FC:00:00:00:00:00:00]
+[17:42:31:948] : 'Characteristic Value Notification' event received
+[17:42:31:948] : 	Attribute Handle: 0x000E
+[17:42:31:948] : 	Value: [01:10:C2:05:EC:A7:68:0D:04:FE:8B:FF:C0:FC:00:00:00:00:00:00]
+[17:42:31:974] : 'Characteristic Value Notification' event received
+[17:42:31:974] : 	Attribute Handle: 0x000E
+[17:42:31:974] : 	Value: [01:10:90:05:0C:F6:68:0D:FD:FD:7B:FF:D9:FC:00:00:00:00:00:00]
+[17:42:31:992] : 'Characteristic Value Notification' event received
+[17:42:31:992] : 	Attribute Handle: 0x000E
+[17:42:31:992] : 	Value: [01:10:84:05:2C:44:69:0D:F8:FD:6F:FF:ED:FC:00:00:00:00:00:00]
+[17:42:32:009] : 'Characteristic Value Notification' event received
+[17:42:32:009] : 	Attribute Handle: 0x000E
+[17:42:32:009] : 	Value: [01:10:40:05:4C:92:69:0D:F3:FD:69:FF:FE:FC:00:00:00:00:00:00]
+[17:42:32:027] : 'Characteristic Value Notification' event received
+[17:42:32:027] : 	Attribute Handle: 0x000E
+[17:42:32:027] : 	Value: [01:10:20:05:6C:E0:69:0D:F0:FD:68:FF:0C:FD:00:00:00:00:00:00]
+[17:42:32:054] : 'Characteristic Value Notification' event received
+[17:42:32:054] : 	Attribute Handle: 0x000E
+[17:42:32:054] : 	Value: [01:10:D2:05:8C:2E:6A:0D:EA:FD:68:FF:14:FD:00:00:00:00:00:00]
+[17:42:32:071] : 'Characteristic Value Notification' event received
+[17:42:32:071] : 	Attribute Handle: 0x000E
+[17:42:32:071] : 	Value: [01:10:FE:05:AC:7C:6A:0D:DF:FD:6A:FF:19:FD:00:00:00:00:00:00]
+[17:42:32:088] : 'Characteristic Value Notification' event received
+[17:42:32:088] : 	Attribute Handle: 0x000E
+[17:42:32:088] : 	Value: [01:10:64:05:CC:CA:6A:0D:D2:FD:6E:FF:19:FD:00:00:00:00:00:00]
+[17:42:32:115] : 'Characteristic Value Notification' event received
+[17:42:32:115] : 	Attribute Handle: 0x000E
+[17:42:32:115] : 	Value: [01:10:A6:05:EC:18:6B:0D:C3:FD:76:FF:15:FD:00:00:00:00:00:00]
+[17:42:32:132] : 'Characteristic Value Notification' event received
+[17:42:32:132] : 	Attribute Handle: 0x000E
+[17:42:32:132] : 	Value: [01:10:C6:05:0C:67:6B:0D:B5:FD:7E:FF:0C:FD:00:00:00:00:00:00]
+[17:42:32:149] : 'Characteristic Value Notification' event received
+[17:42:32:149] : 	Attribute Handle: 0x000E
+[17:42:32:149] : 	Value: [01:10:AE:05:2C:B5:6B:0D:A8:FD:86:FF:01:FD:00:00:00:00:00:00]
+[17:42:32:167] : 'Characteristic Value Notification' event received
+[17:42:32:167] : 	Attribute Handle: 0x000E
+[17:42:32:167] : 	Value: [01:10:CA:05:4C:03:6C:0D:9D:FD:8A:FF:F4:FC:00:00:00:00:00:00]
+[17:42:32:193] : 'Characteristic Value Notification' event received
+[17:42:32:193] : 	Attribute Handle: 0x000E
+[17:42:32:193] : 	Value: [01:10:E0:05:6C:51:6C:0D:94:FD:8A:FF:E8:FC:00:00:00:00:00:00]
+[17:42:32:211] : 'Characteristic Value Notification' event received
+[17:42:32:211] : 	Attribute Handle: 0x000E
+[17:42:32:211] : 	Value: [01:10:CC:05:8C:9F:6C:0D:8D:FD:8A:FF:DD:FC:00:00:00:00:00:00]
+[17:42:32:228] : 'Characteristic Value Notification' event received
+[17:42:32:228] : 	Attribute Handle: 0x000E
+[17:42:32:228] : 	Value: [01:10:EC:05:AC:ED:6C:0D:86:FD:8B:FF:D9:FC:00:00:00:00:00:00]
+[17:42:32:255] : 'Characteristic Value Notification' event received
+[17:42:32:255] : 	Attribute Handle: 0x000E
+[17:42:32:255] : 	Value: [01:10:52:05:CC:3B:6D:0D:7D:FD:8B:FF:DC:FC:00:00:00:00:00:00]
+[17:42:32:272] : 'Characteristic Value Notification' event received
+[17:42:32:272] : 	Attribute Handle: 0x000E
+[17:42:32:272] : 	Value: [01:10:4C:05:EC:89:6D:0D:73:FD:89:FF:E4:FC:00:00:00:00:00:00]
+[17:42:32:289] : 'Characteristic Value Notification' event received
+[17:42:32:289] : 	Attribute Handle: 0x000E
+[17:42:32:289] : 	Value: [01:10:8E:05:0C:D8:6D:0D:68:FD:82:FF:ED:FC:00:00:00:00:00:00]
+[17:42:32:307] : 'Characteristic Value Notification' event received
+[17:42:32:307] : 	Attribute Handle: 0x000E
+[17:42:32:307] : 	Value: [01:10:5E:05:2C:26:6E:0D:5D:FD:7C:FF:F4:FC:00:00:00:00:00:00]
+[17:42:32:333] : 'Characteristic Value Notification' event received
+[17:42:32:333] : 	Attribute Handle: 0x000E
+[17:42:32:333] : 	Value: [01:10:2C:05:4C:74:6E:0D:4F:FD:79:FF:F2:FC:00:00:00:00:00:00]
+[17:42:32:351] : 'Characteristic Value Notification' event received
+[17:42:32:351] : 	Attribute Handle: 0x000E
+[17:42:32:351] : 	Value: [01:10:BA:05:6C:C2:6E:0D:4D:FD:76:FF:F1:FC:00:00:00:00:00:00]
+[17:42:32:368] : 'Characteristic Value Notification' event received
+[17:42:32:368] : 	Attribute Handle: 0x000E
+[17:42:32:368] : 	Value: [01:10:BE:05:8C:10:6F:0D:53:FD:71:FF:DA:FC:00:00:00:00:00:00]
+[17:42:32:394] : 'Characteristic Value Notification' event received
+[17:42:32:394] : 	Attribute Handle: 0x000E
+[17:42:32:394] : 	Value: [01:10:10:05:AC:5E:6F:0D:45:FD:6C:FF:EB:FC:00:00:00:00:00:00]
+[17:42:32:412] : 'Characteristic Value Notification' event received
+[17:42:32:412] : 	Attribute Handle: 0x000E
+[17:42:32:412] : 	Value: [01:10:6E:05:CC:AC:6F:0D:1B:FD:77:FF:D5:FC:00:00:00:00:00:00]
+[17:42:32:439] : 'Characteristic Value Notification' event received
+[17:42:32:439] : 	Attribute Handle: 0x000E
+[17:42:32:439] : 	Value: [01:10:1A:05:EC:FA:6F:0D:2E:FD:77:FF:CE:FC:00:00:00:00:00:00]
+[17:42:32:447] : 'Characteristic Value Notification' event received
+[17:42:32:447] : 	Attribute Handle: 0x000E
+[17:42:32:447] : 	Value: [01:10:64:05:0C:49:70:0D:29:FD:7D:FF:C1:FC:00:00:00:00:00:00]
+[17:42:32:473] : 'Characteristic Value Notification' event received
+[17:42:32:473] : 	Attribute Handle: 0x000E
+[17:42:32:473] : 	Value: [01:10:7E:05:2C:97:70:0D:2D:FD:80:FF:AD:FC:00:00:00:00:00:00]
+[17:42:32:491] : 'Characteristic Value Notification' event received
+[17:42:32:491] : 	Attribute Handle: 0x000E
+[17:42:32:491] : 	Value: [01:10:98:05:4C:E5:70:0D:28:FD:81:FF:9C:FC:00:00:00:00:00:00]
+[17:42:32:508] : 'Characteristic Value Notification' event received
+[17:42:32:508] : 	Attribute Handle: 0x000E
+[17:42:32:508] : 	Value: [01:10:2E:05:6C:33:71:0D:26:FD:81:FF:89:FC:00:00:00:00:00:00]
+[17:42:32:534] : 'Characteristic Value Notification' event received
+[17:42:32:534] : 	Attribute Handle: 0x000E
+[17:42:32:534] : 	Value: [01:10:2A:05:8C:81:71:0D:1F:FD:85:FF:7D:FC:00:00:00:00:00:00]
+[17:42:32:552] : 'Characteristic Value Notification' event received
+[17:42:32:552] : 	Attribute Handle: 0x000E
+[17:42:32:552] : 	Value: [01:10:72:05:AC:CF:71:0D:17:FD:8B:FF:70:FC:00:00:00:00:00:00]
+[17:42:32:569] : 'Characteristic Value Notification' event received
+[17:42:32:569] : 	Attribute Handle: 0x000E
+[17:42:32:569] : 	Value: [01:10:E2:05:CC:1D:72:0D:0F:FD:8E:FF:64:FC:00:00:00:00:00:00]
+[17:42:32:587] : 'Characteristic Value Notification' event received
+[17:42:32:587] : 	Attribute Handle: 0x000E
+[17:42:32:587] : 	Value: [01:10:12:05:EC:6B:72:0D:09:FD:90:FF:57:FC:00:00:00:00:00:00]
+[17:42:32:613] : 'Characteristic Value Notification' event received
+[17:42:32:613] : 	Attribute Handle: 0x000E
+[17:42:32:613] : 	Value: [01:10:F2:05:0C:BA:72:0D:04:FD:8F:FF:4C:FC:00:00:00:00:00:00]
+[17:42:32:631] : 'Characteristic Value Notification' event received
+[17:42:32:631] : 	Attribute Handle: 0x000E
+[17:42:32:631] : 	Value: [01:10:CC:05:2C:08:73:0D:00:FD:8F:FF:42:FC:00:00:00:00:00:00]
+[17:42:32:648] : 'Characteristic Value Notification' event received
+[17:42:32:648] : 	Attribute Handle: 0x000E
+[17:42:32:648] : 	Value: [01:10:C6:05:4C:56:73:0D:FB:FC:8F:FF:3B:FC:00:00:00:00:00:00]
+[17:42:32:674] : 'Characteristic Value Notification' event received
+[17:42:32:674] : 	Attribute Handle: 0x000E
+[17:42:32:674] : 	Value: [01:10:A2:05:6C:A4:73:0D:F7:FC:8F:FF:34:FC:00:00:00:00:00:00]
+[17:42:32:692] : 'Characteristic Value Notification' event received
+[17:42:32:692] : 	Attribute Handle: 0x000E
+[17:42:32:692] : 	Value: [01:10:78:05:8C:F2:73:0D:F4:FC:91:FF:2E:FC:00:00:00:00:00:00]
+[17:42:32:709] : 'Characteristic Value Notification' event received
+[17:42:32:709] : 	Attribute Handle: 0x000E
+[17:42:32:709] : 	Value: [01:10:3A:05:AC:40:74:0D:F2:FC:91:FF:28:FC:00:00:00:00:00:00]
+[17:42:32:727] : 'Characteristic Value Notification' event received
+[17:42:32:727] : 	Attribute Handle: 0x000E
+[17:42:32:727] : 	Value: [01:10:3A:05:CC:8E:74:0D:ED:FC:92:FF:24:FC:00:00:00:00:00:00]
+[17:42:32:753] : 'Characteristic Value Notification' event received
+[17:42:32:753] : 	Attribute Handle: 0x000E
+[17:42:32:753] : 	Value: [01:10:82:05:EC:DC:74:0D:E7:FC:94:FF:21:FC:00:00:00:00:00:00]
+[17:42:32:770] : 'Characteristic Value Notification' event received
+[17:42:32:770] : 	Attribute Handle: 0x000E
+[17:42:32:770] : 	Value: [01:10:A0:05:0C:2B:75:0D:E1:FC:94:FF:21:FC:00:00:00:00:00:00]
+[17:42:32:788] : 'Characteristic Value Notification' event received
+[17:42:32:788] : 	Attribute Handle: 0x000E
+[17:42:32:788] : 	Value: [01:10:80:05:2C:79:75:0D:DC:FC:98:FF:29:FC:00:00:00:00:00:00]
+[17:42:32:814] : 'Characteristic Value Notification' event received
+[17:42:32:814] : 	Attribute Handle: 0x000E
+[17:42:32:814] : 	Value: [01:10:B2:05:4C:C7:75:0D:D9:FC:9E:FF:38:FC:00:00:00:00:00:00]
+[17:42:32:832] : 'Characteristic Value Notification' event received
+[17:42:32:832] : 	Attribute Handle: 0x000E
+[17:42:32:832] : 	Value: [01:10:20:05:6C:15:76:0D:D3:FC:9F:FF:56:FC:00:00:00:00:00:00]
+[17:42:32:849] : 'Characteristic Value Notification' event received
+[17:42:32:849] : 	Attribute Handle: 0x000E
+[17:42:32:849] : 	Value: [01:10:0E:05:8C:63:76:0D:CF:FC:96:FF:7C:FC:00:00:00:00:00:00]
+[17:42:32:867] : 'Characteristic Value Notification' event received
+[17:42:32:867] : 	Attribute Handle: 0x000E
+[17:42:32:867] : 	Value: [01:10:C6:05:AC:B1:76:0D:CF:FC:8D:FF:95:FC:00:00:00:00:00:00]
+[17:42:32:893] : 'Characteristic Value Notification' event received
+[17:42:32:893] : 	Attribute Handle: 0x000E
+[17:42:32:893] : 	Value: [01:10:B2:05:CC:FF:76:0D:CD:FC:85:FF:A0:FC:00:00:00:00:00:00]
+[17:42:32:911] : 'Characteristic Value Notification' event received
+[17:42:32:911] : 	Attribute Handle: 0x000E
+[17:42:32:911] : 	Value: [01:10:CA:05:EC:4D:77:0D:D0:FC:80:FF:A7:FC:00:00:00:00:00:00]
+[17:42:32:928] : 'Characteristic Value Notification' event received
+[17:42:32:928] : 	Attribute Handle: 0x000E
+[17:42:32:928] : 	Value: [01:10:00:05:0C:9C:77:0D:D2:FC:8A:FF:B4:FC:00:00:00:00:00:00]
+[17:42:32:954] : 'Characteristic Value Notification' event received
+[17:42:32:954] : 	Attribute Handle: 0x000E
+[17:42:32:954] : 	Value: [01:10:AC:05:2C:EA:77:0D:D6:FC:8C:FF:BC:FC:00:00:00:00:00:00]
+[17:42:32:972] : 'Characteristic Value Notification' event received
+[17:42:32:972] : 	Attribute Handle: 0x000E
+[17:42:32:972] : 	Value: [01:10:72:05:4C:38:78:0D:D6:FC:80:FF:C2:FC:00:00:00:00:00:00]
+[17:42:32:998] : 'Characteristic Value Notification' event received
+[17:42:32:998] : 	Attribute Handle: 0x000E
+[17:42:32:998] : 	Value: [01:10:36:05:6C:86:78:0D:D4:FC:6F:FF:CF:FC:00:00:00:00:00:00]
+[17:42:33:007] : 'Characteristic Value Notification' event received
+[17:42:33:007] : 	Attribute Handle: 0x000E
+[17:42:33:007] : 	Value: [01:10:AE:05:8C:D4:78:0D:D0:FC:62:FF:D8:FC:00:00:00:00:00:00]
+[17:42:33:033] : 'Characteristic Value Notification' event received
+[17:42:33:033] : 	Attribute Handle: 0x000E
+[17:42:33:033] : 	Value: [01:10:68:05:AC:22:79:0D:CB:FC:5E:FF:DD:FC:00:00:00:00:00:00]
+[17:42:33:051] : 'Characteristic Value Notification' event received
+[17:42:33:051] : 	Attribute Handle: 0x000E
+[17:42:33:051] : 	Value: [01:10:0A:05:CC:70:79:0D:C3:FC:5E:FF:E0:FC:00:00:00:00:00:00]
+[17:42:33:068] : 'Characteristic Value Notification' event received
+[17:42:33:068] : 	Attribute Handle: 0x000E
+[17:42:33:068] : 	Value: [01:10:38:05:EC:BE:79:0D:BA:FC:61:FF:E1:FC:00:00:00:00:00:00]
+[17:42:33:094] : 'Characteristic Value Notification' event received
+[17:42:33:094] : 	Attribute Handle: 0x000E
+[17:42:33:094] : 	Value: [01:10:B4:05:0C:0D:7A:0D:B2:FC:67:FF:DF:FC:00:00:00:00:00:00]
+[17:42:33:112] : 'Characteristic Value Notification' event received
+[17:42:33:112] : 	Attribute Handle: 0x000E
+[17:42:33:112] : 	Value: [01:10:10:05:2C:5B:7A:0D:A9:FC:6E:FF:D8:FC:00:00:00:00:00:00]
+[17:42:33:129] : 'Characteristic Value Notification' event received
+[17:42:33:129] : 	Attribute Handle: 0x000E
+[17:42:33:129] : 	Value: [01:10:94:05:50:A9:7A:0D:A1:FC:76:FF:D0:FC:00:00:00:00:00:00]
+[17:42:33:147] : 'Characteristic Value Notification' event received
+[17:42:33:147] : 	Attribute Handle: 0x000E
+[17:42:33:147] : 	Value: [01:10:EA:05:70:F7:7A:0D:9A:FC:7E:FF:C7:FC:00:00:00:00:00:00]
+[17:42:33:173] : 'Characteristic Value Notification' event received
+[17:42:33:173] : 	Attribute Handle: 0x000E
+[17:42:33:173] : 	Value: [01:10:0A:05:90:45:7B:0D:97:FC:83:FF:BE:FC:00:00:00:00:00:00]
+[17:42:33:190] : 'Characteristic Value Notification' event received
+[17:42:33:190] : 	Attribute Handle: 0x000E
+[17:42:33:190] : 	Value: [01:10:82:05:B0:93:7B:0D:94:FC:87:FF:BE:FC:00:00:00:00:00:00]
+[17:42:33:208] : 'Characteristic Value Notification' event received
+[17:42:33:208] : 	Attribute Handle: 0x000E
+[17:42:33:208] : 	Value: [01:10:48:05:D0:E1:7B:0D:93:FC:87:FF:BF:FC:00:00:00:00:00:00]
+[17:42:33:234] : 'Characteristic Value Notification' event received
+[17:42:33:234] : 	Attribute Handle: 0x000E
+[17:42:33:234] : 	Value: [01:10:62:05:F0:2F:7C:0D:91:FC:86:FF:C3:FC:00:00:00:00:00:00]
+[17:42:33:252] : 'Characteristic Value Notification' event received
+[17:42:33:252] : 	Attribute Handle: 0x000E
+[17:42:33:252] : 	Value: [01:10:BE:05:10:7E:7C:0D:8E:FC:82:FF:CC:FC:00:00:00:00:00:00]
+[17:42:33:269] : 'Characteristic Value Notification' event received
+[17:42:33:269] : 	Attribute Handle: 0x000E
+[17:42:33:269] : 	Value: [01:10:FC:05:30:CC:7C:0D:8B:FC:7B:FF:D2:FC:00:00:00:00:00:00]
+[17:42:33:287] : 'Characteristic Value Notification' event received
+[17:42:33:287] : 	Attribute Handle: 0x000E
+[17:42:33:287] : 	Value: [01:10:42:05:50:1A:7D:0D:88:FC:73:FF:DA:FC:00:00:00:00:00:00]
+[17:42:33:313] : 'Characteristic Value Notification' event received
+[17:42:33:313] : 	Attribute Handle: 0x000E
+[17:42:33:313] : 	Value: [01:10:AC:05:70:68:7D:0D:81:FC:6D:FF:E0:FC:00:00:00:00:00:00]
+[17:42:33:331] : 'Characteristic Value Notification' event received
+[17:42:33:331] : 	Attribute Handle: 0x000E
+[17:42:33:331] : 	Value: [01:10:BE:05:90:B6:7D:0D:7C:FC:5B:FF:F6:FC:00:00:00:00:00:00]
+[17:42:33:348] : 'Characteristic Value Notification' event received
+[17:42:33:348] : 	Attribute Handle: 0x000E
+[17:42:33:348] : 	Value: [01:10:44:05:B0:04:7E:0D:8A:FC:31:FF:E5:FC:00:00:00:00:00:00]
+[17:42:33:374] : 'Characteristic Value Notification' event received
+[17:42:33:374] : 	Attribute Handle: 0x000E
+[17:42:33:374] : 	Value: [01:10:30:05:D0:52:7E:0D:79:FC:34:FF:D3:FC:00:00:00:00:00:00]
+[17:42:33:392] : 'Characteristic Value Notification' event received
+[17:42:33:392] : 	Attribute Handle: 0x000E
+[17:42:33:392] : 	Value: [01:10:A8:05:F0:A0:7E:0D:7B:FC:42:FF:B4:FC:00:00:00:00:00:00]
+[17:42:33:410] : 'Characteristic Value Notification' event received
+[17:42:33:410] : 	Attribute Handle: 0x000E
+[17:42:33:410] : 	Value: [01:10:10:05:10:EF:7E:0D:7C:FC:45:FF:A9:FC:00:00:00:00:00:00]
+[17:42:33:436] : 'Characteristic Value Notification' event received
+[17:42:33:436] : 	Attribute Handle: 0x000E
+[17:42:33:436] : 	Value: [01:10:74:05:30:3D:7F:0D:75:FC:52:FF:9A:FC:00:00:00:00:00:00]
+[17:42:33:453] : 'Characteristic Value Notification' event received
+[17:42:33:453] : 	Attribute Handle: 0x000E
+[17:42:33:453] : 	Value: [01:10:86:05:50:8B:7F:0D:6F:FC:58:FF:8A:FC:00:00:00:00:00:00]
+[17:42:33:471] : 'Characteristic Value Notification' event received
+[17:42:33:471] : 	Attribute Handle: 0x000E
+[17:42:33:471] : 	Value: [01:10:A6:05:70:D9:7F:0D:66:FC:60:FF:7D:FC:00:00:00:00:00:00]
+[17:42:33:488] : 'Characteristic Value Notification' event received
+[17:42:33:488] : 	Attribute Handle: 0x000E
+[17:42:33:488] : 	Value: [01:10:6E:05:90:27:80:0D:60:FC:6A:FF:6E:FC:00:00:00:00:00:00]
+[17:42:33:514] : 'Characteristic Value Notification' event received
+[17:42:33:514] : 	Attribute Handle: 0x000E
+[17:42:33:514] : 	Value: [01:10:CE:05:B0:75:80:0D:5B:FC:75:FF:60:FC:00:00:00:00:00:00]
+[17:42:33:532] : 'Characteristic Value Notification' event received
+[17:42:33:532] : 	Attribute Handle: 0x000E
+[17:42:33:532] : 	Value: [01:10:AE:05:D0:C3:80:0D:57:FC:7C:FF:59:FC:00:00:00:00:00:00]
+[17:42:33:549] : 'Characteristic Value Notification' event received
+[17:42:33:549] : 	Attribute Handle: 0x000E
+[17:42:33:549] : 	Value: [01:10:68:05:F0:11:81:0D:54:FC:80:FF:58:FC:00:00:00:00:00:00]
+[17:42:33:567] : 'Characteristic Value Notification' event received
+[17:42:33:567] : 	Attribute Handle: 0x000E
+[17:42:33:567] : 	Value: [01:10:52:05:10:60:81:0D:53:FC:84:FF:58:FC:00:00:00:00:00:00]
+[17:42:33:593] : 'Characteristic Value Notification' event received
+[17:42:33:593] : 	Attribute Handle: 0x000E
+[17:42:33:593] : 	Value: [01:10:DC:05:30:AE:81:0D:53:FC:85:FF:56:FC:00:00:00:00:00:00]
+[17:42:33:611] : 'Characteristic Value Notification' event received
+[17:42:33:611] : 	Attribute Handle: 0x000E
+[17:42:33:611] : 	Value: [01:10:8C:05:50:FC:81:0D:54:FC:83:FF:52:FC:00:00:00:00:00:00]
+[17:42:33:628] : 'Characteristic Value Notification' event received
+[17:42:33:628] : 	Attribute Handle: 0x000E
+[17:42:33:628] : 	Value: [01:10:7C:05:70:4A:82:0D:5A:FC:80:FF:4E:FC:00:00:00:00:00:00]
+[17:42:33:654] : 'Characteristic Value Notification' event received
+[17:42:33:654] : 	Attribute Handle: 0x000E
+[17:42:33:654] : 	Value: [01:10:92:05:90:98:82:0D:61:FC:7C:FF:47:FC:00:00:00:00:00:00]
+[17:42:33:672] : 'Characteristic Value Notification' event received
+[17:42:33:672] : 	Attribute Handle: 0x000E
+[17:42:33:672] : 	Value: [01:10:1A:05:B0:E6:82:0D:69:FC:77:FF:3F:FC:00:00:00:00:00:00]
+[17:42:33:689] : 'Characteristic Value Notification' event received
+[17:42:33:689] : 	Attribute Handle: 0x000E
+[17:42:33:689] : 	Value: [01:10:42:05:D0:34:83:0D:6C:FC:73:FF:35:FC:00:00:00:00:00:00]
+[17:42:33:707] : 'Characteristic Value Notification' event received
+[17:42:33:707] : 	Attribute Handle: 0x000E
+[17:42:33:707] : 	Value: [01:10:B6:05:F0:82:83:0D:6E:FC:71:FF:2A:FC:00:00:00:00:00:00]
+[17:42:33:733] : 'Characteristic Value Notification' event received
+[17:42:33:733] : 	Attribute Handle: 0x000E
+[17:42:33:733] : 	Value: [01:10:8A:05:10:D1:83:0D:6C:FC:6F:FF:1E:FC:00:00:00:00:00:00]
+[17:42:33:750] : 'Characteristic Value Notification' event received
+[17:42:33:750] : 	Attribute Handle: 0x000E
+[17:42:33:750] : 	Value: [01:10:70:05:30:1F:84:0D:68:FC:6D:FF:12:FC:00:00:00:00:00:00]
+[17:42:33:768] : 'Characteristic Value Notification' event received
+[17:42:33:768] : 	Attribute Handle: 0x000E
+[17:42:33:768] : 	Value: [01:10:4E:05:50:6D:84:0D:61:FC:67:FF:06:FC:00:00:00:00:00:00]
+[17:42:33:795] : 'Characteristic Value Notification' event received
+[17:42:33:795] : 	Attribute Handle: 0x000E
+[17:42:33:795] : 	Value: [01:10:52:05:70:BB:84:0D:59:FC:63:FF:FB:FB:00:00:00:00:00:00]
+[17:42:33:821] : 'Characteristic Value Notification' event received
+[17:42:33:821] : 	Attribute Handle: 0x000E
+[17:42:33:821] : 	Value: [01:10:FC:05:90:09:85:0D:51:FC:60:FF:F3:FB:00:00:00:00:00:00]
+[17:42:33:829] : 'Characteristic Value Notification' event received
+[17:42:33:829] : 	Attribute Handle: 0x000E
+[17:42:33:829] : 	Value: [01:10:A2:05:B0:57:85:0D:4B:FC:62:FF:EC:FB:00:00:00:00:00:00]
+[17:42:33:847] : 'Characteristic Value Notification' event received
+[17:42:33:847] : 	Attribute Handle: 0x000E
+[17:42:33:847] : 	Value: [01:10:38:05:D0:A5:85:0D:49:FC:68:FF:E8:FB:00:00:00:00:00:00]
+[17:42:33:873] : 'Characteristic Value Notification' event received
+[17:42:33:873] : 	Attribute Handle: 0x000E
+[17:42:33:873] : 	Value: [01:10:B0:05:F0:F3:85:0D:4D:FC:70:FF:E3:FB:00:00:00:00:00:00]
+[17:42:33:891] : 'Characteristic Value Notification' event received
+[17:42:33:891] : 	Attribute Handle: 0x000E
+[17:42:33:891] : 	Value: [01:10:4C:05:10:42:86:0D:53:FC:77:FF:DE:FB:00:00:00:00:00:00]
+[17:42:33:908] : 'Characteristic Value Notification' event received
+[17:42:33:908] : 	Attribute Handle: 0x000E
+[17:42:33:908] : 	Value: [01:10:92:05:30:90:86:0D:59:FC:7F:FF:DF:FB:00:00:00:00:00:00]
+[17:42:33:934] : 'Characteristic Value Notification' event received
+[17:42:33:934] : 	Attribute Handle: 0x000E
+[17:42:33:934] : 	Value: [01:10:AA:05:50:DE:86:0D:61:FC:85:FF:E5:FB:00:00:00:00:00:00]
+[17:42:33:952] : 'Characteristic Value Notification' event received
+[17:42:33:952] : 	Attribute Handle: 0x000E
+[17:42:33:952] : 	Value: [01:10:00:05:70:2C:87:0D:65:FC:8A:FF:EE:FB:00:00:00:00:00:00]
+[17:42:33:969] : 'Characteristic Value Notification' event received
+[17:42:33:969] : 	Attribute Handle: 0x000E
+[17:42:33:969] : 	Value: [01:10:D6:05:90:7A:87:0D:67:FC:8F:FF:FB:FB:00:00:00:00:00:00]
+[17:42:33:987] : 'Characteristic Value Notification' event received
+[17:42:33:987] : 	Attribute Handle: 0x000E
+[17:42:33:987] : 	Value: [01:10:28:05:B0:C8:87:0D:69:FC:94:FF:0E:FC:00:00:00:00:00:00]
+[17:42:34:013] : 'Characteristic Value Notification' event received
+[17:42:34:013] : 	Attribute Handle: 0x000E
+[17:42:34:013] : 	Value: [01:10:1C:05:D0:16:88:0D:6F:FC:99:FF:28:FC:00:00:00:00:00:00]
+[17:42:34:031] : 'Characteristic Value Notification' event received
+[17:42:34:031] : 	Attribute Handle: 0x000E
+[17:42:34:031] : 	Value: [01:10:4C:05:F0:64:88:0D:74:FC:97:FF:41:FC:00:00:00:00:00:00]
+[17:42:34:048] : 'Characteristic Value Notification' event received
+[17:42:34:048] : 	Attribute Handle: 0x000E
+[17:42:34:048] : 	Value: [01:10:FA:05:10:B3:88:0D:79:FC:92:FF:5C:FC:00:00:00:00:00:00]
+[17:42:34:074] : 'Characteristic Value Notification' event received
+[17:42:34:074] : 	Attribute Handle: 0x000E
+[17:42:34:074] : 	Value: [01:10:7E:05:30:01:89:0D:78:FC:8B:FF:74:FC:00:00:00:00:00:00]
+[17:42:34:092] : 'Characteristic Value Notification' event received
+[17:42:34:092] : 	Attribute Handle: 0x000E
+[17:42:34:092] : 	Value: [01:10:C0:05:50:4F:89:0D:77:FC:87:FF:8D:FC:00:00:00:00:00:00]
+[17:42:34:109] : 'Characteristic Value Notification' event received
+[17:42:34:109] : 	Attribute Handle: 0x000E
+[17:42:34:109] : 	Value: [01:10:72:05:70:9D:89:0D:76:FC:85:FF:A4:FC:00:00:00:00:00:00]
+[17:42:34:127] : 'Characteristic Value Notification' event received
+[17:42:34:127] : 	Attribute Handle: 0x000E
+[17:42:34:127] : 	Value: [01:10:A4:05:90:EB:89:0D:70:FC:84:FF:B7:FC:00:00:00:00:00:00]
+[17:42:34:153] : 'Characteristic Value Notification' event received
+[17:42:34:153] : 	Attribute Handle: 0x000E
+[17:42:34:153] : 	Value: [01:10:CA:05:B0:39:8A:0D:69:FC:85:FF:C7:FC:00:00:00:00:00:00]
+[17:42:34:170] : 'Characteristic Value Notification' event received
+[17:42:34:170] : 	Attribute Handle: 0x000E
+[17:42:34:170] : 	Value: [01:10:FE:05:D0:87:8A:0D:66:FC:88:FF:D5:FC:00:00:00:00:00:00]
+[17:42:34:188] : 'Characteristic Value Notification' event received
+[17:42:34:188] : 	Attribute Handle: 0x000E
+[17:42:34:188] : 	Value: [01:10:02:05:F0:D5:8A:0D:64:FC:8D:FF:DF:FC:00:00:00:00:00:00]
+[17:42:34:214] : 'Characteristic Value Notification' event received
+[17:42:34:214] : 	Attribute Handle: 0x000E
+[17:42:34:214] : 	Value: [01:10:B0:05:10:24:8B:0D:62:FC:91:FF:E6:FC:00:00:00:00:00:00]
+[17:42:34:232] : 'Characteristic Value Notification' event received
+[17:42:34:232] : 	Attribute Handle: 0x000E
+[17:42:34:232] : 	Value: [01:10:12:05:30:72:8B:0D:61:FC:94:FF:EC:FC:00:00:00:00:00:00]
+[17:42:34:249] : 'Characteristic Value Notification' event received
+[17:42:34:249] : 	Attribute Handle: 0x000E
+[17:42:34:249] : 	Value: [01:10:54:05:50:C0:8B:0D:60:FC:97:FF:EE:FC:00:00:00:00:00:00]
+[17:42:34:267] : 'Characteristic Value Notification' event received
+[17:42:34:267] : 	Attribute Handle: 0x000E
+[17:42:34:267] : 	Value: [01:10:6A:05:70:0E:8C:0D:61:FC:9B:FF:EE:FC:00:00:00:00:00:00]
+[17:42:34:293] : 'Characteristic Value Notification' event received
+[17:42:34:293] : 	Attribute Handle: 0x000E
+[17:42:34:293] : 	Value: [01:10:06:05:90:5C:8C:0D:61:FC:9F:FF:EA:FC:00:00:00:00:00:00]
+[17:42:34:311] : 'Characteristic Value Notification' event received
+[17:42:34:311] : 	Attribute Handle: 0x000E
+[17:42:34:311] : 	Value: [01:10:96:05:B0:AA:8C:0D:5F:FC:A2:FF:E2:FC:00:00:00:00:00:00]
+[17:42:34:328] : 'Characteristic Value Notification' event received
+[17:42:34:328] : 	Attribute Handle: 0x000E
+[17:42:34:328] : 	Value: [01:10:B4:05:D0:F8:8C:0D:5D:FC:A3:FF:D8:FC:00:00:00:00:00:00]
+[17:42:34:354] : 'Characteristic Value Notification' event received
+[17:42:34:354] : 	Attribute Handle: 0x000E
+[17:42:34:354] : 	Value: [01:10:A4:05:F0:46:8D:0D:5A:FC:A2:FF:CF:FC:00:00:00:00:00:00]
+[17:42:34:372] : 'Characteristic Value Notification' event received
+[17:42:34:372] : 	Attribute Handle: 0x000E
+[17:42:34:372] : 	Value: [01:10:AE:05:10:95:8D:0D:53:FC:A4:FF:C7:FC:00:00:00:00:00:00]
+[17:42:34:390] : 'Characteristic Value Notification' event received
+[17:42:34:390] : 	Attribute Handle: 0x000E
+[17:42:34:390] : 	Value: [01:10:DE:05:30:E3:8D:0D:4B:FC:A5:FF:C3:FC:00:00:00:00:00:00]
+[17:42:34:407] : 'Characteristic Value Notification' event received
+[17:42:34:407] : 	Attribute Handle: 0x000E
+[17:42:34:407] : 	Value: [01:10:AC:05:50:31:8E:0D:3F:FC:A4:FF:C4:FC:00:00:00:00:00:00]
+[17:42:34:433] : 'Characteristic Value Notification' event received
+[17:42:34:433] : 	Attribute Handle: 0x000E
+[17:42:34:433] : 	Value: [01:10:C4:05:70:7F:8E:0D:2E:FC:A3:FF:CB:FC:00:00:00:00:00:00]
+[17:42:34:459] : 'Characteristic Value Notification' event received
+[17:42:34:459] : 	Attribute Handle: 0x000E
+[17:42:34:459] : 	Value: [01:10:18:05:90:CD:8E:0D:1E:FC:A3:FF:D6:FC:00:00:00:00:00:00]
+[17:42:34:468] : 'Characteristic Value Notification' event received
+[17:42:34:468] : 	Attribute Handle: 0x000E
+[17:42:34:468] : 	Value: [01:10:F2:05:B0:1B:8F:0D:12:FC:A7:FF:EB:FC:00:00:00:00:00:00]
+[17:42:34:494] : 'Characteristic Value Notification' event received
+[17:42:34:494] : 	Attribute Handle: 0x000E
+[17:42:34:494] : 	Value: [01:10:AE:05:D0:69:8F:0D:03:FC:9F:FF:1C:FD:00:00:00:00:00:00]
+[17:42:34:512] : 'Characteristic Value Notification' event received
+[17:42:34:512] : 	Attribute Handle: 0x000E
+[17:42:34:512] : 	Value: [01:10:D8:05:F0:B7:8F:0D:08:FC:62:FF:55:FD:00:00:00:00:00:00]
+[17:42:34:529] : 'Characteristic Value Notification' event received
+[17:42:34:529] : 	Attribute Handle: 0x000E
+[17:42:34:529] : 	Value: [01:10:74:05:10:06:90:0D:FE:FB:69:FF:32:FD:00:00:00:00:00:00]
+[17:42:34:547] : 'Characteristic Value Notification' event received
+[17:42:34:547] : 	Attribute Handle: 0x000E
+[17:42:34:547] : 	Value: [01:10:5C:05:30:54:90:0D:01:FC:80:FF:FE:FC:00:00:00:00:00:00]
+[17:42:34:573] : 'Characteristic Value Notification' event received
+[17:42:34:573] : 	Attribute Handle: 0x000E
+[17:42:34:573] : 	Value: [01:10:96:05:50:A2:90:0D:21:FC:74:FF:FB:FC:00:00:00:00:00:00]
+[17:42:34:591] : 'Characteristic Value Notification' event received
+[17:42:34:591] : 	Attribute Handle: 0x000E
+[17:42:34:591] : 	Value: [01:10:08:05:70:F0:90:0D:17:FC:7F:FF:E6:FC:00:00:00:00:00:00]
+[17:42:34:608] : 'Characteristic Value Notification' event received
+[17:42:34:608] : 	Attribute Handle: 0x000E
+[17:42:34:608] : 	Value: [01:10:18:05:90:3E:91:0D:1A:FC:7F:FF:DC:FC:00:00:00:00:00:00]
+[17:42:34:635] : 'Characteristic Value Notification' event received
+[17:42:34:635] : 	Attribute Handle: 0x000E
+[17:42:34:635] : 	Value: [01:10:28:05:B0:8C:91:0D:19:FC:7E:FF:CE:FC:00:00:00:00:00:00]
+[17:42:34:652] : 'Characteristic Value Notification' event received
+[17:42:34:652] : 	Attribute Handle: 0x000E
+[17:42:34:652] : 	Value: [01:10:98:05:D0:DA:91:0D:1A:FC:77:FF:C2:FC:00:00:00:00:00:00]
+[17:42:34:669] : 'Characteristic Value Notification' event received
+[17:42:34:669] : 	Attribute Handle: 0x000E
+[17:42:34:669] : 	Value: [01:10:48:05:F0:28:92:0D:17:FC:70:FF:B5:FC:00:00:00:00:00:00]
+[17:42:34:687] : 'Characteristic Value Notification' event received
+[17:42:34:687] : 	Attribute Handle: 0x000E
+[17:42:34:687] : 	Value: [01:10:0A:05:10:77:92:0D:14:FC:6C:FF:AA:FC:00:00:00:00:00:00]
+[17:42:34:713] : 'Characteristic Value Notification' event received
+[17:42:34:713] : 	Attribute Handle: 0x000E
+[17:42:34:713] : 	Value: [01:10:BE:05:30:C5:92:0D:12:FC:6B:FF:A0:FC:00:00:00:00:00:00]
+[17:42:34:730] : 'Characteristic Value Notification' event received
+[17:42:34:730] : 	Attribute Handle: 0x000E
+[17:42:34:730] : 	Value: [01:10:AA:05:50:13:93:0D:0D:FC:6B:FF:95:FC:00:00:00:00:00:00]
+[17:42:34:748] : 'Characteristic Value Notification' event received
+[17:42:34:748] : 	Attribute Handle: 0x000E
+[17:42:34:748] : 	Value: [01:10:34:05:70:61:93:0D:09:FC:6C:FF:8A:FC:00:00:00:00:00:00]
+[17:42:34:774] : 'Characteristic Value Notification' event received
+[17:42:34:774] : 	Attribute Handle: 0x000E
+[17:42:34:774] : 	Value: [01:10:7C:05:90:AF:93:0D:05:FC:6D:FF:80:FC:00:00:00:00:00:00]
+[17:42:34:792] : 'Characteristic Value Notification' event received
+[17:42:34:792] : 	Attribute Handle: 0x000E
+[17:42:34:792] : 	Value: [01:10:D2:05:B0:FD:93:0D:00:FC:6E:FF:75:FC:00:00:00:00:00:00]
+[17:42:34:810] : 'Characteristic Value Notification' event received
+[17:42:34:810] : 	Attribute Handle: 0x000E
+[17:42:34:810] : 	Value: [01:10:86:05:D0:4B:94:0D:FC:FB:6E:FF:6B:FC:00:00:00:00:00:00]
+[17:42:34:827] : 'Characteristic Value Notification' event received
+[17:42:34:827] : 	Attribute Handle: 0x000E
+[17:42:34:827] : 	Value: [01:10:70:05:F0:99:94:0D:F9:FB:6F:FF:65:FC:00:00:00:00:00:00]
+[17:42:34:853] : 'Characteristic Value Notification' event received
+[17:42:34:853] : 	Attribute Handle: 0x000E
+[17:42:34:853] : 	Value: [01:10:52:05:10:E8:94:0D:F6:FB:6E:FF:62:FC:00:00:00:00:00:00]
+[17:42:34:871] : 'Characteristic Value Notification' event received
+[17:42:34:871] : 	Attribute Handle: 0x000E
+[17:42:34:871] : 	Value: [01:10:50:05:30:36:95:0D:F3:FB:6B:FF:5F:FC:00:00:00:00:00:00]
+[17:42:34:888] : 'Characteristic Value Notification' event received
+[17:42:34:888] : 	Attribute Handle: 0x000E
+[17:42:34:888] : 	Value: [01:10:CE:05:50:84:95:0D:F0:FB:68:FF:5F:FC:00:00:00:00:00:00]
+[17:42:34:914] : 'Characteristic Value Notification' event received
+[17:42:34:914] : 	Attribute Handle: 0x000E
+[17:42:34:914] : 	Value: [01:10:BC:05:70:D2:95:0D:EA:FB:65:FF:64:FC:00:00:00:00:00:00]
+[17:42:34:932] : 'Characteristic Value Notification' event received
+[17:42:34:932] : 	Attribute Handle: 0x000E
+[17:42:34:932] : 	Value: [01:10:3E:05:90:20:96:0D:E1:FB:62:FF:70:FC:00:00:00:00:00:00]
+[17:42:34:949] : 'Characteristic Value Notification' event received
+[17:42:34:949] : 	Attribute Handle: 0x000E
+[17:42:34:949] : 	Value: [01:10:6A:05:B0:6E:96:0D:D7:FB:61:FF:7F:FC:00:00:00:00:00:00]
+[17:42:34:967] : 'Characteristic Value Notification' event received
+[17:42:34:967] : 	Attribute Handle: 0x000E
+[17:42:34:967] : 	Value: [01:10:B4:05:D0:BC:96:0D:CA:FB:67:FF:92:FC:00:00:00:00:00:00]
+[17:42:34:993] : 'Characteristic Value Notification' event received
+[17:42:34:993] : 	Attribute Handle: 0x000E
+[17:42:34:993] : 	Value: [01:10:FA:05:F0:0A:97:0D:BC:FB:6F:FF:A3:FC:00:00:00:00:00:00]
+[17:42:35:011] : 'Characteristic Value Notification' event received
+[17:42:35:011] : 	Attribute Handle: 0x000E
+[17:42:35:011] : 	Value: [01:10:40:05:10:59:97:0D:B2:FB:77:FF:AD:FC:00:00:00:00:00:00]
+[17:42:35:028] : 'Characteristic Value Notification' event received
+[17:42:35:028] : 	Attribute Handle: 0x000E
+[17:42:35:028] : 	Value: [01:10:68:05:30:A7:97:0D:A8:FB:77:FF:B8:FC:00:00:00:00:00:00]
+[17:42:35:054] : 'Characteristic Value Notification' event received
+[17:42:35:054] : 	Attribute Handle: 0x000E
+[17:42:35:054] : 	Value: [01:10:D8:05:54:F5:97:0D:9B:FB:72:FF:C2:FC:00:00:00:00:00:00]
+[17:42:35:072] : 'Characteristic Value Notification' event received
+[17:42:35:072] : 	Attribute Handle: 0x000E
+[17:42:35:072] : 	Value: [01:10:F0:05:74:43:98:0D:88:FB:6C:FF:CF:FC:00:00:00:00:00:00]
+[17:42:35:089] : 'Characteristic Value Notification' event received
+[17:42:35:089] : 	Attribute Handle: 0x000E
+[17:42:35:089] : 	Value: [01:10:56:05:94:91:98:0D:73:FB:69:FF:DA:FC:00:00:00:00:00:00]
+[17:42:35:107] : 'Characteristic Value Notification' event received
+[17:42:35:107] : 	Attribute Handle: 0x000E
+[17:42:35:107] : 	Value: [01:10:CC:05:B4:DF:98:0D:5E:FB:67:FF:E3:FC:00:00:00:00:00:00]
+[17:42:35:142] : 'Characteristic Value Notification' event received
+[17:42:35:142] : 	Attribute Handle: 0x000E
+[17:42:35:142] : 	Value: [01:10:74:05:D4:2D:99:0D:4A:FB:68:FF:EF:FC:00:00:00:00:00:00]
+[17:42:35:150] : 'Characteristic Value Notification' event received
+[17:42:35:150] : 	Attribute Handle: 0x000E
+[17:42:35:150] : 	Value: [01:10:D4:05:F4:7B:99:0D:35:FB:6C:FF:FD:FC:00:00:00:00:00:00]
+[17:42:35:168] : 'Characteristic Value Notification' event received
+[17:42:35:168] : 	Attribute Handle: 0x000E
+[17:42:35:168] : 	Value: [01:10:FC:05:14:CA:99:0D:1E:FB:6D:FF:0B:FD:00:00:00:00:00:00]
+[17:42:35:194] : 'Characteristic Value Notification' event received
+[17:42:35:194] : 	Attribute Handle: 0x000E
+[17:42:35:194] : 	Value: [01:10:2A:05:34:18:9A:0D:06:FB:6D:FF:1A:FD:00:00:00:00:00:00]
+[17:42:35:212] : 'Characteristic Value Notification' event received
+[17:42:35:212] : 	Attribute Handle: 0x000E
+[17:42:35:212] : 	Value: [01:10:38:05:54:66:9A:0D:EF:FA:6C:FF:26:FD:00:00:00:00:00:00]
+[17:42:35:229] : 'Characteristic Value Notification' event received
+[17:42:35:229] : 	Attribute Handle: 0x000E
+[17:42:35:229] : 	Value: [01:10:A6:05:74:B4:9A:0D:DA:FA:6D:FF:2E:FD:00:00:00:00:00:00]
+[17:42:35:247] : 'Characteristic Value Notification' event received
+[17:42:35:247] : 	Attribute Handle: 0x000E
+[17:42:35:247] : 	Value: [01:10:E8:05:94:02:9B:0D:C2:FA:70:FF:32:FD:00:00:00:00:00:00]
+[17:42:35:273] : 'Characteristic Value Notification' event received
+[17:42:35:273] : 	Attribute Handle: 0x000E
+[17:42:35:273] : 	Value: [01:10:26:05:B4:50:9B:0D:A8:FA:75:FF:35:FD:00:00:00:00:00:00]
+[17:42:35:291] : 'Characteristic Value Notification' event received
+[17:42:35:291] : 	Attribute Handle: 0x000E
+[17:42:35:291] : 	Value: [01:10:2A:05:D4:9E:9B:0D:8B:FA:7B:FF:37:FD:00:00:00:00:00:00]
+[17:42:35:308] : 'Characteristic Value Notification' event received
+[17:42:35:308] : 	Attribute Handle: 0x000E
+[17:42:35:308] : 	Value: [01:10:94:05:F4:EC:9B:0D:6E:FA:82:FF:36:FD:00:00:00:00:00:00]
+[17:42:35:334] : 'Characteristic Value Notification' event received
+[17:42:35:334] : 	Attribute Handle: 0x000E
+[17:42:35:334] : 	Value: [01:10:D0:05:14:3B:9C:0D:52:FA:8A:FF:35:FD:00:00:00:00:00:00]
+[17:42:35:352] : 'Characteristic Value Notification' event received
+[17:42:35:352] : 	Attribute Handle: 0x000E
+[17:42:35:352] : 	Value: [01:10:F8:05:34:89:9C:0D:37:FA:94:FF:31:FD:00:00:00:00:00:00]
+[17:42:35:369] : 'Characteristic Value Notification' event received
+[17:42:35:369] : 	Attribute Handle: 0x000E
+[17:42:35:369] : 	Value: [01:10:5A:05:54:D7:9C:0D:1D:FA:9D:FF:2A:FD:00:00:00:00:00:00]
+[17:42:35:387] : 'Characteristic Value Notification' event received
+[17:42:35:387] : 	Attribute Handle: 0x000E
+[17:42:35:387] : 	Value: [01:10:7E:05:74:25:9D:0D:04:FA:A5:FF:24:FD:00:00:00:00:00:00]
+[17:42:35:413] : 'Characteristic Value Notification' event received
+[17:42:35:413] : 	Attribute Handle: 0x000E
+[17:42:35:413] : 	Value: [01:10:E0:05:94:73:9D:0D:EC:F9:AC:FF:1E:FD:00:00:00:00:00:00]
+[17:42:35:431] : 'Characteristic Value Notification' event received
+[17:42:35:431] : 	Attribute Handle: 0x000E
+[17:42:35:431] : 	Value: [01:10:D4:05:B4:C1:9D:0D:D3:F9:B3:FF:1A:FD:00:00:00:00:00:00]
+[17:42:35:448] : 'Characteristic Value Notification' event received
+[17:42:35:448] : 	Attribute Handle: 0x000E
+[17:42:35:448] : 	Value: [01:10:0E:05:D4:0F:9E:0D:BB:F9:B9:FF:16:FD:00:00:00:00:00:00]
+[17:42:35:474] : 'Characteristic Value Notification' event received
+[17:42:35:474] : 	Attribute Handle: 0x000E
+[17:42:35:474] : 	Value: [01:10:D6:05:F4:5D:9E:0D:A3:F9:BE:FF:16:FD:00:00:00:00:00:00]
+[17:42:35:492] : 'Characteristic Value Notification' event received
+[17:42:35:492] : 	Attribute Handle: 0x000E
+[17:42:35:492] : 	Value: [01:10:FE:05:14:AC:9E:0D:8C:F9:C1:FF:17:FD:00:00:00:00:00:00]
+[17:42:35:509] : 'Characteristic Value Notification' event received
+[17:42:35:509] : 	Attribute Handle: 0x000E
+[17:42:35:509] : 	Value: [01:10:A4:05:34:FA:9E:0D:75:F9:C3:FF:1B:FD:00:00:00:00:00:00]
+[17:42:35:527] : 'Characteristic Value Notification' event received
+[17:42:35:527] : 	Attribute Handle: 0x000E
+[17:42:35:527] : 	Value: [01:10:92:05:54:48:9F:0D:5D:F9:C4:FF:1C:FD:00:00:00:00:00:00]
+[17:42:35:553] : 'Characteristic Value Notification' event received
+[17:42:35:553] : 	Attribute Handle: 0x000E
+[17:42:35:553] : 	Value: [01:10:A8:05:74:96:9F:0D:44:F9:C3:FF:1A:FD:00:00:00:00:00:00]
+[17:42:35:570] : 'Characteristic Value Notification' event received
+[17:42:35:570] : 	Attribute Handle: 0x000E
+[17:42:35:570] : 	Value: [01:10:DC:05:94:E4:9F:0D:2A:F9:C2:FF:19:FD:00:00:00:00:00:00]
+[17:42:35:588] : 'Characteristic Value Notification' event received
+[17:42:35:588] : 	Attribute Handle: 0x000E
+[17:42:35:588] : 	Value: [01:10:52:05:B4:32:A0:0D:0F:F9:C1:FF:19:FD:00:00:00:00:00:00]
+[17:42:35:623] : 'Characteristic Value Notification' event received
+[17:42:35:623] : 	Attribute Handle: 0x000E
+[17:42:35:623] : 	Value: [01:10:56:05:D4:80:A0:0D:02:07:BF:FF:20:FD:00:00:00:00:00:00]
+[17:42:35:632] : 'Characteristic Value Notification' event received
+[17:42:35:632] : 	Attribute Handle: 0x000E
+[17:42:35:632] : 	Value: [01:10:B8:05:F4:CE:A0:0D:E7:06:BA:FF:27:FD:00:00:00:00:00:00]
+[17:42:35:649] : 'Characteristic Value Notification' event received
+[17:42:35:649] : 	Attribute Handle: 0x000E
+[17:42:35:649] : 	Value: [01:10:D4:05:14:1D:A1:0D:D1:06:B4:FF:2A:FD:00:00:00:00:00:00]
+[17:42:35:667] : 'Characteristic Value Notification' event received
+[17:42:35:667] : 	Attribute Handle: 0x000E
+[17:42:35:667] : 	Value: [01:10:2C:05:34:6B:A1:0D:C1:06:AB:FF:2B:FD:00:00:00:00:00:00]
+[17:42:35:693] : 'Characteristic Value Notification' event received
+[17:42:35:693] : 	Attribute Handle: 0x000E
+[17:42:35:693] : 	Value: [01:10:8C:05:54:B9:A1:0D:B0:06:A4:FF:20:FD:00:00:00:00:00:00]
+[17:42:35:711] : 'Characteristic Value Notification' event received
+[17:42:35:711] : 	Attribute Handle: 0x000E
+[17:42:35:711] : 	Value: [01:10:64:05:74:07:A2:0D:A1:06:A3:FF:0A:FD:00:00:00:00:00:00]
+[17:42:35:728] : 'Characteristic Value Notification' event received
+[17:42:35:728] : 	Attribute Handle: 0x000E
+[17:42:35:728] : 	Value: [01:10:14:05:94:55:A2:0D:A1:06:98:FF:1B:FD:00:00:00:00:00:00]
+[17:42:35:754] : 'Characteristic Value Notification' event received
+[17:42:35:754] : 	Attribute Handle: 0x000E
+[17:42:35:754] : 	Value: [01:10:D6:05:B4:A3:A2:0D:88:06:8E:FF:1F:FD:00:00:00:00:00:00]
+[17:42:35:772] : 'Characteristic Value Notification' event received
+[17:42:35:772] : 	Attribute Handle: 0x000E
+[17:42:35:772] : 	Value: [01:10:32:05:D4:F1:A2:0D:6F:06:8F:FF:14:FD:00:00:00:00:00:00]
+[17:42:35:790] : 'Characteristic Value Notification' event received
+[17:42:35:790] : 	Attribute Handle: 0x000E
+[17:42:35:790] : 	Value: [01:10:A2:05:F4:3F:A3:0D:6A:06:8C:FF:19:FD:00:00:00:00:00:00]
+[17:42:35:807] : 'Characteristic Value Notification' event received
+[17:42:35:807] : 	Attribute Handle: 0x000E
+[17:42:35:807] : 	Value: [01:10:AA:05:14:8E:A3:0D:62:06:86:FF:16:FD:00:00:00:00:00:00]
+[17:42:35:833] : 'Characteristic Value Notification' event received
+[17:42:35:833] : 	Attribute Handle: 0x000E
+[17:42:35:833] : 	Value: [01:10:68:05:34:DC:A3:0D:5F:06:82:FF:16:FD:00:00:00:00:00:00]
+[17:42:35:851] : 'Characteristic Value Notification' event received
+[17:42:35:851] : 	Attribute Handle: 0x000E
+[17:42:35:851] : 	Value: [01:10:56:05:54:2A:A4:0D:58:06:7F:FF:1D:FD:00:00:00:00:00:00]
+[17:42:35:868] : 'Characteristic Value Notification' event received
+[17:42:35:868] : 	Attribute Handle: 0x000E
+[17:42:35:868] : 	Value: [01:10:82:05:74:78:A4:0D:4F:06:7F:FF:25:FD:00:00:00:00:00:00]
+[17:42:35:894] : 'Characteristic Value Notification' event received
+[17:42:35:894] : 	Attribute Handle: 0x000E
+[17:42:35:894] : 	Value: [01:10:5C:05:94:C6:A4:0D:4E:06:82:FF:2C:FD:00:00:00:00:00:00]
+[17:42:35:912] : 'Characteristic Value Notification' event received
+[17:42:35:912] : 	Attribute Handle: 0x000E
+[17:42:35:912] : 	Value: [01:10:C8:05:B4:14:A5:0D:51:06:86:FF:2F:FD:00:00:00:00:00:00]
+[17:42:35:929] : 'Characteristic Value Notification' event received
+[17:42:35:929] : 	Attribute Handle: 0x000E
+[17:42:35:929] : 	Value: [01:10:20:05:D4:62:A5:0D:55:06:85:FF:36:FD:00:00:00:00:00:00]
+[17:42:35:947] : 'Characteristic Value Notification' event received
+[17:42:35:947] : 	Attribute Handle: 0x000E
+[17:42:35:947] : 	Value: [01:10:D0:05:F4:B0:A5:0D:58:06:82:FF:40:FD:00:00:00:00:00:00]
+[17:42:35:973] : 'Characteristic Value Notification' event received
+[17:42:35:973] : 	Attribute Handle: 0x000E
+[17:42:35:973] : 	Value: [01:10:42:05:14:FF:A5:0D:58:06:78:FF:4D:FD:00:00:00:00:00:00]
+[17:42:35:991] : 'Characteristic Value Notification' event received
+[17:42:35:991] : 	Attribute Handle: 0x000E
+[17:42:35:991] : 	Value: [01:10:E8:05:34:4D:A6:0D:59:06:6D:FF:5B:FD:00:00:00:00:00:00]
+[17:42:36:008] : 'Characteristic Value Notification' event received
+[17:42:36:008] : 	Attribute Handle: 0x000E
+[17:42:36:008] : 	Value: [01:10:9C:05:54:9B:A6:0D:59:06:63:FF:6A:FD:00:00:00:00:00:00]
+[17:42:36:034] : 'Characteristic Value Notification' event received
+[17:42:36:034] : 	Attribute Handle: 0x000E
+[17:42:36:034] : 	Value: [01:10:6C:05:74:E9:A6:0D:57:06:5C:FF:7C:FD:00:00:00:00:00:00]
+[17:42:36:052] : 'Characteristic Value Notification' event received
+[17:42:36:052] : 	Attribute Handle: 0x000E
+[17:42:36:052] : 	Value: [01:10:B0:05:94:37:A7:0D:52:06:58:FF:8B:FD:00:00:00:00:00:00]
+[17:42:36:069] : 'Characteristic Value Notification' event received
+[17:42:36:069] : 	Attribute Handle: 0x000E
+[17:42:36:069] : 	Value: [01:10:AE:05:B4:85:A7:0D:4D:06:54:FF:98:FD:00:00:00:00:00:00]
+[17:42:36:087] : 'Characteristic Value Notification' event received
+[17:42:36:087] : 	Attribute Handle: 0x000E
+[17:42:36:087] : 	Value: [01:10:16:05:D4:D3:A7:0D:48:06:50:FF:A7:FD:00:00:00:00:00:00]
+[17:42:36:113] : 'Characteristic Value Notification' event received
+[17:42:36:113] : 	Attribute Handle: 0x000E
+[17:42:36:113] : 	Value: [01:10:6A:05:F4:21:A8:0D:46:06:4F:FF:B5:FD:00:00:00:00:00:00]
+[17:42:36:130] : 'Characteristic Value Notification' event received
+[17:42:36:130] : 	Attribute Handle: 0x000E
+[17:42:36:130] : 	Value: [01:10:EC:05:14:70:A8:0D:45:06:50:FF:C3:FD:00:00:00:00:00:00]
+[17:42:36:148] : 'Characteristic Value Notification' event received
+[17:42:36:148] : 	Attribute Handle: 0x000E
+[17:42:36:148] : 	Value: [01:10:32:05:34:BE:A8:0D:41:06:4C:FF:D4:FD:00:00:00:00:00:00]
+[17:42:36:175] : 'Characteristic Value Notification' event received
+[17:42:36:175] : 	Attribute Handle: 0x000E
+[17:42:36:175] : 	Value: [01:10:0A:05:54:0C:A9:0D:3B:06:42:FF:E7:FD:00:00:00:00:00:00]
+[17:42:36:201] : 'Characteristic Value Notification' event received
+[17:42:36:201] : 	Attribute Handle: 0x000E
+[17:42:36:201] : 	Value: [01:10:7C:05:74:5A:A9:0D:33:06:36:FF:FB:FD:00:00:00:00:00:00]
+[17:42:36:210] : 'Characteristic Value Notification' event received
+[17:42:36:210] : 	Attribute Handle: 0x000E
+[17:42:36:210] : 	Value: [01:10:AE:05:94:A8:A9:0D:2B:06:2F:FF:0D:FE:00:00:00:00:00:00]
+[17:42:36:227] : 'Characteristic Value Notification' event received
+[17:42:36:227] : 	Attribute Handle: 0x000E
+[17:42:36:227] : 	Value: [01:10:1A:05:B4:F6:A9:0D:23:06:2D:FF:1F:FE:00:00:00:00:00:00]
+[17:42:36:253] : 'Characteristic Value Notification' event received
+[17:42:36:253] : 	Attribute Handle: 0x000E
+[17:42:36:253] : 	Value: [01:10:FA:05:D4:44:AA:0D:1A:06:2F:FF:33:FE:00:00:00:00:00:00]
+[17:42:36:271] : 'Characteristic Value Notification' event received
+[17:42:36:271] : 	Attribute Handle: 0x000E
+[17:42:36:271] : 	Value: [01:10:B4:05:F4:92:AA:0D:0F:06:33:FF:47:FE:00:00:00:00:00:00]
+[17:42:36:288] : 'Characteristic Value Notification' event received
+[17:42:36:288] : 	Attribute Handle: 0x000E
+[17:42:36:288] : 	Value: [01:10:1E:05:14:E1:AA:0D:08:06:38:FF:58:FE:00:00:00:00:00:00]
+[17:42:36:314] : 'Characteristic Value Notification' event received
+[17:42:36:314] : 	Attribute Handle: 0x000E
+[17:42:36:314] : 	Value: [01:10:EC:05:34:2F:AB:0D:02:06:3D:FF:68:FE:00:00:00:00:00:00]
+[17:42:36:332] : 'Characteristic Value Notification' event received
+[17:42:36:332] : 	Attribute Handle: 0x000E
+[17:42:36:332] : 	Value: [01:10:EE:05:54:7D:AB:0D:FB:05:40:FF:78:FE:00:00:00:00:00:00]
+[17:42:36:349] : 'Characteristic Value Notification' event received
+[17:42:36:349] : 	Attribute Handle: 0x000E
+[17:42:36:349] : 	Value: [01:10:8E:05:74:CB:AB:0D:F7:05:43:FF:87:FE:00:00:00:00:00:00]
+[17:42:36:367] : 'Characteristic Value Notification' event received
+[17:42:36:367] : 	Attribute Handle: 0x000E
+[17:42:36:367] : 	Value: [01:10:BC:05:94:19:AC:0D:F6:05:45:FF:95:FE:00:00:00:00:00:00]
+[17:42:36:393] : 'Characteristic Value Notification' event received
+[17:42:36:393] : 	Attribute Handle: 0x000E
+[17:42:36:393] : 	Value: [01:10:7A:05:B4:67:AC:0D:F7:05:46:FF:A3:FE:00:00:00:00:00:00]
+[17:42:36:411] : 'Characteristic Value Notification' event received
+[17:42:36:411] : 	Attribute Handle: 0x000E
+[17:42:36:411] : 	Value: [01:10:20:05:D4:B5:AC:0D:FB:05:47:FF:B1:FE:00:00:00:00:00:00]
+[17:42:36:428] : 'Characteristic Value Notification' event received
+[17:42:36:428] : 	Attribute Handle: 0x000E
+[17:42:36:428] : 	Value: [01:10:C0:05:F4:03:AD:0D:01:06:46:FF:BE:FE:00:00:00:00:00:00]
+[17:42:36:454] : 'Characteristic Value Notification' event received
+[17:42:36:454] : 	Attribute Handle: 0x000E
+[17:42:36:454] : 	Value: [01:10:D4:05:14:52:AD:0D:06:06:43:FF:D0:FE:00:00:00:00:00:00]
+[17:42:36:472] : 'Characteristic Value Notification' event received
+[17:42:36:472] : 	Attribute Handle: 0x000E
+[17:42:36:472] : 	Value: [01:10:50:05:34:A0:AD:0D:09:06:37:FF:E4:FE:00:00:00:00:00:00]
+[17:42:36:489] : 'Characteristic Value Notification' event received
+[17:42:36:489] : 	Attribute Handle: 0x000E
+[17:42:36:489] : 	Value: [01:10:0E:05:54:EE:AD:0D:0B:06:21:FF:F8:FE:00:00:00:00:00:00]
+[17:42:36:507] : 'Characteristic Value Notification' event received
+[17:42:36:507] : 	Attribute Handle: 0x000E
+[17:42:36:507] : 	Value: [01:10:12:05:74:3C:AE:0D:0D:06:0B:FF:0D:FF:00:00:00:00:00:00]
+[17:42:36:533] : 'Characteristic Value Notification' event received
+[17:42:36:533] : 	Attribute Handle: 0x000E
+[17:42:36:533] : 	Value: [01:10:CA:05:94:8A:AE:0D:10:06:FC:FE:22:FF:00:00:00:00:00:00]
+[17:42:36:550] : 'Characteristic Value Notification' event received
+[17:42:36:550] : 	Attribute Handle: 0x000E
+[17:42:36:550] : 	Value: [01:10:66:05:B4:D8:AE:0D:0D:06:F6:FE:35:FF:00:00:00:00:00:00]
+[17:42:36:568] : 'Characteristic Value Notification' event received
+[17:42:36:568] : 	Attribute Handle: 0x000E
+[17:42:36:568] : 	Value: [01:10:B6:05:D4:26:AF:0D:0C:06:F8:FE:45:FF:00:00:00:00:00:00]
+[17:42:36:595] : 'Characteristic Value Notification' event received
+[17:42:36:595] : 	Attribute Handle: 0x000E
+[17:42:36:595] : 	Value: [01:10:58:05:F4:74:AF:0D:0F:06:FE:FE:4E:FF:00:00:00:00:00:00]
+[17:42:36:612] : 'Characteristic Value Notification' event received
+[17:42:36:612] : 	Attribute Handle: 0x000E
+[17:42:36:612] : 	Value: [01:10:40:05:14:C3:AF:0D:11:06:03:FF:56:FF:00:00:00:00:00:00]
+[17:42:36:629] : 'Characteristic Value Notification' event received
+[17:42:36:629] : 	Attribute Handle: 0x000E
+[17:42:36:629] : 	Value: [01:10:98:05:34:11:B0:0D:11:06:06:FF:5F:FF:00:00:00:00:00:00]
+[17:42:36:647] : 'Characteristic Value Notification' event received
+[17:42:36:647] : 	Attribute Handle: 0x000E
+[17:42:36:647] : 	Value: [01:10:68:05:54:5F:B0:0D:0F:06:06:FF:69:FF:00:00:00:00:00:00]
+[17:42:36:673] : 'Characteristic Value Notification' event received
+[17:42:36:673] : 	Attribute Handle: 0x000E
+[17:42:36:673] : 	Value: [01:10:EE:05:74:AD:B0:0D:0D:06:06:FF:73:FF:00:00:00:00:00:00]
+[17:42:36:691] : 'Characteristic Value Notification' event received
+[17:42:36:691] : 	Attribute Handle: 0x000E
+[17:42:36:691] : 	Value: [01:10:7C:05:94:FB:B0:0D:0A:06:08:FF:7E:FF:00:00:00:00:00:00]
+[17:42:36:708] : 'Characteristic Value Notification' event received
+[17:42:36:708] : 	Attribute Handle: 0x000E
+[17:42:36:708] : 	Value: [01:10:F4:05:B4:49:B1:0D:07:06:0C:FF:8A:FF:00:00:00:00:00:00]
+[17:42:36:734] : 'Characteristic Value Notification' event received
+[17:42:36:734] : 	Attribute Handle: 0x000E
+[17:42:36:734] : 	Value: [01:10:AE:05:D4:97:B1:0D:05:06:11:FF:94:FF:00:00:00:00:00:00]
+[17:42:36:752] : 'Characteristic Value Notification' event received
+[17:42:36:752] : 	Attribute Handle: 0x000E
+[17:42:36:752] : 	Value: [01:10:C6:05:F4:E5:B1:0D:03:06:14:FF:9B:FF:00:00:00:00:00:00]
+[17:42:36:770] : 'Characteristic Value Notification' event received
+[17:42:36:770] : 	Attribute Handle: 0x000E
+[17:42:36:770] : 	Value: [01:10:E6:05:14:34:B2:0D:00:06:1A:FF:A2:FF:00:00:00:00:00:00]
+[17:42:36:787] : 'Characteristic Value Notification' event received
+[17:42:36:787] : 	Attribute Handle: 0x000E
+[17:42:36:787] : 	Value: [01:10:08:05:34:82:B2:0D:FE:05:21:FF:A7:FF:00:00:00:00:00:00]
+[17:42:36:813] : 'Characteristic Value Notification' event received
+[17:42:36:813] : 	Attribute Handle: 0x000E
+[17:42:36:813] : 	Value: [01:10:B2:05:54:D0:B2:0D:FC:05:2A:FF:AB:FF:00:00:00:00:00:00]
+[17:42:36:831] : 'Characteristic Value Notification' event received
+[17:42:36:831] : 	Attribute Handle: 0x000E
+[17:42:36:831] : 	Value: [01:10:F2:05:74:1E:B3:0D:FC:05:31:FF:AD:FF:00:00:00:00:00:00]
+[17:42:36:848] : 'Characteristic Value Notification' event received
+[17:42:36:848] : 	Attribute Handle: 0x000E
+[17:42:36:848] : 	Value: [01:10:76:05:94:6C:B3:0D:FD:05:37:FF:B0:FF:00:00:00:00:00:00]
+[17:42:36:874] : 'Characteristic Value Notification' event received
+[17:42:36:874] : 	Attribute Handle: 0x000E
+[17:42:36:874] : 	Value: [01:10:6C:05:B4:BA:B3:0D:F8:05:3E:FF:B4:FF:00:00:00:00:00:00]
+[17:42:36:892] : 'Characteristic Value Notification' event received
+[17:42:36:892] : 	Attribute Handle: 0x000E
+[17:42:36:892] : 	Value: [01:10:30:05:D4:08:B4:0D:F3:05:43:FF:B8:FF:00:00:00:00:00:00]
+[17:42:36:909] : 'Characteristic Value Notification' event received
+[17:42:36:909] : 	Attribute Handle: 0x000E
+[17:42:36:909] : 	Value: [01:10:8C:05:F4:56:B4:0D:EF:05:49:FF:BB:FF:00:00:00:00:00:00]
+[17:42:36:927] : 'Characteristic Value Notification' event received
+[17:42:36:927] : 	Attribute Handle: 0x000E
+[17:42:36:927] : 	Value: [01:10:56:05:14:A5:B4:0D:ED:05:4D:FF:BD:FF:00:00:00:00:00:00]
+[17:42:36:953] : 'Characteristic Value Notification' event received
+[17:42:36:953] : 	Attribute Handle: 0x000E
+[17:42:36:953] : 	Value: [01:10:F6:05:34:F3:B4:0D:E9:05:53:FF:C0:FF:00:00:00:00:00:00]
+[17:42:36:971] : 'Characteristic Value Notification' event received
+[17:42:36:971] : 	Attribute Handle: 0x000E
+[17:42:36:971] : 	Value: [01:10:EA:05:58:41:B5:0D:E5:05:5C:FF:C0:FF:00:00:00:00:00:00]
+[17:42:36:988] : 'Characteristic Value Notification' event received
+[17:42:36:988] : 	Attribute Handle: 0x000E
+[17:42:36:988] : 	Value: [01:10:46:05:78:8F:B5:0D:E4:05:64:FF:BE:FF:00:00:00:00:00:00]
+[17:42:37:014] : 'Characteristic Value Notification' event received
+[17:42:37:014] : 	Attribute Handle: 0x000E
+[17:42:37:014] : 	Value: [01:10:FE:05:98:DD:B5:0D:E4:05:6D:FF:BB:FF:00:00:00:00:00:00]
+[17:42:37:032] : 'Characteristic Value Notification' event received
+[17:42:37:032] : 	Attribute Handle: 0x000E
+[17:42:37:032] : 	Value: [01:10:66:05:B8:2B:B6:0D:E6:05:79:FF:B5:FF:00:00:00:00:00:00]
+[17:42:37:049] : 'Characteristic Value Notification' event received
+[17:42:37:049] : 	Attribute Handle: 0x000E
+[17:42:37:049] : 	Value: [01:10:8C:05:D8:79:B6:0D:E6:05:85:FF:B0:FF:00:00:00:00:00:00]
+[17:42:37:067] : 'Characteristic Value Notification' event received
+[17:42:37:067] : 	Attribute Handle: 0x000E
+[17:42:37:067] : 	Value: [01:10:AA:05:F8:C7:B6:0D:E6:05:90:FF:AC:FF:00:00:00:00:00:00]
+[17:42:37:093] : 'Characteristic Value Notification' event received
+[17:42:37:093] : 	Attribute Handle: 0x000E
+[17:42:37:093] : 	Value: [01:10:2C:05:18:16:B7:0D:E6:05:99:FF:A8:FF:00:00:00:00:00:00]
+[17:42:37:110] : 'Characteristic Value Notification' event received
+[17:42:37:110] : 	Attribute Handle: 0x000E
+[17:42:37:110] : 	Value: [01:10:C0:05:38:64:B7:0D:E5:05:A1:FF:A3:FF:00:00:00:00:00:00]
+[17:42:37:128] : 'Characteristic Value Notification' event received
+[17:42:37:128] : 	Attribute Handle: 0x000E
+[17:42:37:128] : 	Value: [01:10:0C:05:58:B2:B7:0D:E6:05:A9:FF:9D:FF:00:00:00:00:00:00]
+[17:42:37:154] : 'Characteristic Value Notification' event received
+[17:42:37:154] : 	Attribute Handle: 0x000E
+[17:42:37:154] : 	Value: [01:10:0C:05:78:00:B8:0D:E9:05:B5:FF:98:FF:00:00:00:00:00:00]
+[17:42:37:172] : 'Characteristic Value Notification' event received
+[17:42:37:172] : 	Attribute Handle: 0x000E
+[17:42:37:172] : 	Value: [01:10:7A:05:98:4E:B8:0D:ED:05:C3:FF:91:FF:00:00:00:00:00:00]
+[17:42:37:190] : 'Characteristic Value Notification' event received
+[17:42:37:190] : 	Attribute Handle: 0x000E
+[17:42:37:190] : 	Value: [01:10:F0:05:B8:9C:B8:0D:F2:05:D3:FF:89:FF:00:00:00:00:00:00]
+[17:42:37:207] : 'Characteristic Value Notification' event received
+[17:42:37:207] : 	Attribute Handle: 0x000E
+[17:42:37:207] : 	Value: [01:10:34:05:D8:EA:B8:0D:F8:05:E0:FF:81:FF:00:00:00:00:00:00]
+[17:42:37:233] : 'Characteristic Value Notification' event received
+[17:42:37:233] : 	Attribute Handle: 0x000E
+[17:42:37:233] : 	Value: [01:10:B4:05:F8:38:B9:0D:02:06:E8:FF:7A:FF:00:00:00:00:00:00]
+[17:42:37:251] : 'Characteristic Value Notification' event received
+[17:42:37:251] : 	Attribute Handle: 0x000E
+[17:42:37:251] : 	Value: [01:10:CE:05:18:87:B9:0D:0A:06:EC:FF:76:FF:00:00:00:00:00:00]
+[17:42:37:268] : 'Characteristic Value Notification' event received
+[17:42:37:268] : 	Attribute Handle: 0x000E
+[17:42:37:268] : 	Value: [01:10:14:05:38:D5:B9:0D:0F:06:EF:FF:74:FF:00:00:00:00:00:00]
+[17:42:37:294] : 'Characteristic Value Notification' event received
+[17:42:37:294] : 	Attribute Handle: 0x000E
+[17:42:37:294] : 	Value: [01:10:8A:05:58:23:BA:0D:13:06:EF:FF:72:FF:00:00:00:00:00:00]
+[17:42:37:312] : 'Characteristic Value Notification' event received
+[17:42:37:312] : 	Attribute Handle: 0x000E
+[17:42:37:312] : 	Value: [01:10:02:05:78:71:BA:0D:17:06:ED:FF:70:FF:00:00:00:00:00:00]
+[17:42:37:329] : 'Characteristic Value Notification' event received
+[17:42:37:329] : 	Attribute Handle: 0x000E
+[17:42:37:329] : 	Value: [01:10:6C:05:98:BF:BA:0D:1A:06:EB:FF:70:FF:00:00:00:00:00:00]
+[17:42:37:347] : 'Characteristic Value Notification' event received
+[17:42:37:347] : 	Attribute Handle: 0x000E
+[17:42:37:347] : 	Value: [01:10:DE:05:B8:0D:BB:0D:1E:06:E9:FF:70:FF:00:00:00:00:00:00]
+[17:42:37:373] : 'Characteristic Value Notification' event received
+[17:42:37:373] : 	Attribute Handle: 0x000E
+[17:42:37:373] : 	Value: [01:10:CA:05:D8:5B:BB:0D:22:06:E8:FF:6E:FF:00:00:00:00:00:00]
+[17:42:37:391] : 'Characteristic Value Notification' event received
+[17:42:37:391] : 	Attribute Handle: 0x000E
+[17:42:37:391] : 	Value: [01:10:34:05:F8:A9:BB:0D:25:06:E8:FF:6C:FF:00:00:00:00:00:00]
+[17:42:37:408] : 'Characteristic Value Notification' event received
+[17:42:37:408] : 	Attribute Handle: 0x000E
+[17:42:37:408] : 	Value: [01:10:52:05:18:F8:BB:0D:28:06:E7:FF:69:FF:00:00:00:00:00:00]
+[17:42:37:434] : 'Characteristic Value Notification' event received
+[17:42:37:434] : 	Attribute Handle: 0x000E
+[17:42:37:434] : 	Value: [01:10:F8:05:38:46:BC:0D:2B:06:E3:FF:67:FF:00:00:00:00:00:00]
+[17:42:37:452] : 'Characteristic Value Notification' event received
+[17:42:37:452] : 	Attribute Handle: 0x000E
+[17:42:37:452] : 	Value: [01:10:5C:05:58:94:BC:0D:2C:06:DD:FF:6B:FF:00:00:00:00:00:00]
+[17:42:37:469] : 'Characteristic Value Notification' event received
+[17:42:37:469] : 	Attribute Handle: 0x000E
+[17:42:37:469] : 	Value: [01:10:D8:05:78:E2:BC:0D:29:06:DA:FF:71:FF:00:00:00:00:00:00]
+[17:42:37:487] : 'Characteristic Value Notification' event received
+[17:42:37:487] : 	Attribute Handle: 0x000E
+[17:42:37:487] : 	Value: [01:10:6C:05:98:30:BD:0D:25:06:DA:FF:75:FF:00:00:00:00:00:00]
+[17:42:37:513] : 'Characteristic Value Notification' event received
+[17:42:37:513] : 	Attribute Handle: 0x000E
+[17:42:37:513] : 	Value: [01:10:3A:05:B8:7E:BD:0D:26:06:DB:FF:75:FF:00:00:00:00:00:00]
+[17:42:37:530] : 'Characteristic Value Notification' event received
+[17:42:37:530] : 	Attribute Handle: 0x000E
+[17:42:37:530] : 	Value: [01:10:E8:05:D8:CC:BD:0D:27:06:DC:FF:74:FF:00:00:00:00:00:00]
+[17:42:37:548] : 'Characteristic Value Notification' event received
+[17:42:37:548] : 	Attribute Handle: 0x000E
+[17:42:37:548] : 	Value: [01:10:9E:05:F8:1A:BE:0D:29:06:DC:FF:77:FF:00:00:00:00:00:00]
+[17:42:37:575] : 'Characteristic Value Notification' event received
+[17:42:37:575] : 	Attribute Handle: 0x000E
+[17:42:37:575] : 	Value: [01:10:80:05:18:69:BE:0D:2B:06:DC:FF:7C:FF:00:00:00:00:00:00]
+[17:42:37:592] : 'Characteristic Value Notification' event received
+[17:42:37:592] : 	Attribute Handle: 0x000E
+[17:42:37:592] : 	Value: [01:10:DC:05:38:B7:BE:0D:2C:06:DD:FF:80:FF:00:00:00:00:00:00]
+[17:42:37:610] : 'Characteristic Value Notification' event received
+[17:42:37:610] : 	Attribute Handle: 0x000E
+[17:42:37:610] : 	Value: [01:10:60:05:58:05:BF:0D:2D:06:DD:FF:84:FF:00:00:00:00:00:00]
+[17:42:37:627] : 'Characteristic Value Notification' event received
+[17:42:37:627] : 	Attribute Handle: 0x000E
+[17:42:37:627] : 	Value: [01:10:46:05:78:53:BF:0D:2E:06:DE:FF:88:FF:00:00:00:00:00:00]
+[17:42:37:653] : 'Characteristic Value Notification' event received
+[17:42:37:653] : 	Attribute Handle: 0x000E
+[17:42:37:653] : 	Value: [01:10:3C:05:98:A1:BF:0D:2F:06:DE:FF:8B:FF:00:00:00:00:00:00]
+[17:42:37:671] : 'Characteristic Value Notification' event received
+[17:42:37:671] : 	Attribute Handle: 0x000E
+[17:42:37:671] : 	Value: [01:10:6A:05:B8:EF:BF:0D:33:06:E0:FF:8D:FF:00:00:00:00:00:00]
+[17:42:37:688] : 'Characteristic Value Notification' event received
+[17:42:37:688] : 	Attribute Handle: 0x000E
+[17:42:37:688] : 	Value: [01:10:A2:05:D8:3D:C0:0D:36:06:E3:FF:90:FF:00:00:00:00:00:00]
+[17:42:37:714] : 'Characteristic Value Notification' event received
+[17:42:37:714] : 	Attribute Handle: 0x000E
+[17:42:37:714] : 	Value: [01:10:C6:05:F8:8B:C0:0D:3B:06:E4:FF:90:FF:00:00:00:00:00:00]
+[17:42:37:732] : 'Characteristic Value Notification' event received
+[17:42:37:732] : 	Attribute Handle: 0x000E
+[17:42:37:732] : 	Value: [01:10:BE:05:18:DA:C0:0D:41:06:E7:FF:91:FF:00:00:00:00:00:00]
+[17:42:37:749] : 'Characteristic Value Notification' event received
+[17:42:37:749] : 	Attribute Handle: 0x000E
+[17:42:37:749] : 	Value: [01:10:CE:05:38:28:C1:0D:49:06:EB:FF:92:FF:00:00:00:00:00:00]
+[17:42:37:767] : 'Characteristic Value Notification' event received
+[17:42:37:767] : 	Attribute Handle: 0x000E
+[17:42:37:767] : 	Value: [01:10:D6:05:58:76:C1:0D:51:06:ED:FF:92:FF:00:00:00:00:00:00]
+[17:42:37:793] : 'Characteristic Value Notification' event received
+[17:42:37:793] : 	Attribute Handle: 0x000E
+[17:42:37:793] : 	Value: [01:10:DA:05:78:C4:C1:0D:58:06:EE:FF:93:FF:00:00:00:00:00:00]
+[17:42:37:811] : 'Characteristic Value Notification' event received
+[17:42:37:811] : 	Attribute Handle: 0x000E
+[17:42:37:811] : 	Value: [01:10:16:05:98:12:C2:0D:60:06:ED:FF:95:FF:00:00:00:00:00:00]
+[17:42:37:828] : 'Characteristic Value Notification' event received
+[17:42:37:828] : 	Attribute Handle: 0x000E
+[17:42:37:828] : 	Value: [01:10:94:05:B8:60:C2:0D:69:06:ED:FF:97:FF:00:00:00:00:00:00]
+[17:42:37:854] : 'Characteristic Value Notification' event received
+[17:42:37:854] : 	Attribute Handle: 0x000E
+[17:42:37:854] : 	Value: [01:10:48:05:D8:AE:C2:0D:73:06:ED:FF:99:FF:00:00:00:00:00:00]
+[17:42:37:872] : 'Characteristic Value Notification' event received
+[17:42:37:872] : 	Attribute Handle: 0x000E
+[17:42:37:872] : 	Value: [01:10:96:05:F8:FC:C2:0D:80:06:ED:FF:99:FF:00:00:00:00:00:00]
+[17:42:37:889] : 'Characteristic Value Notification' event received
+[17:42:37:889] : 	Attribute Handle: 0x000E
+[17:42:37:889] : 	Value: [01:10:9A:05:18:4B:C3:0D:8D:06:ED:FF:98:FF:00:00:00:00:00:00]
+[17:42:37:907] : 'Characteristic Value Notification' event received
+[17:42:37:907] : 	Attribute Handle: 0x000E
+[17:42:37:907] : 	Value: [01:10:5C:05:38:99:C3:0D:9A:06:ED:FF:97:FF:00:00:00:00:00:00]
+[17:42:37:933] : 'Characteristic Value Notification' event received
+[17:42:37:933] : 	Attribute Handle: 0x000E
+[17:42:37:933] : 	Value: [01:10:B8:05:58:E7:C3:0D:A6:06:EC:FF:96:FF:00:00:00:00:00:00]
+[17:42:37:951] : 'Characteristic Value Notification' event received
+[17:42:37:951] : 	Attribute Handle: 0x000E
+[17:42:37:951] : 	Value: [01:10:E0:05:78:35:C4:0D:B1:06:E9:FF:96:FF:00:00:00:00:00:00]
+[17:42:37:968] : 'Characteristic Value Notification' event received
+[17:42:37:968] : 	Attribute Handle: 0x000E
+[17:42:37:968] : 	Value: [01:10:6E:05:98:83:C4:0D:BB:06:E4:FF:97:FF:00:00:00:00:00:00]
+[17:42:37:994] : 'Characteristic Value Notification' event received
+[17:42:37:994] : 	Attribute Handle: 0x000E
+[17:42:37:994] : 	Value: [01:10:48:05:B8:D1:C4:0D:C2:06:E0:FF:99:FF:00:00:00:00:00:00]
+[17:42:38:012] : 'Characteristic Value Notification' event received
+[17:42:38:012] : 	Attribute Handle: 0x000E
+[17:42:38:012] : 	Value: [01:10:B2:05:D8:1F:C5:0D:CB:06:DC:FF:99:FF:00:00:00:00:00:00]
+[17:42:38:030] : 'Characteristic Value Notification' event received
+[17:42:38:030] : 	Attribute Handle: 0x000E
+[17:42:38:030] : 	Value: [01:10:BE:05:F8:6D:C5:0D:D6:06:D9:FF:9B:FF:00:00:00:00:00:00]
+[17:42:38:047] : 'Characteristic Value Notification' event received
+[17:42:38:047] : 	Attribute Handle: 0x000E
+[17:42:38:047] : 	Value: [01:10:96:05:18:BC:C5:0D:E1:06:D9:FF:9B:FF:00:00:00:00:00:00]
+[17:42:38:073] : 'Characteristic Value Notification' event received
+[17:42:38:073] : 	Attribute Handle: 0x000E
+[17:42:38:073] : 	Value: [01:10:58:05:38:0A:C6:0D:EC:06:DA:FF:9A:FF:00:00:00:00:00:00]
+[17:42:38:090] : 'Characteristic Value Notification' event received
+[17:42:38:090] : 	Attribute Handle: 0x000E
+[17:42:38:090] : 	Value: [01:10:84:05:58:58:C6:0D:F5:06:DB:FF:9A:FF:00:00:00:00:00:00]
+[17:42:38:108] : 'Characteristic Value Notification' event received
+[17:42:38:108] : 	Attribute Handle: 0x000E
+[17:42:38:108] : 	Value: [01:10:92:05:78:A6:C6:0D:FF:06:DC:FF:9A:FF:00:00:00:00:00:00]
+[17:42:38:134] : 'Characteristic Value Notification' event received
+[17:42:38:134] : 	Attribute Handle: 0x000E
+[17:42:38:134] : 	Value: [01:10:8C:05:98:F4:C6:0D:07:07:DA:FF:9A:FF:00:00:00:00:00:00]
+[17:42:38:152] : 'Characteristic Value Notification' event received
+[17:42:38:152] : 	Attribute Handle: 0x000E
+[17:42:38:152] : 	Value: [01:10:FC:05:B8:42:C7:0D:00:F9:D9:FF:9A:FF:00:00:00:00:00:00]
+[17:42:38:170] : 'Characteristic Value Notification' event received
+[17:42:38:170] : 	Attribute Handle: 0x000E
+[17:42:38:170] : 	Value: [01:10:8A:05:D8:90:C7:0D:07:F9:D8:FF:98:FF:00:00:00:00:00:00]
+[17:42:38:187] : 'Characteristic Value Notification' event received
+[17:42:38:187] : 	Attribute Handle: 0x000E
+[17:42:38:187] : 	Value: [01:10:82:05:F8:DE:C7:0D:0E:F9:D6:FF:97:FF:00:00:00:00:00:00]
+[17:42:38:213] : 'Characteristic Value Notification' event received
+[17:42:38:213] : 	Attribute Handle: 0x000E
+[17:42:38:213] : 	Value: [01:10:4C:05:18:2D:C8:0D:12:F9:D2:FF:95:FF:00:00:00:00:00:00]
+[17:42:38:231] : 'Characteristic Value Notification' event received
+[17:42:38:231] : 	Attribute Handle: 0x000E
+[17:42:38:231] : 	Value: [01:10:DC:05:38:7B:C8:0D:17:F9:D1:FF:90:FF:00:00:00:00:00:00]
+[17:42:38:248] : 'Characteristic Value Notification' event received
+[17:42:38:248] : 	Attribute Handle: 0x000E
+[17:42:38:248] : 	Value: [01:10:2A:05:58:C9:C8:0D:1C:F9:CF:FF:8A:FF:00:00:00:00:00:00]
+[17:42:38:274] : 'Characteristic Value Notification' event received
+[17:42:38:274] : 	Attribute Handle: 0x000E
+[17:42:38:274] : 	Value: [01:10:30:05:78:17:C9:0D:22:F9:CE:FF:85:FF:00:00:00:00:00:00]
+[17:42:38:292] : 'Characteristic Value Notification' event received
+[17:42:38:292] : 	Attribute Handle: 0x000E
+[17:42:38:292] : 	Value: [01:10:0A:05:98:65:C9:0D:26:F9:D0:FF:80:FF:00:00:00:00:00:00]
+[17:42:38:309] : 'Characteristic Value Notification' event received
+[17:42:38:309] : 	Attribute Handle: 0x000E
+[17:42:38:309] : 	Value: [01:10:5E:05:B8:B3:C9:0D:2A:F9:D2:FF:79:FF:00:00:00:00:00:00]
+[17:42:38:327] : 'Characteristic Value Notification' event received
+[17:42:38:327] : 	Attribute Handle: 0x000E
+[17:42:38:327] : 	Value: [01:10:F8:05:D8:01:CA:0D:2D:F9:D3:FF:73:FF:00:00:00:00:00:00]
+[17:42:38:353] : 'Characteristic Value Notification' event received
+[17:42:38:353] : 	Attribute Handle: 0x000E
+[17:42:38:353] : 	Value: [01:10:14:05:F8:4F:CA:0D:32:F9:D0:FF:72:FF:00:00:00:00:00:00]
+[17:42:38:371] : 'Characteristic Value Notification' event received
+[17:42:38:371] : 	Attribute Handle: 0x000E
+[17:42:38:371] : 	Value: [01:10:06:05:18:9E:CA:0D:33:F9:D0:FF:70:FF:00:00:00:00:00:00]
+[17:42:38:388] : 'Characteristic Value Notification' event received
+[17:42:38:388] : 	Attribute Handle: 0x000E
+[17:42:38:388] : 	Value: [01:10:4C:05:38:EC:CA:0D:33:F9:CC:FF:70:FF:00:00:00:00:00:00]
+[17:42:38:414] : 'Characteristic Value Notification' event received
+[17:42:38:414] : 	Attribute Handle: 0x000E
+[17:42:38:414] : 	Value: [01:10:76:05:58:3A:CB:0D:32:F9:C9:FF:71:FF:00:00:00:00:00:00]
+[17:42:38:432] : 'Characteristic Value Notification' event received
+[17:42:38:432] : 	Attribute Handle: 0x000E
+[17:42:38:432] : 	Value: [01:10:8A:05:78:88:CB:0D:2F:F9:C7:FF:73:FF:00:00:00:00:00:00]
+[17:42:38:449] : 'Characteristic Value Notification' event received
+[17:42:38:449] : 	Attribute Handle: 0x000E
+[17:42:38:449] : 	Value: [01:10:10:05:98:D6:CB:0D:2C:F9:C8:FF:75:FF:00:00:00:00:00:00]
+[17:42:38:467] : 'Characteristic Value Notification' event received
+[17:42:38:467] : 	Attribute Handle: 0x000E
+[17:42:38:467] : 	Value: [01:10:6E:05:B8:24:CC:0D:2C:F9:C9:FF:77:FF:00:00:00:00:00:00]
+[17:42:38:493] : 'Characteristic Value Notification' event received
+[17:42:38:493] : 	Attribute Handle: 0x000E
+[17:42:38:493] : 	Value: [01:10:2E:05:D8:72:CC:0D:2D:F9:CB:FF:78:FF:00:00:00:00:00:00]
+[17:42:38:510] : 'Characteristic Value Notification' event received
+[17:42:38:510] : 	Attribute Handle: 0x000E
+[17:42:38:510] : 	Value: [01:10:2E:05:F8:C0:CC:0D:2C:F9:D0:FF:7A:FF:00:00:00:00:00:00]
+[17:42:38:528] : 'Characteristic Value Notification' event received
+[17:42:38:528] : 	Attribute Handle: 0x000E
+[17:42:38:528] : 	Value: [01:10:D4:05:18:0F:CD:0D:2B:F9:D8:FF:7B:FF:00:00:00:00:00:00]
+[17:42:38:555] : 'Characteristic Value Notification' event received
+[17:42:38:555] : 	Attribute Handle: 0x000E
+[17:42:38:555] : 	Value: [01:10:36:05:38:5D:CD:0D:2A:F9:E2:FF:7A:FF:00:00:00:00:00:00]
+[17:42:38:572] : 'Characteristic Value Notification' event received
+[17:42:38:572] : 	Attribute Handle: 0x000E
+[17:42:38:572] : 	Value: [01:10:82:05:58:AB:CD:0D:28:F9:EC:FF:76:FF:00:00:00:00:00:00]
+[17:42:38:589] : 'Characteristic Value Notification' event received
+[17:42:38:589] : 	Attribute Handle: 0x000E
+[17:42:38:589] : 	Value: [01:10:E4:05:78:F9:CD:0D:26:F9:F5:FF:70:FF:00:00:00:00:00:00]
+[17:42:38:607] : 'Characteristic Value Notification' event received
+[17:42:38:607] : 	Attribute Handle: 0x000E
+[17:42:38:607] : 	Value: [01:10:68:05:98:47:CE:0D:26:F9:FE:FF:6D:FF:00:00:00:00:00:00]
+[17:42:38:633] : 'Characteristic Value Notification' event received
+[17:42:38:633] : 	Attribute Handle: 0x000E
+[17:42:38:633] : 	Value: [01:10:AA:05:B8:95:CE:0D:26:F9:0B:00:6E:FF:00:00:00:00:00:00]
+[17:42:38:651] : 'Characteristic Value Notification' event received
+[17:42:38:651] : 	Attribute Handle: 0x000E
+[17:42:38:651] : 	Value: [01:10:74:05:D8:E3:CE:0D:29:F9:19:00:6E:FF:00:00:00:00:00:00]
+[17:42:38:668] : 'Characteristic Value Notification' event received
+[17:42:38:668] : 	Attribute Handle: 0x000E
+[17:42:38:668] : 	Value: [01:10:C2:05:F8:31:CF:0D:3C:F9:1A:00:75:FF:00:00:00:00:00:00]
+[17:42:38:694] : 'Characteristic Value Notification' event received
+[17:42:38:694] : 	Attribute Handle: 0x000E
+[17:42:38:694] : 	Value: [01:10:4A:05:18:80:CF:0D:4A:F9:15:00:78:FF:00:00:00:00:00:00]
+[17:42:38:712] : 'Characteristic Value Notification' event received
+[17:42:38:712] : 	Attribute Handle: 0x000E
+[17:42:38:712] : 	Value: [01:10:BC:05:38:CE:CF:0D:56:F9:0C:00:79:FF:00:00:00:00:00:00]
+[17:42:38:729] : 'Characteristic Value Notification' event received
+[17:42:38:729] : 	Attribute Handle: 0x000E
+[17:42:38:729] : 	Value: [01:10:36:05:58:1C:D0:0D:59:F9:05:00:79:FF:00:00:00:00:00:00]
+[17:42:38:747] : 'Characteristic Value Notification' event received
+[17:42:38:747] : 	Attribute Handle: 0x000E
+[17:42:38:747] : 	Value: [01:10:04:05:78:6A:D0:0D:5B:F9:03:00:7A:FF:00:00:00:00:00:00]
+[17:42:38:773] : 'Characteristic Value Notification' event received
+[17:42:38:773] : 	Attribute Handle: 0x000E
+[17:42:38:773] : 	Value: [01:10:08:05:98:B8:D0:0D:61:F9:00:00:7C:FF:00:00:00:00:00:00]
+[17:42:38:791] : 'Characteristic Value Notification' event received
+[17:42:38:791] : 	Attribute Handle: 0x000E
+[17:42:38:791] : 	Value: [01:10:F0:05:B8:06:D1:0D:69:F9:FE:FF:7F:FF:00:00:00:00:00:00]
+[17:42:38:808] : 'Characteristic Value Notification' event received
+[17:42:38:808] : 	Attribute Handle: 0x000E
+[17:42:38:808] : 	Value: [01:10:E4:05:D8:54:D1:0D:73:F9:FB:FF:83:FF:00:00:00:00:00:00]
+[17:42:38:834] : 'Characteristic Value Notification' event received
+[17:42:38:834] : 	Attribute Handle: 0x000E
+[17:42:38:834] : 	Value: [01:10:A6:05:F8:A2:D1:0D:7C:F9:FB:FF:86:FF:00:00:00:00:00:00]
+[17:42:38:852] : 'Characteristic Value Notification' event received
+[17:42:38:852] : 	Attribute Handle: 0x000E
+[17:42:38:852] : 	Value: [01:10:A0:05:18:F1:D1:0D:84:F9:FB:FF:8A:FF:00:00:00:00:00:00]
+[17:42:38:869] : 'Characteristic Value Notification' event received
+[17:42:38:869] : 	Attribute Handle: 0x000E
+[17:42:38:869] : 	Value: [01:10:28:05:38:3F:D2:0D:8B:F9:FA:FF:8F:FF:00:00:00:00:00:00]
+[17:42:38:887] : 'Characteristic Value Notification' event received
+[17:42:38:887] : 	Attribute Handle: 0x000E
+[17:42:38:887] : 	Value: [01:10:B4:05:5C:8D:D2:0D:8F:F9:F7:FF:94:FF:00:00:00:00:00:00]
+[17:42:38:913] : 'Characteristic Value Notification' event received
+[17:42:38:913] : 	Attribute Handle: 0x000E
+[17:42:38:913] : 	Value: [01:10:AA:05:7C:DB:D2:0D:90:F9:F3:FF:99:FF:00:00:00:00:00:00]
+[17:42:38:939] : 'Characteristic Value Notification' event received
+[17:42:38:939] : 	Attribute Handle: 0x000E
+[17:42:38:939] : 	Value: [01:10:34:05:9C:29:D3:0D:8F:F9:F0:FF:9D:FF:00:00:00:00:00:00]
+[17:42:38:948] : 'Characteristic Value Notification' event received
+[17:42:38:948] : 	Attribute Handle: 0x000E
+[17:42:38:948] : 	Value: [01:10:32:05:BC:77:D3:0D:8E:F9:EE:FF:9F:FF:00:00:00:00:00:00]
+[17:42:38:975] : 'Characteristic Value Notification' event received
+[17:42:38:975] : 	Attribute Handle: 0x000E
+[17:42:38:975] : 	Value: [01:10:30:05:DC:C5:D3:0D:8F:F9:EE:FF:A2:FF:00:00:00:00:00:00]
+[17:42:38:992] : 'Characteristic Value Notification' event received
+[17:42:38:992] : 	Attribute Handle: 0x000E
+[17:42:38:992] : 	Value: [01:10:72:05:FC:13:D4:0D:8F:F9:ED:FF:A7:FF:00:00:00:00:00:00]
+[17:42:39:009] : 'Characteristic Value Notification' event received
+[17:42:39:009] : 	Attribute Handle: 0x000E
+[17:42:39:009] : 	Value: [01:10:38:05:1C:62:D4:0D:8F:F9:EC:FF:AD:FF:00:00:00:00:00:00]
+[17:42:39:027] : 'Characteristic Value Notification' event received
+[17:42:39:027] : 	Attribute Handle: 0x000E
+[17:42:39:027] : 	Value: [01:10:C6:05:3C:B0:D4:0D:8F:F9:E9:FF:B5:FF:00:00:00:00:00:00]
+[17:42:39:053] : 'Characteristic Value Notification' event received
+[17:42:39:053] : 	Attribute Handle: 0x000E
+[17:42:39:053] : 	Value: [01:10:48:05:5C:FE:D4:0D:90:F9:E9:FF:BF:FF:00:00:00:00:00:00]
+[17:42:39:071] : 'Characteristic Value Notification' event received
+[17:42:39:071] : 	Attribute Handle: 0x000E
+[17:42:39:071] : 	Value: [01:10:B0:05:7C:4C:D5:0D:91:F9:EB:FF:C8:FF:00:00:00:00:00:00]
+[17:42:39:088] : 'Characteristic Value Notification' event received
+[17:42:39:088] : 	Attribute Handle: 0x000E
+[17:42:39:088] : 	Value: [01:10:64:05:9C:9A:D5:0D:91:F9:EE:FF:CF:FF:00:00:00:00:00:00]
+[17:42:39:114] : 'Characteristic Value Notification' event received
+[17:42:39:114] : 	Attribute Handle: 0x000E
+[17:42:39:114] : 	Value: [01:10:98:05:BC:E8:D5:0D:90:F9:F2:FF:D4:FF:00:00:00:00:00:00]
+[17:42:39:132] : 'Characteristic Value Notification' event received
+[17:42:39:132] : 	Attribute Handle: 0x000E
+[17:42:39:132] : 	Value: [01:10:64:05:DC:36:D6:0D:90:F9:F1:FF:D8:FF:00:00:00:00:00:00]
+[17:42:39:150] : 'Characteristic Value Notification' event received
+[17:42:39:150] : 	Attribute Handle: 0x000E
+[17:42:39:150] : 	Value: [01:10:A0:05:FC:84:D6:0D:90:F9:EE:FF:DB:FF:00:00:00:00:00:00]
+[17:42:39:167] : 'Characteristic Value Notification' event received
+[17:42:39:167] : 	Attribute Handle: 0x000E
+[17:42:39:167] : 	Value: [01:10:40:05:1C:D3:D6:0D:91:F9:EB:FF:DC:FF:00:00:00:00:00:00]
+[17:42:39:193] : 'Characteristic Value Notification' event received
+[17:42:39:193] : 	Attribute Handle: 0x000E
+[17:42:39:193] : 	Value: [01:10:50:05:3C:21:D7:0D:91:F9:E2:FF:DE:FF:00:00:00:00:00:00]
+[17:42:39:211] : 'Characteristic Value Notification' event received
+[17:42:39:211] : 	Attribute Handle: 0x000E
+[17:42:39:211] : 	Value: [01:10:32:05:5C:6F:D7:0D:8F:F9:DC:FF:DD:FF:00:00:00:00:00:00]
+[17:42:39:228] : 'Characteristic Value Notification' event received
+[17:42:39:228] : 	Attribute Handle: 0x000E
+[17:42:39:228] : 	Value: [01:10:4C:05:7C:BD:D7:0D:8C:F9:D7:FF:D8:FF:00:00:00:00:00:00]
+[17:42:39:263] : 'Characteristic Value Notification' event received
+[17:42:39:263] : 	Attribute Handle: 0x000E
+[17:42:39:263] : 	Value: [01:10:96:05:9C:0B:D8:0D:8A:F9:D4:FF:D1:FF:00:00:00:00:00:00]
+[17:42:39:272] : 'Characteristic Value Notification' event received
+[17:42:39:272] : 	Attribute Handle: 0x000E
+[17:42:39:272] : 	Value: [01:10:66:05:BC:59:D8:0D:86:F9:D4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:39:289] : 'Characteristic Value Notification' event received
+[17:42:39:289] : 	Attribute Handle: 0x000E
+[17:42:39:289] : 	Value: [01:10:CE:05:DC:A7:D8:0D:82:F9:DB:FF:C3:FF:00:00:00:00:00:00]
+[17:42:39:307] : 'Characteristic Value Notification' event received
+[17:42:39:307] : 	Attribute Handle: 0x000E
+[17:42:39:307] : 	Value: [01:10:5A:05:FC:F5:D8:0D:80:F9:E6:FF:C0:FF:00:00:00:00:00:00]
+[17:42:39:333] : 'Characteristic Value Notification' event received
+[17:42:39:333] : 	Attribute Handle: 0x000E
+[17:42:39:333] : 	Value: [01:10:9E:05:1C:44:D9:0D:7C:F9:ED:FF:BE:FF:00:00:00:00:00:00]
+[17:42:39:351] : 'Characteristic Value Notification' event received
+[17:42:39:351] : 	Attribute Handle: 0x000E
+[17:42:39:351] : 	Value: [01:10:0A:05:3C:92:D9:0D:71:F9:F2:FF:BA:FF:00:00:00:00:00:00]
+[17:42:39:368] : 'Characteristic Value Notification' event received
+[17:42:39:368] : 	Attribute Handle: 0x000E
+[17:42:39:368] : 	Value: [01:10:86:05:5C:E0:D9:0D:6A:F9:F6:FF:BA:FF:00:00:00:00:00:00]
+[17:42:39:395] : 'Characteristic Value Notification' event received
+[17:42:39:395] : 	Attribute Handle: 0x000E
+[17:42:39:395] : 	Value: [01:10:8E:05:7C:2E:DA:0D:68:F9:FA:FF:BC:FF:00:00:00:00:00:00]
+[17:42:39:412] : 'Characteristic Value Notification' event received
+[17:42:39:412] : 	Attribute Handle: 0x000E
+[17:42:39:412] : 	Value: [01:10:94:05:9C:7C:DA:0D:67:F9:FB:FF:BE:FF:00:00:00:00:00:00]
+[17:42:39:429] : 'Characteristic Value Notification' event received
+[17:42:39:429] : 	Attribute Handle: 0x000E
+[17:42:39:429] : 	Value: [01:10:E0:05:BC:CA:DA:0D:66:F9:FC:FF:BF:FF:00:00:00:00:00:00]
+[17:42:39:447] : 'Characteristic Value Notification' event received
+[17:42:39:447] : 	Attribute Handle: 0x000E
+[17:42:39:447] : 	Value: [01:10:4C:05:DC:18:DB:0D:66:F9:FD:FF:C1:FF:00:00:00:00:00:00]
+[17:42:39:473] : 'Characteristic Value Notification' event received
+[17:42:39:473] : 	Attribute Handle: 0x000E
+[17:42:39:473] : 	Value: [01:10:6A:05:FC:66:DB:0D:66:F9:FF:FF:C2:FF:00:00:00:00:00:00]
+[17:42:39:491] : 'Characteristic Value Notification' event received
+[17:42:39:491] : 	Attribute Handle: 0x000E
+[17:42:39:491] : 	Value: [01:10:48:05:1C:B5:DB:0D:65:F9:00:00:C3:FF:00:00:00:00:00:00]
+[17:42:39:508] : 'Characteristic Value Notification' event received
+[17:42:39:508] : 	Attribute Handle: 0x000E
+[17:42:39:508] : 	Value: [01:10:56:05:3C:03:DC:0D:64:F9:00:00:C5:FF:00:00:00:00:00:00]
+[17:42:39:535] : 'Characteristic Value Notification' event received
+[17:42:39:535] : 	Attribute Handle: 0x000E
+[17:42:39:535] : 	Value: [01:10:82:05:5C:51:DC:0D:63:F9:00:00:C7:FF:00:00:00:00:00:00]
+[17:42:39:552] : 'Characteristic Value Notification' event received
+[17:42:39:552] : 	Attribute Handle: 0x000E
+[17:42:39:552] : 	Value: [01:10:62:05:7C:9F:DC:0D:62:F9:00:00:CA:FF:00:00:00:00:00:00]
+[17:42:39:569] : 'Characteristic Value Notification' event received
+[17:42:39:569] : 	Attribute Handle: 0x000E
+[17:42:39:569] : 	Value: [01:10:24:05:9C:ED:DC:0D:61:F9:00:00:CC:FF:00:00:00:00:00:00]
+[17:42:39:587] : 'Characteristic Value Notification' event received
+[17:42:39:587] : 	Attribute Handle: 0x000E
+[17:42:39:587] : 	Value: [01:10:D0:05:BC:3B:DD:0D:62:F9:00:00:CE:FF:00:00:00:00:00:00]
+[17:42:39:613] : 'Characteristic Value Notification' event received
+[17:42:39:613] : 	Attribute Handle: 0x000E
+[17:42:39:613] : 	Value: [01:10:94:05:DC:89:DD:0D:63:F9:02:00:CE:FF:00:00:00:00:00:00]
+[17:42:39:631] : 'Characteristic Value Notification' event received
+[17:42:39:631] : 	Attribute Handle: 0x000E
+[17:42:39:631] : 	Value: [01:10:EE:05:FC:D7:DD:0D:65:F9:02:00:CF:FF:00:00:00:00:00:00]
+[17:42:39:648] : 'Characteristic Value Notification' event received
+[17:42:39:648] : 	Attribute Handle: 0x000E
+[17:42:39:648] : 	Value: [01:10:5C:05:1C:26:DE:0D:68:F9:FF:FF:D1:FF:00:00:00:00:00:00]
+[17:42:39:674] : 'Characteristic Value Notification' event received
+[17:42:39:674] : 	Attribute Handle: 0x000E
+[17:42:39:674] : 	Value: [01:10:AC:05:3C:74:DE:0D:6A:F9:F7:FF:D4:FF:00:00:00:00:00:00]
+[17:42:39:692] : 'Characteristic Value Notification' event received
+[17:42:39:692] : 	Attribute Handle: 0x000E
+[17:42:39:692] : 	Value: [01:10:F4:05:5C:C2:DE:0D:6B:F9:F6:FF:D1:FF:00:00:00:00:00:00]
+[17:42:39:709] : 'Characteristic Value Notification' event received
+[17:42:39:709] : 	Attribute Handle: 0x000E
+[17:42:39:709] : 	Value: [01:10:BA:05:7C:10:DF:0D:6B:F9:F6:FF:D2:FF:00:00:00:00:00:00]
+[17:42:39:727] : 'Characteristic Value Notification' event received
+[17:42:39:727] : 	Attribute Handle: 0x000E
+[17:42:39:727] : 	Value: [01:10:8E:05:9C:5E:DF:0D:6C:F9:F6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:39:753] : 'Characteristic Value Notification' event received
+[17:42:39:753] : 	Attribute Handle: 0x000E
+[17:42:39:753] : 	Value: [01:10:88:05:BC:AC:DF:0D:6C:F9:F8:FF:D1:FF:00:00:00:00:00:00]
+[17:42:39:771] : 'Characteristic Value Notification' event received
+[17:42:39:771] : 	Attribute Handle: 0x000E
+[17:42:39:771] : 	Value: [01:10:D0:05:DC:FA:DF:0D:6D:F9:F7:FF:D0:FF:00:00:00:00:00:00]
+[17:42:39:788] : 'Characteristic Value Notification' event received
+[17:42:39:788] : 	Attribute Handle: 0x000E
+[17:42:39:788] : 	Value: [01:10:3A:05:FC:48:E0:0D:6D:F9:F6:FF:D1:FF:00:00:00:00:00:00]
+[17:42:39:814] : 'Characteristic Value Notification' event received
+[17:42:39:814] : 	Attribute Handle: 0x000E
+[17:42:39:814] : 	Value: [01:10:14:05:1C:97:E0:0D:6E:F9:F6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:39:832] : 'Characteristic Value Notification' event received
+[17:42:39:832] : 	Attribute Handle: 0x000E
+[17:42:39:832] : 	Value: [01:10:30:05:3C:E5:E0:0D:6E:F9:F6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:39:849] : 'Characteristic Value Notification' event received
+[17:42:39:849] : 	Attribute Handle: 0x000E
+[17:42:39:849] : 	Value: [01:10:9A:05:5C:33:E1:0D:6E:F9:F5:FF:D0:FF:00:00:00:00:00:00]
+[17:42:39:867] : 'Characteristic Value Notification' event received
+[17:42:39:867] : 	Attribute Handle: 0x000E
+[17:42:39:867] : 	Value: [01:10:0C:05:7C:81:E1:0D:6E:F9:F6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:39:893] : 'Characteristic Value Notification' event received
+[17:42:39:893] : 	Attribute Handle: 0x000E
+[17:42:39:893] : 	Value: [01:10:6A:05:9C:CF:E1:0D:6E:F9:F6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:39:910] : 'Characteristic Value Notification' event received
+[17:42:39:910] : 	Attribute Handle: 0x000E
+[17:42:39:910] : 	Value: [01:10:F2:05:BC:1D:E2:0D:6E:F9:F6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:39:928] : 'Characteristic Value Notification' event received
+[17:42:39:928] : 	Attribute Handle: 0x000E
+[17:42:39:928] : 	Value: [01:10:EE:05:DC:6B:E2:0D:6E:F9:F6:FF:CF:FF:00:00:00:00:00:00]
+[17:42:39:955] : 'Characteristic Value Notification' event received
+[17:42:39:955] : 	Attribute Handle: 0x000E
+[17:42:39:955] : 	Value: [01:10:4A:05:FC:B9:E2:0D:6E:F9:F7:FF:CF:FF:00:00:00:00:00:00]
+[17:42:39:972] : 'Characteristic Value Notification' event received
+[17:42:39:972] : 	Attribute Handle: 0x000E
+[17:42:39:972] : 	Value: [01:10:92:05:1C:08:E3:0D:6E:F9:F7:FF:CF:FF:00:00:00:00:00:00]
+[17:42:39:989] : 'Characteristic Value Notification' event received
+[17:42:39:989] : 	Attribute Handle: 0x000E
+[17:42:39:989] : 	Value: [01:10:60:05:3C:56:E3:0D:6E:F9:F7:FF:D0:FF:00:00:00:00:00:00]
+[17:42:40:007] : 'Characteristic Value Notification' event received
+[17:42:40:007] : 	Attribute Handle: 0x000E
+[17:42:40:007] : 	Value: [01:10:3E:05:5C:A4:E3:0D:6F:F9:F8:FF:CF:FF:00:00:00:00:00:00]
+[17:42:40:033] : 'Characteristic Value Notification' event received
+[17:42:40:033] : 	Attribute Handle: 0x000E
+[17:42:40:033] : 	Value: [01:10:1E:05:7C:F2:E3:0D:6F:F9:F8:FF:CF:FF:00:00:00:00:00:00]
+[17:42:40:051] : 'Characteristic Value Notification' event received
+[17:42:40:051] : 	Attribute Handle: 0x000E
+[17:42:40:051] : 	Value: [01:10:B4:05:9C:40:E4:0D:6F:F9:F8:FF:CF:FF:00:00:00:00:00:00]
+[17:42:40:068] : 'Characteristic Value Notification' event received
+[17:42:40:068] : 	Attribute Handle: 0x000E
+[17:42:40:068] : 	Value: [01:10:A6:05:BC:8E:E4:0D:6F:F9:F9:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:094] : 'Characteristic Value Notification' event received
+[17:42:40:094] : 	Attribute Handle: 0x000E
+[17:42:40:094] : 	Value: [01:10:34:05:DC:DC:E4:0D:6F:F9:F9:FF:CB:FF:00:00:00:00:00:00]
+[17:42:40:112] : 'Characteristic Value Notification' event received
+[17:42:40:112] : 	Attribute Handle: 0x000E
+[17:42:40:112] : 	Value: [01:10:3C:05:FC:2A:E5:0D:6F:F9:FA:FF:CB:FF:00:00:00:00:00:00]
+[17:42:40:130] : 'Characteristic Value Notification' event received
+[17:42:40:130] : 	Attribute Handle: 0x000E
+[17:42:40:130] : 	Value: [01:10:78:05:1C:79:E5:0D:6F:F9:FA:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:147] : 'Characteristic Value Notification' event received
+[17:42:40:147] : 	Attribute Handle: 0x000E
+[17:42:40:147] : 	Value: [01:10:FA:05:3C:C7:E5:0D:6F:F9:FA:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:173] : 'Characteristic Value Notification' event received
+[17:42:40:173] : 	Attribute Handle: 0x000E
+[17:42:40:173] : 	Value: [01:10:F6:05:5C:15:E6:0D:6F:F9:FA:FF:CB:FF:00:00:00:00:00:00]
+[17:42:40:191] : 'Characteristic Value Notification' event received
+[17:42:40:191] : 	Attribute Handle: 0x000E
+[17:42:40:191] : 	Value: [01:10:E0:05:7C:63:E6:0D:6F:F9:FA:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:208] : 'Characteristic Value Notification' event received
+[17:42:40:208] : 	Attribute Handle: 0x000E
+[17:42:40:208] : 	Value: [01:10:D6:05:9C:B1:E6:0D:6F:F9:FB:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:234] : 'Characteristic Value Notification' event received
+[17:42:40:234] : 	Attribute Handle: 0x000E
+[17:42:40:234] : 	Value: [01:10:22:05:BC:FF:E6:0D:6F:F9:FB:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:252] : 'Characteristic Value Notification' event received
+[17:42:40:252] : 	Attribute Handle: 0x000E
+[17:42:40:252] : 	Value: [01:10:8A:05:DC:4D:E7:0D:6F:F9:FB:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:269] : 'Characteristic Value Notification' event received
+[17:42:40:269] : 	Attribute Handle: 0x000E
+[17:42:40:269] : 	Value: [01:10:22:05:FC:9B:E7:0D:6F:F9:FB:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:287] : 'Characteristic Value Notification' event received
+[17:42:40:287] : 	Attribute Handle: 0x000E
+[17:42:40:287] : 	Value: [01:10:CA:05:1C:EA:E7:0D:6F:F9:FB:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:313] : 'Characteristic Value Notification' event received
+[17:42:40:313] : 	Attribute Handle: 0x000E
+[17:42:40:313] : 	Value: [01:10:0A:05:3C:38:E8:0D:6F:F9:FB:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:331] : 'Characteristic Value Notification' event received
+[17:42:40:331] : 	Attribute Handle: 0x000E
+[17:42:40:331] : 	Value: [01:10:1C:05:5C:86:E8:0D:6F:F9:FB:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:348] : 'Characteristic Value Notification' event received
+[17:42:40:348] : 	Attribute Handle: 0x000E
+[17:42:40:348] : 	Value: [01:10:1A:05:7C:D4:E8:0D:6F:F9:FB:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:375] : 'Characteristic Value Notification' event received
+[17:42:40:375] : 	Attribute Handle: 0x000E
+[17:42:40:375] : 	Value: [01:10:FE:05:9C:22:E9:0D:6F:F9:FB:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:392] : 'Characteristic Value Notification' event received
+[17:42:40:392] : 	Attribute Handle: 0x000E
+[17:42:40:392] : 	Value: [01:10:F8:05:BC:70:E9:0D:6F:F9:FB:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:409] : 'Characteristic Value Notification' event received
+[17:42:40:409] : 	Attribute Handle: 0x000E
+[17:42:40:409] : 	Value: [01:10:C8:05:DC:BE:E9:0D:6F:F9:FB:FF:C7:FF:00:00:00:00:00:00]
+[17:42:40:427] : 'Characteristic Value Notification' event received
+[17:42:40:427] : 	Attribute Handle: 0x000E
+[17:42:40:427] : 	Value: [01:10:D0:05:FC:0C:EA:0D:6F:F9:FA:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:453] : 'Characteristic Value Notification' event received
+[17:42:40:453] : 	Attribute Handle: 0x000E
+[17:42:40:453] : 	Value: [01:10:14:05:1C:5B:EA:0D:6F:F9:F9:FF:C7:FF:00:00:00:00:00:00]
+[17:42:40:471] : 'Characteristic Value Notification' event received
+[17:42:40:471] : 	Attribute Handle: 0x000E
+[17:42:40:471] : 	Value: [01:10:06:05:3C:A9:EA:0D:70:F9:F9:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:488] : 'Characteristic Value Notification' event received
+[17:42:40:488] : 	Attribute Handle: 0x000E
+[17:42:40:488] : 	Value: [01:10:C0:05:5C:F7:EA:0D:70:F9:F8:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:514] : 'Characteristic Value Notification' event received
+[17:42:40:514] : 	Attribute Handle: 0x000E
+[17:42:40:514] : 	Value: [01:10:40:05:7C:45:EB:0D:70:F9:F7:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:532] : 'Characteristic Value Notification' event received
+[17:42:40:532] : 	Attribute Handle: 0x000E
+[17:42:40:532] : 	Value: [01:10:1C:05:9C:93:EB:0D:6F:F9:F7:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:550] : 'Characteristic Value Notification' event received
+[17:42:40:550] : 	Attribute Handle: 0x000E
+[17:42:40:550] : 	Value: [01:10:4A:05:BC:E1:EB:0D:70:F9:F7:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:567] : 'Characteristic Value Notification' event received
+[17:42:40:567] : 	Attribute Handle: 0x000E
+[17:42:40:567] : 	Value: [01:10:5A:05:DC:2F:EC:0D:70:F9:F7:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:593] : 'Characteristic Value Notification' event received
+[17:42:40:593] : 	Attribute Handle: 0x000E
+[17:42:40:593] : 	Value: [01:10:76:05:FC:7D:EC:0D:70:F9:F6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:611] : 'Characteristic Value Notification' event received
+[17:42:40:611] : 	Attribute Handle: 0x000E
+[17:42:40:611] : 	Value: [01:10:52:05:1C:CC:EC:0D:70:F9:F6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:628] : 'Characteristic Value Notification' event received
+[17:42:40:628] : 	Attribute Handle: 0x000E
+[17:42:40:628] : 	Value: [01:10:06:05:3C:1A:ED:0D:70:F9:F6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:654] : 'Characteristic Value Notification' event received
+[17:42:40:654] : 	Attribute Handle: 0x000E
+[17:42:40:654] : 	Value: [01:10:CA:05:5C:68:ED:0D:70:F9:F4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:672] : 'Characteristic Value Notification' event received
+[17:42:40:672] : 	Attribute Handle: 0x000E
+[17:42:40:672] : 	Value: [01:10:D2:05:7C:B6:ED:0D:70:F9:F2:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:689] : 'Characteristic Value Notification' event received
+[17:42:40:689] : 	Attribute Handle: 0x000E
+[17:42:40:689] : 	Value: [01:10:AA:05:9C:04:EE:0D:70:F9:F2:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:707] : 'Characteristic Value Notification' event received
+[17:42:40:707] : 	Attribute Handle: 0x000E
+[17:42:40:707] : 	Value: [01:10:F4:05:BC:52:EE:0D:70:F9:F1:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:733] : 'Characteristic Value Notification' event received
+[17:42:40:733] : 	Attribute Handle: 0x000E
+[17:42:40:733] : 	Value: [01:10:E2:05:DC:A0:EE:0D:70:F9:EF:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:751] : 'Characteristic Value Notification' event received
+[17:42:40:751] : 	Attribute Handle: 0x000E
+[17:42:40:751] : 	Value: [01:10:3C:05:FC:EE:EE:0D:70:F9:EE:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:768] : 'Characteristic Value Notification' event received
+[17:42:40:768] : 	Attribute Handle: 0x000E
+[17:42:40:768] : 	Value: [01:10:66:05:1C:3D:EF:0D:70:F9:ED:FF:C8:FF:00:00:00:00:00:00]
+[17:42:40:795] : 'Characteristic Value Notification' event received
+[17:42:40:795] : 	Attribute Handle: 0x000E
+[17:42:40:795] : 	Value: [01:10:96:05:3C:8B:EF:0D:70:F9:EC:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:812] : 'Characteristic Value Notification' event received
+[17:42:40:812] : 	Attribute Handle: 0x000E
+[17:42:40:812] : 	Value: [01:10:68:05:60:D9:EF:0D:70:F9:EC:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:829] : 'Characteristic Value Notification' event received
+[17:42:40:829] : 	Attribute Handle: 0x000E
+[17:42:40:829] : 	Value: [01:10:8A:05:80:27:F0:0D:70:F9:EB:FF:C9:FF:00:00:00:00:00:00]
+[17:42:40:847] : 'Characteristic Value Notification' event received
+[17:42:40:847] : 	Attribute Handle: 0x000E
+[17:42:40:847] : 	Value: [01:10:B0:05:A0:75:F0:0D:70:F9:EB:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:873] : 'Characteristic Value Notification' event received
+[17:42:40:873] : 	Attribute Handle: 0x000E
+[17:42:40:873] : 	Value: [01:10:FE:05:C0:C3:F0:0D:70:F9:EB:FF:CA:FF:00:00:00:00:00:00]
+[17:42:40:891] : 'Characteristic Value Notification' event received
+[17:42:40:891] : 	Attribute Handle: 0x000E
+[17:42:40:891] : 	Value: [01:10:98:05:E0:11:F1:0D:70:F9:EB:FF:CB:FF:00:00:00:00:00:00]
+[17:42:40:908] : 'Characteristic Value Notification' event received
+[17:42:40:908] : 	Attribute Handle: 0x000E
+[17:42:40:908] : 	Value: [01:10:70:05:00:60:F1:0D:70:F9:EB:FF:CB:FF:00:00:00:00:00:00]
+[17:42:40:935] : 'Characteristic Value Notification' event received
+[17:42:40:935] : 	Attribute Handle: 0x000E
+[17:42:40:935] : 	Value: [01:10:12:05:20:AE:F1:0D:6F:F9:EB:FF:CC:FF:00:00:00:00:00:00]
+[17:42:40:952] : 'Characteristic Value Notification' event received
+[17:42:40:952] : 	Attribute Handle: 0x000E
+[17:42:40:952] : 	Value: [01:10:94:05:40:FC:F1:0D:6F:F9:EB:FF:CC:FF:00:00:00:00:00:00]
+[17:42:40:970] : 'Characteristic Value Notification' event received
+[17:42:40:970] : 	Attribute Handle: 0x000E
+[17:42:40:970] : 	Value: [01:10:58:05:60:4A:F2:0D:6F:F9:EB:FF:CD:FF:00:00:00:00:00:00]
+[17:42:40:987] : 'Characteristic Value Notification' event received
+[17:42:40:987] : 	Attribute Handle: 0x000E
+[17:42:40:987] : 	Value: [01:10:44:05:80:98:F2:0D:6F:F9:EB:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:013] : 'Characteristic Value Notification' event received
+[17:42:41:013] : 	Attribute Handle: 0x000E
+[17:42:41:013] : 	Value: [01:10:0A:05:A0:E6:F2:0D:6F:F9:EB:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:031] : 'Characteristic Value Notification' event received
+[17:42:41:031] : 	Attribute Handle: 0x000E
+[17:42:41:031] : 	Value: [01:10:8A:05:C0:34:F3:0D:70:F9:EB:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:048] : 'Characteristic Value Notification' event received
+[17:42:41:048] : 	Attribute Handle: 0x000E
+[17:42:41:048] : 	Value: [01:10:78:05:E0:82:F3:0D:70:F9:EB:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:074] : 'Characteristic Value Notification' event received
+[17:42:41:074] : 	Attribute Handle: 0x000E
+[17:42:41:074] : 	Value: [01:10:28:05:00:D1:F3:0D:70:F9:EB:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:092] : 'Characteristic Value Notification' event received
+[17:42:41:092] : 	Attribute Handle: 0x000E
+[17:42:41:092] : 	Value: [01:10:84:05:20:1F:F4:0D:70:F9:EB:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:109] : 'Characteristic Value Notification' event received
+[17:42:41:109] : 	Attribute Handle: 0x000E
+[17:42:41:109] : 	Value: [01:10:20:05:40:6D:F4:0D:70:F9:EB:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:127] : 'Characteristic Value Notification' event received
+[17:42:41:127] : 	Attribute Handle: 0x000E
+[17:42:41:127] : 	Value: [01:10:A2:05:60:BB:F4:0D:70:F9:EA:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:153] : 'Characteristic Value Notification' event received
+[17:42:41:153] : 	Attribute Handle: 0x000E
+[17:42:41:153] : 	Value: [01:10:24:05:80:09:F5:0D:70:F9:EA:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:171] : 'Characteristic Value Notification' event received
+[17:42:41:171] : 	Attribute Handle: 0x000E
+[17:42:41:171] : 	Value: [01:10:48:05:A0:57:F5:0D:70:F9:EA:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:188] : 'Characteristic Value Notification' event received
+[17:42:41:188] : 	Attribute Handle: 0x000E
+[17:42:41:188] : 	Value: [01:10:1A:05:C0:A5:F5:0D:70:F9:E9:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:214] : 'Characteristic Value Notification' event received
+[17:42:41:214] : 	Attribute Handle: 0x000E
+[17:42:41:214] : 	Value: [01:10:3A:05:E0:F3:F5:0D:70:F9:E9:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:232] : 'Characteristic Value Notification' event received
+[17:42:41:232] : 	Attribute Handle: 0x000E
+[17:42:41:232] : 	Value: [01:10:34:05:00:42:F6:0D:70:F9:E9:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:249] : 'Characteristic Value Notification' event received
+[17:42:41:249] : 	Attribute Handle: 0x000E
+[17:42:41:249] : 	Value: [01:10:90:05:20:90:F6:0D:70:F9:E8:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:267] : 'Characteristic Value Notification' event received
+[17:42:41:267] : 	Attribute Handle: 0x000E
+[17:42:41:267] : 	Value: [01:10:02:05:40:DE:F6:0D:6F:F9:E7:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:293] : 'Characteristic Value Notification' event received
+[17:42:41:293] : 	Attribute Handle: 0x000E
+[17:42:41:293] : 	Value: [01:10:52:05:60:2C:F7:0D:6F:F9:E7:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:310] : 'Characteristic Value Notification' event received
+[17:42:41:310] : 	Attribute Handle: 0x000E
+[17:42:41:310] : 	Value: [01:10:CA:05:80:7A:F7:0D:6F:F9:E6:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:328] : 'Characteristic Value Notification' event received
+[17:42:41:328] : 	Attribute Handle: 0x000E
+[17:42:41:328] : 	Value: [01:10:22:05:A0:C8:F7:0D:6F:F9:E6:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:355] : 'Characteristic Value Notification' event received
+[17:42:41:355] : 	Attribute Handle: 0x000E
+[17:42:41:355] : 	Value: [01:10:7A:05:C0:16:F8:0D:70:F9:E6:FF:CD:FF:00:00:00:00:00:00]
+[17:42:41:372] : 'Characteristic Value Notification' event received
+[17:42:41:372] : 	Attribute Handle: 0x000E
+[17:42:41:372] : 	Value: [01:10:1C:05:E0:64:F8:0D:70:F9:E5:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:390] : 'Characteristic Value Notification' event received
+[17:42:41:390] : 	Attribute Handle: 0x000E
+[17:42:41:390] : 	Value: [01:10:C8:05:00:B3:F8:0D:70:F9:E4:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:407] : 'Characteristic Value Notification' event received
+[17:42:41:407] : 	Attribute Handle: 0x000E
+[17:42:41:407] : 	Value: [01:10:DC:05:20:01:F9:0D:70:F9:E4:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:433] : 'Characteristic Value Notification' event received
+[17:42:41:433] : 	Attribute Handle: 0x000E
+[17:42:41:433] : 	Value: [01:10:7E:05:40:4F:F9:0D:70:F9:E3:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:450] : 'Characteristic Value Notification' event received
+[17:42:41:450] : 	Attribute Handle: 0x000E
+[17:42:41:450] : 	Value: [01:10:F0:05:60:9D:F9:0D:70:F9:E3:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:468] : 'Characteristic Value Notification' event received
+[17:42:41:468] : 	Attribute Handle: 0x000E
+[17:42:41:468] : 	Value: [01:10:60:05:80:EB:F9:0D:70:F9:E3:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:494] : 'Characteristic Value Notification' event received
+[17:42:41:494] : 	Attribute Handle: 0x000E
+[17:42:41:494] : 	Value: [01:10:F8:05:A0:39:FA:0D:70:F9:E3:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:512] : 'Characteristic Value Notification' event received
+[17:42:41:512] : 	Attribute Handle: 0x000E
+[17:42:41:512] : 	Value: [01:10:FA:05:C0:87:FA:0D:70:F9:E3:FF:CE:FF:00:00:00:00:00:00]
+[17:42:41:530] : 'Characteristic Value Notification' event received
+[17:42:41:530] : 	Attribute Handle: 0x000E
+[17:42:41:530] : 	Value: [01:10:E8:05:E0:D5:FA:0D:70:F9:E3:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:547] : 'Characteristic Value Notification' event received
+[17:42:41:547] : 	Attribute Handle: 0x000E
+[17:42:41:547] : 	Value: [01:10:74:05:00:24:FB:0D:70:F9:E3:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:573] : 'Characteristic Value Notification' event received
+[17:42:41:573] : 	Attribute Handle: 0x000E
+[17:42:41:573] : 	Value: [01:10:54:05:20:72:FB:0D:70:F9:E3:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:591] : 'Characteristic Value Notification' event received
+[17:42:41:591] : 	Attribute Handle: 0x000E
+[17:42:41:591] : 	Value: [01:10:16:05:40:C0:FB:0D:70:F9:E2:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:608] : 'Characteristic Value Notification' event received
+[17:42:41:608] : 	Attribute Handle: 0x000E
+[17:42:41:608] : 	Value: [01:10:BA:05:60:0E:FC:0D:70:F9:E2:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:634] : 'Characteristic Value Notification' event received
+[17:42:41:634] : 	Attribute Handle: 0x000E
+[17:42:41:634] : 	Value: [01:10:2E:05:80:5C:FC:0D:70:F9:E2:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:652] : 'Characteristic Value Notification' event received
+[17:42:41:652] : 	Attribute Handle: 0x000E
+[17:42:41:652] : 	Value: [01:10:A4:05:A0:AA:FC:0D:70:F9:E2:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:669] : 'Characteristic Value Notification' event received
+[17:42:41:669] : 	Attribute Handle: 0x000E
+[17:42:41:669] : 	Value: [01:10:22:05:C0:F8:FC:0D:70:F9:E2:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:687] : 'Characteristic Value Notification' event received
+[17:42:41:687] : 	Attribute Handle: 0x000E
+[17:42:41:687] : 	Value: [01:10:22:05:E0:46:FD:0D:70:F9:E1:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:713] : 'Characteristic Value Notification' event received
+[17:42:41:713] : 	Attribute Handle: 0x000E
+[17:42:41:713] : 	Value: [01:10:FA:05:00:95:FD:0D:70:F9:E1:FF:CF:FF:00:00:00:00:00:00]
+[17:42:41:731] : 'Characteristic Value Notification' event received
+[17:42:41:731] : 	Attribute Handle: 0x000E
+[17:42:41:731] : 	Value: [01:10:4C:05:20:E3:FD:0D:70:F9:E0:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:748] : 'Characteristic Value Notification' event received
+[17:42:41:748] : 	Attribute Handle: 0x000E
+[17:42:41:748] : 	Value: [01:10:5E:05:40:31:FE:0D:70:F9:DF:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:775] : 'Characteristic Value Notification' event received
+[17:42:41:775] : 	Attribute Handle: 0x000E
+[17:42:41:775] : 	Value: [01:10:AA:05:60:7F:FE:0D:70:F9:DF:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:792] : 'Characteristic Value Notification' event received
+[17:42:41:792] : 	Attribute Handle: 0x000E
+[17:42:41:792] : 	Value: [01:10:D0:05:80:CD:FE:0D:70:F9:DF:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:809] : 'Characteristic Value Notification' event received
+[17:42:41:809] : 	Attribute Handle: 0x000E
+[17:42:41:809] : 	Value: [01:10:AE:05:A0:1B:FF:0D:70:F9:DE:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:827] : 'Characteristic Value Notification' event received
+[17:42:41:827] : 	Attribute Handle: 0x000E
+[17:42:41:827] : 	Value: [01:10:0A:05:C0:69:FF:0D:70:F9:DE:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:853] : 'Characteristic Value Notification' event received
+[17:42:41:853] : 	Attribute Handle: 0x000E
+[17:42:41:853] : 	Value: [01:10:90:05:E0:B7:FF:0D:70:F9:DD:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:871] : 'Characteristic Value Notification' event received
+[17:42:41:871] : 	Attribute Handle: 0x000E
+[17:42:41:871] : 	Value: [01:10:40:05:00:06:00:0E:70:F9:DD:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:888] : 'Characteristic Value Notification' event received
+[17:42:41:888] : 	Attribute Handle: 0x000E
+[17:42:41:888] : 	Value: [01:10:46:05:20:54:00:0E:70:F9:DD:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:915] : 'Characteristic Value Notification' event received
+[17:42:41:915] : 	Attribute Handle: 0x000E
+[17:42:41:915] : 	Value: [01:10:4C:05:40:A2:00:0E:70:F9:DD:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:932] : 'Characteristic Value Notification' event received
+[17:42:41:932] : 	Attribute Handle: 0x000E
+[17:42:41:932] : 	Value: [01:10:4A:05:60:F0:00:0E:70:F9:DD:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:950] : 'Characteristic Value Notification' event received
+[17:42:41:950] : 	Attribute Handle: 0x000E
+[17:42:41:950] : 	Value: [01:10:58:05:80:3E:01:0E:70:F9:DD:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:967] : 'Characteristic Value Notification' event received
+[17:42:41:967] : 	Attribute Handle: 0x000E
+[17:42:41:967] : 	Value: [01:10:9A:05:A0:8C:01:0E:70:F9:DC:FF:D0:FF:00:00:00:00:00:00]
+[17:42:41:993] : 'Characteristic Value Notification' event received
+[17:42:41:993] : 	Attribute Handle: 0x000E
+[17:42:41:993] : 	Value: [01:10:3A:05:C0:DA:01:0E:70:F9:DC:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:011] : 'Characteristic Value Notification' event received
+[17:42:42:011] : 	Attribute Handle: 0x000E
+[17:42:42:011] : 	Value: [01:10:80:05:E0:28:02:0E:70:F9:DC:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:028] : 'Characteristic Value Notification' event received
+[17:42:42:028] : 	Attribute Handle: 0x000E
+[17:42:42:028] : 	Value: [01:10:BA:05:00:77:02:0E:70:F9:DC:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:054] : 'Characteristic Value Notification' event received
+[17:42:42:054] : 	Attribute Handle: 0x000E
+[17:42:42:054] : 	Value: [01:10:52:05:20:C5:02:0E:70:F9:DC:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:072] : 'Characteristic Value Notification' event received
+[17:42:42:072] : 	Attribute Handle: 0x000E
+[17:42:42:072] : 	Value: [01:10:50:05:40:13:03:0E:70:F9:DB:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:089] : 'Characteristic Value Notification' event received
+[17:42:42:089] : 	Attribute Handle: 0x000E
+[17:42:42:089] : 	Value: [01:10:74:05:60:61:03:0E:70:F9:DB:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:107] : 'Characteristic Value Notification' event received
+[17:42:42:107] : 	Attribute Handle: 0x000E
+[17:42:42:107] : 	Value: [01:10:9A:05:80:AF:03:0E:70:F9:DB:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:133] : 'Characteristic Value Notification' event received
+[17:42:42:133] : 	Attribute Handle: 0x000E
+[17:42:42:133] : 	Value: [01:10:B6:05:A0:FD:03:0E:70:F9:DA:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:151] : 'Characteristic Value Notification' event received
+[17:42:42:151] : 	Attribute Handle: 0x000E
+[17:42:42:151] : 	Value: [01:10:28:05:C0:4B:04:0E:70:F9:DA:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:168] : 'Characteristic Value Notification' event received
+[17:42:42:168] : 	Attribute Handle: 0x000E
+[17:42:42:168] : 	Value: [01:10:A6:05:E0:99:04:0E:70:F9:DA:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:194] : 'Characteristic Value Notification' event received
+[17:42:42:194] : 	Attribute Handle: 0x000E
+[17:42:42:194] : 	Value: [01:10:4E:05:00:E8:04:0E:70:F9:DA:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:212] : 'Characteristic Value Notification' event received
+[17:42:42:212] : 	Attribute Handle: 0x000E
+[17:42:42:212] : 	Value: [01:10:28:05:20:36:05:0E:70:F9:D9:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:229] : 'Characteristic Value Notification' event received
+[17:42:42:229] : 	Attribute Handle: 0x000E
+[17:42:42:229] : 	Value: [01:10:40:05:40:84:05:0E:70:F9:D9:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:247] : 'Characteristic Value Notification' event received
+[17:42:42:247] : 	Attribute Handle: 0x000E
+[17:42:42:247] : 	Value: [01:10:60:05:60:D2:05:0E:70:F9:D9:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:273] : 'Characteristic Value Notification' event received
+[17:42:42:273] : 	Attribute Handle: 0x000E
+[17:42:42:273] : 	Value: [01:10:48:05:80:20:06:0E:70:F9:D9:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:290] : 'Characteristic Value Notification' event received
+[17:42:42:290] : 	Attribute Handle: 0x000E
+[17:42:42:290] : 	Value: [01:10:BC:05:A0:6E:06:0E:70:F9:D9:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:308] : 'Characteristic Value Notification' event received
+[17:42:42:308] : 	Attribute Handle: 0x000E
+[17:42:42:308] : 	Value: [01:10:98:05:C0:BC:06:0E:70:F9:D8:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:335] : 'Characteristic Value Notification' event received
+[17:42:42:335] : 	Attribute Handle: 0x000E
+[17:42:42:335] : 	Value: [01:10:AA:05:E0:0A:07:0E:70:F9:D8:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:352] : 'Characteristic Value Notification' event received
+[17:42:42:352] : 	Attribute Handle: 0x000E
+[17:42:42:352] : 	Value: [01:10:FA:05:00:59:07:0E:70:F9:D8:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:370] : 'Characteristic Value Notification' event received
+[17:42:42:370] : 	Attribute Handle: 0x000E
+[17:42:42:370] : 	Value: [01:10:3C:05:20:A7:07:0E:70:F9:D8:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:387] : 'Characteristic Value Notification' event received
+[17:42:42:387] : 	Attribute Handle: 0x000E
+[17:42:42:387] : 	Value: [01:10:2E:05:40:F5:07:0E:70:F9:D7:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:413] : 'Characteristic Value Notification' event received
+[17:42:42:413] : 	Attribute Handle: 0x000E
+[17:42:42:413] : 	Value: [01:10:AE:05:60:43:08:0E:70:F9:D7:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:431] : 'Characteristic Value Notification' event received
+[17:42:42:431] : 	Attribute Handle: 0x000E
+[17:42:42:431] : 	Value: [01:10:B2:05:80:91:08:0E:70:F9:D7:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:448] : 'Characteristic Value Notification' event received
+[17:42:42:448] : 	Attribute Handle: 0x000E
+[17:42:42:448] : 	Value: [01:10:46:05:A0:DF:08:0E:70:F9:D7:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:474] : 'Characteristic Value Notification' event received
+[17:42:42:474] : 	Attribute Handle: 0x000E
+[17:42:42:474] : 	Value: [01:10:BC:05:C0:2D:09:0E:70:F9:D6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:492] : 'Characteristic Value Notification' event received
+[17:42:42:492] : 	Attribute Handle: 0x000E
+[17:42:42:492] : 	Value: [01:10:9C:05:E0:7B:09:0E:70:F9:D6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:510] : 'Characteristic Value Notification' event received
+[17:42:42:510] : 	Attribute Handle: 0x000E
+[17:42:42:510] : 	Value: [01:10:B8:05:00:CA:09:0E:70:F9:D6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:527] : 'Characteristic Value Notification' event received
+[17:42:42:527] : 	Attribute Handle: 0x000E
+[17:42:42:527] : 	Value: [01:10:20:05:20:18:0A:0E:70:F9:D6:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:553] : 'Characteristic Value Notification' event received
+[17:42:42:553] : 	Attribute Handle: 0x000E
+[17:42:42:553] : 	Value: [01:10:90:05:40:66:0A:0E:70:F9:D5:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:571] : 'Characteristic Value Notification' event received
+[17:42:42:571] : 	Attribute Handle: 0x000E
+[17:42:42:571] : 	Value: [01:10:1E:05:60:B4:0A:0E:70:F9:D5:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:588] : 'Characteristic Value Notification' event received
+[17:42:42:588] : 	Attribute Handle: 0x000E
+[17:42:42:588] : 	Value: [01:10:BE:05:80:02:0B:0E:70:F9:D5:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:614] : 'Characteristic Value Notification' event received
+[17:42:42:614] : 	Attribute Handle: 0x000E
+[17:42:42:614] : 	Value: [01:10:B8:05:A0:50:0B:0E:70:F9:D5:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:632] : 'Characteristic Value Notification' event received
+[17:42:42:632] : 	Attribute Handle: 0x000E
+[17:42:42:632] : 	Value: [01:10:44:05:C0:9E:0B:0E:70:F9:D5:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:649] : 'Characteristic Value Notification' event received
+[17:42:42:649] : 	Attribute Handle: 0x000E
+[17:42:42:649] : 	Value: [01:10:4A:05:E0:EC:0B:0E:70:F9:D4:FF:D0:FF:00:00:00:00:00:00]
+[17:42:42:667] : 'Characteristic Value Notification' event received
+[17:42:42:667] : 	Attribute Handle: 0x000E
+[17:42:42:667] : 	Value: [01:10:70:05:00:3B:0C:0E:70:F9:D4:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:693] : 'Characteristic Value Notification' event received
+[17:42:42:693] : 	Attribute Handle: 0x000E
+[17:42:42:693] : 	Value: [01:10:98:05:20:89:0C:0E:70:F9:D4:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:711] : 'Characteristic Value Notification' event received
+[17:42:42:711] : 	Attribute Handle: 0x000E
+[17:42:42:711] : 	Value: [01:10:A2:05:40:D7:0C:0E:70:F9:D3:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:728] : 'Characteristic Value Notification' event received
+[17:42:42:728] : 	Attribute Handle: 0x000E
+[17:42:42:728] : 	Value: [01:10:FA:05:64:25:0D:0E:70:F9:D3:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:755] : 'Characteristic Value Notification' event received
+[17:42:42:755] : 	Attribute Handle: 0x000E
+[17:42:42:755] : 	Value: [01:10:48:05:84:73:0D:0E:70:F9:D3:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:772] : 'Characteristic Value Notification' event received
+[17:42:42:772] : 	Attribute Handle: 0x000E
+[17:42:42:772] : 	Value: [01:10:A0:05:A4:C1:0D:0E:70:F9:D3:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:789] : 'Characteristic Value Notification' event received
+[17:42:42:789] : 	Attribute Handle: 0x000E
+[17:42:42:789] : 	Value: [01:10:60:05:C4:0F:0E:0E:70:F9:D2:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:807] : 'Characteristic Value Notification' event received
+[17:42:42:807] : 	Attribute Handle: 0x000E
+[17:42:42:807] : 	Value: [01:10:66:05:E4:5D:0E:0E:70:F9:D2:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:833] : 'Characteristic Value Notification' event received
+[17:42:42:833] : 	Attribute Handle: 0x000E
+[17:42:42:833] : 	Value: [01:10:06:05:04:AC:0E:0E:70:F9:D2:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:851] : 'Characteristic Value Notification' event received
+[17:42:42:851] : 	Attribute Handle: 0x000E
+[17:42:42:851] : 	Value: [01:10:26:05:24:FA:0E:0E:70:F9:D2:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:868] : 'Characteristic Value Notification' event received
+[17:42:42:868] : 	Attribute Handle: 0x000E
+[17:42:42:868] : 	Value: [01:10:B2:05:44:48:0F:0E:70:F9:D2:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:894] : 'Characteristic Value Notification' event received
+[17:42:42:894] : 	Attribute Handle: 0x000E
+[17:42:42:894] : 	Value: [01:10:56:05:64:96:0F:0E:70:F9:D2:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:912] : 'Characteristic Value Notification' event received
+[17:42:42:912] : 	Attribute Handle: 0x000E
+[17:42:42:912] : 	Value: [01:10:9E:05:84:E4:0F:0E:70:F9:D1:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:930] : 'Characteristic Value Notification' event received
+[17:42:42:930] : 	Attribute Handle: 0x000E
+[17:42:42:930] : 	Value: [01:10:56:05:A4:32:10:0E:70:F9:D1:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:947] : 'Characteristic Value Notification' event received
+[17:42:42:947] : 	Attribute Handle: 0x000E
+[17:42:42:947] : 	Value: [01:10:3E:05:C4:80:10:0E:70:F9:D1:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:973] : 'Characteristic Value Notification' event received
+[17:42:42:973] : 	Attribute Handle: 0x000E
+[17:42:42:973] : 	Value: [01:10:CA:05:E4:CE:10:0E:70:F9:D1:FF:D1:FF:00:00:00:00:00:00]
+[17:42:42:991] : 'Characteristic Value Notification' event received
+[17:42:42:991] : 	Attribute Handle: 0x000E
+[17:42:42:991] : 	Value: [01:10:EE:05:04:1D:11:0E:70:F9:D1:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:008] : 'Characteristic Value Notification' event received
+[17:42:43:008] : 	Attribute Handle: 0x000E
+[17:42:43:008] : 	Value: [01:10:EC:05:24:6B:11:0E:70:F9:D1:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:034] : 'Characteristic Value Notification' event received
+[17:42:43:034] : 	Attribute Handle: 0x000E
+[17:42:43:034] : 	Value: [01:10:C8:05:44:B9:11:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:052] : 'Characteristic Value Notification' event received
+[17:42:43:052] : 	Attribute Handle: 0x000E
+[17:42:43:052] : 	Value: [01:10:5C:05:64:07:12:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:069] : 'Characteristic Value Notification' event received
+[17:42:43:069] : 	Attribute Handle: 0x000E
+[17:42:43:069] : 	Value: [01:10:C8:05:84:55:12:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:087] : 'Characteristic Value Notification' event received
+[17:42:43:087] : 	Attribute Handle: 0x000E
+[17:42:43:087] : 	Value: [01:10:42:05:A4:A3:12:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:113] : 'Characteristic Value Notification' event received
+[17:42:43:113] : 	Attribute Handle: 0x000E
+[17:42:43:113] : 	Value: [01:10:C4:05:C4:F1:12:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:131] : 'Characteristic Value Notification' event received
+[17:42:43:131] : 	Attribute Handle: 0x000E
+[17:42:43:131] : 	Value: [01:10:44:05:E4:3F:13:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:148] : 'Characteristic Value Notification' event received
+[17:42:43:148] : 	Attribute Handle: 0x000E
+[17:42:43:148] : 	Value: [01:10:60:05:04:8E:13:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:174] : 'Characteristic Value Notification' event received
+[17:42:43:174] : 	Attribute Handle: 0x000E
+[17:42:43:174] : 	Value: [01:10:66:05:24:DC:13:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:192] : 'Characteristic Value Notification' event received
+[17:42:43:192] : 	Attribute Handle: 0x000E
+[17:42:43:192] : 	Value: [01:10:BC:05:44:2A:14:0E:70:F9:D0:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:209] : 'Characteristic Value Notification' event received
+[17:42:43:209] : 	Attribute Handle: 0x000E
+[17:42:43:209] : 	Value: [01:10:AA:05:64:78:14:0E:70:F9:CF:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:227] : 'Characteristic Value Notification' event received
+[17:42:43:227] : 	Attribute Handle: 0x000E
+[17:42:43:227] : 	Value: [01:10:BA:05:84:C6:14:0E:70:F9:CF:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:253] : 'Characteristic Value Notification' event received
+[17:42:43:253] : 	Attribute Handle: 0x000E
+[17:42:43:253] : 	Value: [01:10:9A:05:A4:14:15:0E:71:F9:CE:FF:D1:FF:00:00:00:00:00:00]
+[17:42:43:270] : 'Characteristic Value Notification' event received
+[17:42:43:270] : 	Attribute Handle: 0x000E
+[17:42:43:270] : 	Value: [01:10:0C:05:C4:62:15:0E:71:F9:CE:FF:D0:FF:00:00:00:00:00:00]
+[17:42:43:288] : 'Characteristic Value Notification' event received
+[17:42:43:288] : 	Attribute Handle: 0x000E
+[17:42:43:288] : 	Value: [01:10:82:05:E4:B0:15:0E:71:F9:CE:FF:D0:FF:00:00:00:00:00:00]
+[17:42:43:315] : 'Characteristic Value Notification' event received
+[17:42:43:315] : 	Attribute Handle: 0x000E
+[17:42:43:315] : 	Value: [01:10:C0:05:04:FF:15:0E:71:F9:CD:FF:CF:FF:00:00:00:00:00:00]
+[17:42:43:332] : 'Characteristic Value Notification' event received
+[17:42:43:332] : 	Attribute Handle: 0x000E
+[17:42:43:332] : 	Value: [01:10:3E:05:24:4D:16:0E:71:F9:CD:FF:CF:FF:00:00:00:00:00:00]
+[17:42:43:350] : 'Characteristic Value Notification' event received
+[17:42:43:350] : 	Attribute Handle: 0x000E
+[17:42:43:350] : 	Value: [01:10:02:05:44:9B:16:0E:71:F9:CD:FF:CE:FF:00:00:00:00:00:00]
+[17:42:43:367] : 'Characteristic Value Notification' event received
+[17:42:43:367] : 	Attribute Handle: 0x000E
+[17:42:43:367] : 	Value: [01:10:B8:05:64:E9:16:0E:72:F9:CC:FF:CD:FF:00:00:00:00:00:00]
+[17:42:43:393] : 'Characteristic Value Notification' event received
+[17:42:43:393] : 	Attribute Handle: 0x000E
+[17:42:43:393] : 	Value: [01:10:F0:05:84:37:17:0E:72:F9:CB:FF:CC:FF:00:00:00:00:00:00]
+[17:42:43:411] : 'Characteristic Value Notification' event received
+[17:42:43:411] : 	Attribute Handle: 0x000E
+[17:42:43:411] : 	Value: [01:10:74:05:A4:85:17:0E:72:F9:CB:FF:CB:FF:00:00:00:00:00:00]
+[17:42:43:428] : 'Characteristic Value Notification' event received
+[17:42:43:428] : 	Attribute Handle: 0x000E
+[17:42:43:428] : 	Value: [01:10:FE:05:C4:D3:17:0E:72:F9:CA:FF:CB:FF:00:00:00:00:00:00]
+[17:42:43:454] : 'Characteristic Value Notification' event received
+[17:42:43:454] : 	Attribute Handle: 0x000E
+[17:42:43:454] : 	Value: [01:10:62:05:E4:21:18:0E:72:F9:C9:FF:CB:FF:00:00:00:00:00:00]
+[17:42:43:472] : 'Characteristic Value Notification' event received
+[17:42:43:472] : 	Attribute Handle: 0x000E
+[17:42:43:472] : 	Value: [01:10:D6:05:04:70:18:0E:72:F9:CA:FF:CB:FF:00:00:00:00:00:00]
+[17:42:43:489] : 'Characteristic Value Notification' event received
+[17:42:43:489] : 	Attribute Handle: 0x000E
+[17:42:43:489] : 	Value: [01:10:AA:05:24:BE:18:0E:72:F9:CA:FF:CB:FF:00:00:00:00:00:00]
+[17:42:43:507] : 'Characteristic Value Notification' event received
+[17:42:43:507] : 	Attribute Handle: 0x000E
+[17:42:43:507] : 	Value: [01:10:54:05:44:0C:19:0E:72:F9:C9:FF:CA:FF:00:00:00:00:00:00]
+[17:42:43:533] : 'Characteristic Value Notification' event received
+[17:42:43:533] : 	Attribute Handle: 0x000E
+[17:42:43:533] : 	Value: [01:10:74:05:64:5A:19:0E:72:F9:C9:FF:CA:FF:00:00:00:00:00:00]
+[17:42:43:551] : 'Characteristic Value Notification' event received
+[17:42:43:551] : 	Attribute Handle: 0x000E
+[17:42:43:551] : 	Value: [01:10:76:05:84:A8:19:0E:72:F9:C9:FF:C9:FF:00:00:00:00:00:00]
+[17:42:43:568] : 'Characteristic Value Notification' event received
+[17:42:43:568] : 	Attribute Handle: 0x000E
+[17:42:43:568] : 	Value: [01:10:24:05:A4:F6:19:0E:72:F9:C8:FF:C8:FF:00:00:00:00:00:00]
+[17:42:43:594] : 'Characteristic Value Notification' event received
+[17:42:43:594] : 	Attribute Handle: 0x000E
+[17:42:43:594] : 	Value: [01:10:CE:05:C4:44:1A:0E:72:F9:C7:FF:C8:FF:00:00:00:00:00:00]
+[17:42:43:612] : 'Characteristic Value Notification' event received
+[17:42:43:612] : 	Attribute Handle: 0x000E
+[17:42:43:612] : 	Value: [01:10:AA:05:E4:92:1A:0E:72:F9:C7:FF:C7:FF:00:00:00:00:00:00]
+[17:42:43:629] : 'Characteristic Value Notification' event received
+[17:42:43:629] : 	Attribute Handle: 0x000E
+[17:42:43:629] : 	Value: [01:10:D8:05:04:E1:1A:0E:72:F9:C7:FF:C7:FF:00:00:00:00:00:00]
+[17:42:43:647] : 'Characteristic Value Notification' event received
+[17:42:43:647] : 	Attribute Handle: 0x000E
+[17:42:43:647] : 	Value: [01:10:58:05:24:2F:1B:0E:72:F9:C7:FF:C7:FF:00:00:00:00:00:00]
+[17:42:43:673] : 'Characteristic Value Notification' event received
+[17:42:43:673] : 	Attribute Handle: 0x000E
+[17:42:43:673] : 	Value: [01:10:CA:05:44:7D:1B:0E:72:F9:C7:FF:C6:FF:00:00:00:00:00:00]
+[17:42:43:690] : 'Characteristic Value Notification' event received
+[17:42:43:690] : 	Attribute Handle: 0x000E
+[17:42:43:690] : 	Value: [01:10:12:05:64:CB:1B:0E:72:F9:C6:FF:C5:FF:00:00:00:00:00:00]
+[17:42:43:708] : 'Characteristic Value Notification' event received
+[17:42:43:708] : 	Attribute Handle: 0x000E
+[17:42:43:708] : 	Value: [01:10:DE:05:84:19:1C:0E:72:F9:C6:FF:C5:FF:00:00:00:00:00:00]
+[17:42:43:735] : 'Characteristic Value Notification' event received
+[17:42:43:735] : 	Attribute Handle: 0x000E
+[17:42:43:735] : 	Value: [01:10:84:05:A4:67:1C:0E:72:F9:C6:FF:C4:FF:00:00:00:00:00:00]
+[17:42:43:752] : 'Characteristic Value Notification' event received
+[17:42:43:752] : 	Attribute Handle: 0x000E
+[17:42:43:752] : 	Value: [01:10:8A:05:C4:B5:1C:0E:72:F9:C6:FF:C4:FF:00:00:00:00:00:00]
+[17:42:43:770] : 'Characteristic Value Notification' event received
+[17:42:43:770] : 	Attribute Handle: 0x000E
+[17:42:43:770] : 	Value: [01:10:D2:05:E4:03:1D:0E:72:F9:C5:FF:C5:FF:00:00:00:00:00:00]
+[17:42:43:787] : 'Characteristic Value Notification' event received
+[17:42:43:787] : 	Attribute Handle: 0x000E
+[17:42:43:787] : 	Value: [01:10:18:05:04:52:1D:0E:72:F9:C5:FF:C5:FF:00:00:00:00:00:00]
+[17:42:43:813] : 'Characteristic Value Notification' event received
+[17:42:43:813] : 	Attribute Handle: 0x000E
+[17:42:43:813] : 	Value: [01:10:42:05:24:A0:1D:0E:71:F9:C6:FF:C5:FF:00:00:00:00:00:00]
+[17:42:43:831] : 'Characteristic Value Notification' event received
+[17:42:43:831] : 	Attribute Handle: 0x000E
+[17:42:43:831] : 	Value: [01:10:0A:05:44:EE:1D:0E:71:F9:C6:FF:C6:FF:00:00:00:00:00:00]
+[17:42:43:848] : 'Characteristic Value Notification' event received
+[17:42:43:848] : 	Attribute Handle: 0x000E
+[17:42:43:848] : 	Value: [01:10:B8:05:64:3C:1E:0E:71:F9:C7:FF:C6:FF:00:00:00:00:00:00]
+[17:42:43:874] : 'Characteristic Value Notification' event received
+[17:42:43:874] : 	Attribute Handle: 0x000E
+[17:42:43:874] : 	Value: [01:10:F0:05:84:8A:1E:0E:71:F9:C7:FF:C7:FF:00:00:00:00:00:00]
+[17:42:43:892] : 'Characteristic Value Notification' event received
+[17:42:43:892] : 	Attribute Handle: 0x000E
+[17:42:43:892] : 	Value: [01:10:AE:05:A4:D8:1E:0E:71:F9:C8:FF:C8:FF:00:00:00:00:00:00]
+[17:42:43:910] : 'Characteristic Value Notification' event received
+[17:42:43:910] : 	Attribute Handle: 0x000E
+[17:42:43:910] : 	Value: [01:10:14:05:C4:26:1F:0E:71:F9:C8:FF:C8:FF:00:00:00:00:00:00]
+[17:42:43:927] : 'Characteristic Value Notification' event received
+[17:42:43:927] : 	Attribute Handle: 0x000E
+[17:42:43:927] : 	Value: [01:10:06:05:E4:74:1F:0E:71:F9:C8:FF:C9:FF:00:00:00:00:00:00]
+[17:42:43:953] : 'Characteristic Value Notification' event received
+[17:42:43:953] : 	Attribute Handle: 0x000E
+[17:42:43:953] : 	Value: [01:10:A2:05:04:C3:1F:0E:71:F9:C8:FF:CA:FF:00:00:00:00:00:00]
+[17:42:43:971] : 'Characteristic Value Notification' event received
+[17:42:43:971] : 	Attribute Handle: 0x000E
+[17:42:43:971] : 	Value: [01:10:04:05:24:11:20:0E:71:F9:C8:FF:CB:FF:00:00:00:00:00:00]
+[17:42:43:988] : 'Characteristic Value Notification' event received
+[17:42:43:988] : 	Attribute Handle: 0x000E
+[17:42:43:988] : 	Value: [01:10:4E:05:44:5F:20:0E:70:F9:C9:FF:CC:FF:00:00:00:00:00:00]
+[17:42:44:014] : 'Characteristic Value Notification' event received
+[17:42:44:014] : 	Attribute Handle: 0x000E
+[17:42:44:014] : 	Value: [01:10:F6:05:64:AD:20:0E:70:F9:C9:FF:CD:FF:00:00:00:00:00:00]
+[17:42:44:032] : 'Characteristic Value Notification' event received
+[17:42:44:032] : 	Attribute Handle: 0x000E
+[17:42:44:032] : 	Value: [01:10:3A:05:84:FB:20:0E:70:F9:CA:FF:CD:FF:00:00:00:00:00:00]
+[17:42:44:049] : 'Characteristic Value Notification' event received
+[17:42:44:049] : 	Attribute Handle: 0x000E
+[17:42:44:049] : 	Value: [01:10:6C:05:A4:49:21:0E:70:F9:C9:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:067] : 'Characteristic Value Notification' event received
+[17:42:44:067] : 	Attribute Handle: 0x000E
+[17:42:44:067] : 	Value: [01:10:62:05:C4:97:21:0E:70:F9:CA:FF:CF:FF:00:00:00:00:00:00]
+[17:42:44:093] : 'Characteristic Value Notification' event received
+[17:42:44:093] : 	Attribute Handle: 0x000E
+[17:42:44:093] : 	Value: [01:10:38:05:E4:E5:21:0E:70:F9:C9:FF:CF:FF:00:00:00:00:00:00]
+[17:42:44:111] : 'Characteristic Value Notification' event received
+[17:42:44:111] : 	Attribute Handle: 0x000E
+[17:42:44:111] : 	Value: [01:10:6C:05:04:34:22:0E:70:F9:C9:FF:CF:FF:00:00:00:00:00:00]
+[17:42:44:128] : 'Characteristic Value Notification' event received
+[17:42:44:128] : 	Attribute Handle: 0x000E
+[17:42:44:128] : 	Value: [01:10:88:05:24:82:22:0E:70:F9:C8:FF:CF:FF:00:00:00:00:00:00]
+[17:42:44:155] : 'Characteristic Value Notification' event received
+[17:42:44:155] : 	Attribute Handle: 0x000E
+[17:42:44:155] : 	Value: [01:10:1A:05:44:D0:22:0E:70:F9:C8:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:172] : 'Characteristic Value Notification' event received
+[17:42:44:172] : 	Attribute Handle: 0x000E
+[17:42:44:172] : 	Value: [01:10:9A:05:64:1E:23:0E:70:F9:C8:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:189] : 'Characteristic Value Notification' event received
+[17:42:44:189] : 	Attribute Handle: 0x000E
+[17:42:44:189] : 	Value: [01:10:2C:05:84:6C:23:0E:70:F9:C8:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:207] : 'Characteristic Value Notification' event received
+[17:42:44:207] : 	Attribute Handle: 0x000E
+[17:42:44:207] : 	Value: [01:10:10:05:A4:BA:23:0E:70:F9:C7:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:233] : 'Characteristic Value Notification' event received
+[17:42:44:233] : 	Attribute Handle: 0x000E
+[17:42:44:233] : 	Value: [01:10:A8:05:C4:08:24:0E:70:F9:C7:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:251] : 'Characteristic Value Notification' event received
+[17:42:44:251] : 	Attribute Handle: 0x000E
+[17:42:44:251] : 	Value: [01:10:50:05:E4:56:24:0E:70:F9:C8:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:268] : 'Characteristic Value Notification' event received
+[17:42:44:268] : 	Attribute Handle: 0x000E
+[17:42:44:268] : 	Value: [01:10:AA:05:04:A5:24:0E:70:F9:C8:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:295] : 'Characteristic Value Notification' event received
+[17:42:44:295] : 	Attribute Handle: 0x000E
+[17:42:44:295] : 	Value: [01:10:8A:05:24:F3:24:0E:70:F9:C8:FF:CE:FF:00:00:00:00:00:00]
+[17:42:44:312] : 'Characteristic Value Notification' event received
+[17:42:44:312] : 	Attribute Handle: 0x000E
+[17:42:44:312] : 	Value: [01:10:22:05:44:41:25:0E:70:F9:C8:FF:CD:FF:00:00:00:00:00:00]
+[17:42:44:330] : 'Characteristic Value Notification' event received
+[17:42:44:330] : 	Attribute Handle: 0x000E
+[17:42:44:330] : 	Value: [01:10:5E:05:64:8F:25:0E:70:F9:C8:FF:CD:FF:00:00:00:00:00:00]
+[17:42:44:347] : 'Characteristic Value Notification' event received
+[17:42:44:347] : 	Attribute Handle: 0x000E
+[17:42:44:347] : 	Value: [01:10:5E:05:84:DD:25:0E:70:F9:C7:FF:CD:FF:00:00:00:00:00:00]
+[17:42:44:373] : 'Characteristic Value Notification' event received
+[17:42:44:373] : 	Attribute Handle: 0x000E
+[17:42:44:373] : 	Value: [01:10:D6:05:A4:2B:26:0E:70:F9:C7:FF:CC:FF:00:00:00:00:00:00]
+[17:42:44:391] : 'Characteristic Value Notification' event received
+[17:42:44:391] : 	Attribute Handle: 0x000E
+[17:42:44:391] : 	Value: [01:10:50:05:C4:79:26:0E:70:F9:C7:FF:CC:FF:00:00:00:00:00:00]
+[17:42:44:408] : 'Characteristic Value Notification' event received
+[17:42:44:408] : 	Attribute Handle: 0x000E
+[17:42:44:408] : 	Value: [01:10:D2:05:E4:C7:26:0E:70:F9:C7:FF:CC:FF:00:00:00:00:00:00]
+[17:42:44:434] : 'Characteristic Value Notification' event received
+[17:42:44:434] : 	Attribute Handle: 0x000E
+[17:42:44:434] : 	Value: [01:10:6C:05:04:16:27:0E:70:F9:C7:FF:CC:FF:00:00:00:00:00:00]
+[17:42:44:452] : 'Characteristic Value Notification' event received
+[17:42:44:452] : 	Attribute Handle: 0x000E
+[17:42:44:452] : 	Value: [01:10:24:05:24:64:27:0E:70:F9:C7:FF:CB:FF:00:00:00:00:00:00]
+[17:42:44:469] : 'Characteristic Value Notification' event received
+[17:42:44:469] : 	Attribute Handle: 0x000E
+[17:42:44:469] : 	Value: [01:10:0C:05:44:B2:27:0E:70:F9:C7:FF:CB:FF:00:00:00:00:00:00]
+[17:42:44:487] : 'Characteristic Value Notification' event received
+[17:42:44:487] : 	Attribute Handle: 0x000E
+[17:42:44:487] : 	Value: [01:10:D2:05:64:00:28:0E:71:F9:C7:FF:CB:FF:00:00:00:00:00:00]
+[17:42:44:513] : 'Characteristic Value Notification' event received
+[17:42:44:513] : 	Attribute Handle: 0x000E
+[17:42:44:513] : 	Value: [01:10:8A:05:84:4E:28:0E:71:F9:C6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:531] : 'Characteristic Value Notification' event received
+[17:42:44:531] : 	Attribute Handle: 0x000E
+[17:42:44:531] : 	Value: [01:10:04:05:A4:9C:28:0E:71:F9:C6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:548] : 'Characteristic Value Notification' event received
+[17:42:44:548] : 	Attribute Handle: 0x000E
+[17:42:44:548] : 	Value: [01:10:86:05:C4:EA:28:0E:71:F9:C6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:574] : 'Characteristic Value Notification' event received
+[17:42:44:574] : 	Attribute Handle: 0x000E
+[17:42:44:574] : 	Value: [01:10:F4:05:E4:38:29:0E:71:F9:C6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:592] : 'Characteristic Value Notification' event received
+[17:42:44:592] : 	Attribute Handle: 0x000E
+[17:42:44:592] : 	Value: [01:10:20:05:04:87:29:0E:71:F9:C6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:609] : 'Characteristic Value Notification' event received
+[17:42:44:609] : 	Attribute Handle: 0x000E
+[17:42:44:609] : 	Value: [01:10:26:05:24:D5:29:0E:71:F9:C6:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:627] : 'Characteristic Value Notification' event received
+[17:42:44:627] : 	Attribute Handle: 0x000E
+[17:42:44:627] : 	Value: [01:10:44:05:44:23:2A:0E:71:F9:C5:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:653] : 'Characteristic Value Notification' event received
+[17:42:44:653] : 	Attribute Handle: 0x000E
+[17:42:44:653] : 	Value: [01:10:5A:05:68:71:2A:0E:71:F9:C5:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:670] : 'Characteristic Value Notification' event received
+[17:42:44:670] : 	Attribute Handle: 0x000E
+[17:42:44:670] : 	Value: [01:10:B4:05:88:BF:2A:0E:71:F9:C5:FF:CA:FF:00:00:00:00:00:00]
+[17:42:44:688] : 'Characteristic Value Notification' event received
+[17:42:44:688] : 	Attribute Handle: 0x000E
+[17:42:44:688] : 	Value: [01:10:9C:05:A8:0D:2B:0E:71:F9:C5:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:715] : 'Characteristic Value Notification' event received
+[17:42:44:715] : 	Attribute Handle: 0x000E
+[17:42:44:715] : 	Value: [01:10:3C:05:C8:5B:2B:0E:71:F9:C5:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:732] : 'Characteristic Value Notification' event received
+[17:42:44:732] : 	Attribute Handle: 0x000E
+[17:42:44:732] : 	Value: [01:10:90:05:E8:A9:2B:0E:71:F9:C5:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:750] : 'Characteristic Value Notification' event received
+[17:42:44:750] : 	Attribute Handle: 0x000E
+[17:42:44:750] : 	Value: [01:10:70:05:08:F8:2B:0E:71:F9:C4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:767] : 'Characteristic Value Notification' event received
+[17:42:44:767] : 	Attribute Handle: 0x000E
+[17:42:44:767] : 	Value: [01:10:22:05:28:46:2C:0E:71:F9:C4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:793] : 'Characteristic Value Notification' event received
+[17:42:44:793] : 	Attribute Handle: 0x000E
+[17:42:44:793] : 	Value: [01:10:2C:05:48:94:2C:0E:71:F9:C4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:811] : 'Characteristic Value Notification' event received
+[17:42:44:811] : 	Attribute Handle: 0x000E
+[17:42:44:811] : 	Value: [01:10:2E:05:68:E2:2C:0E:71:F9:C4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:828] : 'Characteristic Value Notification' event received
+[17:42:44:828] : 	Attribute Handle: 0x000E
+[17:42:44:828] : 	Value: [01:10:CE:05:88:30:2D:0E:71:F9:C4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:854] : 'Characteristic Value Notification' event received
+[17:42:44:854] : 	Attribute Handle: 0x000E
+[17:42:44:854] : 	Value: [01:10:3A:05:A8:7E:2D:0E:71:F9:C4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:872] : 'Characteristic Value Notification' event received
+[17:42:44:872] : 	Attribute Handle: 0x000E
+[17:42:44:872] : 	Value: [01:10:52:05:C8:CC:2D:0E:71:F9:C4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:890] : 'Characteristic Value Notification' event received
+[17:42:44:890] : 	Attribute Handle: 0x000E
+[17:42:44:890] : 	Value: [01:10:EC:05:E8:1A:2E:0E:71:F9:C4:FF:C9:FF:00:00:00:00:00:00]
+[17:42:44:907] : 'Characteristic Value Notification' event received
+[17:42:44:907] : 	Attribute Handle: 0x000E
+[17:42:44:907] : 	Value: [01:10:5C:05:08:69:2E:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:44:933] : 'Characteristic Value Notification' event received
+[17:42:44:933] : 	Attribute Handle: 0x000E
+[17:42:44:933] : 	Value: [01:10:B8:05:28:B7:2E:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:44:951] : 'Characteristic Value Notification' event received
+[17:42:44:951] : 	Attribute Handle: 0x000E
+[17:42:44:951] : 	Value: [01:10:2C:05:48:05:2F:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:44:968] : 'Characteristic Value Notification' event received
+[17:42:44:968] : 	Attribute Handle: 0x000E
+[17:42:44:968] : 	Value: [01:10:0C:05:68:53:2F:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:44:994] : 'Characteristic Value Notification' event received
+[17:42:44:994] : 	Attribute Handle: 0x000E
+[17:42:44:994] : 	Value: [01:10:32:05:88:A1:2F:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:012] : 'Characteristic Value Notification' event received
+[17:42:45:012] : 	Attribute Handle: 0x000E
+[17:42:45:012] : 	Value: [01:10:C6:05:A8:EF:2F:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:029] : 'Characteristic Value Notification' event received
+[17:42:45:029] : 	Attribute Handle: 0x000E
+[17:42:45:029] : 	Value: [01:10:A8:05:C8:3D:30:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:047] : 'Characteristic Value Notification' event received
+[17:42:45:047] : 	Attribute Handle: 0x000E
+[17:42:45:047] : 	Value: [01:10:66:05:E8:8B:30:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:073] : 'Characteristic Value Notification' event received
+[17:42:45:073] : 	Attribute Handle: 0x000E
+[17:42:45:073] : 	Value: [01:10:AC:05:08:DA:30:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:091] : 'Characteristic Value Notification' event received
+[17:42:45:091] : 	Attribute Handle: 0x000E
+[17:42:45:091] : 	Value: [01:10:D6:05:28:28:31:0E:71:F9:C2:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:108] : 'Characteristic Value Notification' event received
+[17:42:45:108] : 	Attribute Handle: 0x000E
+[17:42:45:108] : 	Value: [01:10:3A:05:48:76:31:0E:71:F9:C2:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:135] : 'Characteristic Value Notification' event received
+[17:42:45:135] : 	Attribute Handle: 0x000E
+[17:42:45:135] : 	Value: [01:10:D2:05:68:C4:31:0E:71:F9:C2:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:152] : 'Characteristic Value Notification' event received
+[17:42:45:152] : 	Attribute Handle: 0x000E
+[17:42:45:152] : 	Value: [01:10:D4:05:88:12:32:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:170] : 'Characteristic Value Notification' event received
+[17:42:45:170] : 	Attribute Handle: 0x000E
+[17:42:45:170] : 	Value: [01:10:F0:05:A8:60:32:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:187] : 'Characteristic Value Notification' event received
+[17:42:45:187] : 	Attribute Handle: 0x000E
+[17:42:45:187] : 	Value: [01:10:0C:05:C8:AE:32:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:213] : 'Characteristic Value Notification' event received
+[17:42:45:213] : 	Attribute Handle: 0x000E
+[17:42:45:213] : 	Value: [01:10:0A:05:E8:FC:32:0E:71:F9:C3:FF:C8:FF:00:00:00:00:00:00]
+[17:42:45:231] : 'Characteristic Value Notification' event received
+[17:42:45:231] : 	Attribute Handle: 0x000E
+[17:42:45:231] : 	Value: [01:10:A2:05:08:4B:33:0E:71:F9:C3:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:248] : 'Characteristic Value Notification' event received
+[17:42:45:248] : 	Attribute Handle: 0x000E
+[17:42:45:248] : 	Value: [01:10:06:05:28:99:33:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:274] : 'Characteristic Value Notification' event received
+[17:42:45:274] : 	Attribute Handle: 0x000E
+[17:42:45:274] : 	Value: [01:10:C8:05:48:E7:33:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:292] : 'Characteristic Value Notification' event received
+[17:42:45:292] : 	Attribute Handle: 0x000E
+[17:42:45:292] : 	Value: [01:10:96:05:68:35:34:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:310] : 'Characteristic Value Notification' event received
+[17:42:45:310] : 	Attribute Handle: 0x000E
+[17:42:45:310] : 	Value: [01:10:CA:05:88:83:34:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:327] : 'Characteristic Value Notification' event received
+[17:42:45:327] : 	Attribute Handle: 0x000E
+[17:42:45:327] : 	Value: [01:10:CC:05:A8:D1:34:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:353] : 'Characteristic Value Notification' event received
+[17:42:45:353] : 	Attribute Handle: 0x000E
+[17:42:45:353] : 	Value: [01:10:CC:05:C8:1F:35:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:371] : 'Characteristic Value Notification' event received
+[17:42:45:371] : 	Attribute Handle: 0x000E
+[17:42:45:371] : 	Value: [01:10:E8:05:E8:6D:35:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:388] : 'Characteristic Value Notification' event received
+[17:42:45:388] : 	Attribute Handle: 0x000E
+[17:42:45:388] : 	Value: [01:10:AA:05:08:BC:35:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:414] : 'Characteristic Value Notification' event received
+[17:42:45:414] : 	Attribute Handle: 0x000E
+[17:42:45:414] : 	Value: [01:10:72:05:28:0A:36:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:432] : 'Characteristic Value Notification' event received
+[17:42:45:432] : 	Attribute Handle: 0x000E
+[17:42:45:432] : 	Value: [01:10:F4:05:48:58:36:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:449] : 'Characteristic Value Notification' event received
+[17:42:45:449] : 	Attribute Handle: 0x000E
+[17:42:45:449] : 	Value: [01:10:32:05:68:A6:36:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:467] : 'Characteristic Value Notification' event received
+[17:42:45:467] : 	Attribute Handle: 0x000E
+[17:42:45:467] : 	Value: [01:10:A6:05:88:F4:36:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:493] : 'Characteristic Value Notification' event received
+[17:42:45:493] : 	Attribute Handle: 0x000E
+[17:42:45:493] : 	Value: [01:10:94:05:A8:42:37:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:511] : 'Characteristic Value Notification' event received
+[17:42:45:511] : 	Attribute Handle: 0x000E
+[17:42:45:511] : 	Value: [01:10:9A:05:C8:90:37:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:528] : 'Characteristic Value Notification' event received
+[17:42:45:528] : 	Attribute Handle: 0x000E
+[17:42:45:528] : 	Value: [01:10:6E:05:E8:DE:37:0E:71:F9:C2:FF:C7:FF:00:00:00:00:00:00]
+[17:42:45:555] : 'Characteristic Value Notification' event received
+[17:42:45:555] : 	Attribute Handle: 0x000E
+[17:42:45:555] : 	Value: [01:10:CE:05:08:2D:38:0E:71:F9:C2:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:572] : 'Characteristic Value Notification' event received
+[17:42:45:572] : 	Attribute Handle: 0x000E
+[17:42:45:572] : 	Value: [01:10:EE:05:28:7B:38:0E:71:F9:C2:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:589] : 'Characteristic Value Notification' event received
+[17:42:45:589] : 	Attribute Handle: 0x000E
+[17:42:45:589] : 	Value: [01:10:F8:05:48:C9:38:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:607] : 'Characteristic Value Notification' event received
+[17:42:45:607] : 	Attribute Handle: 0x000E
+[17:42:45:607] : 	Value: [01:10:E0:05:68:17:39:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:624] : 'Write Characteristic Descriptor' request sent
+[17:42:45:624] : 	Attribute Handle: 0x000B
+[17:42:45:624] : 	Value: [00:00]
+[17:42:45:627] : 'Command Status' event received
+[17:42:45:627] : 	Status: BLE_STATUS_OK
+[17:42:45:633] : 'Characteristic Value Notification' event received
+[17:42:45:633] : 	Attribute Handle: 0x000E
+[17:42:45:633] : 	Value: [01:10:56:05:88:65:39:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:640] : 'Command Complete' event received
+[17:42:45:640] : 	Status: BLE_STATUS_OK
+[17:42:45:672] : 'Characteristic Value Notification' event received
+[17:42:45:672] : 	Attribute Handle: 0x000E
+[17:42:45:672] : 	Value: [01:10:FE:05:A8:B3:39:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:672] : 'Characteristic Value Notification' event received
+[17:42:45:672] : 	Attribute Handle: 0x000E
+[17:42:45:672] : 	Value: [01:10:80:05:C8:01:3A:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:695] : 'Characteristic Value Notification' event received
+[17:42:45:695] : 	Attribute Handle: 0x000E
+[17:42:45:695] : 	Value: [01:10:74:05:E8:4F:3A:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:712] : 'Characteristic Value Notification' event received
+[17:42:45:712] : 	Attribute Handle: 0x000E
+[17:42:45:712] : 	Value: [01:10:36:05:08:9E:3A:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:721] : 'Read Characteristic Descriptor' request sent
+[17:42:45:721] : 	Attribute Handle: 0x000B
+[17:42:45:723] : 'Command Status' event received
+[17:42:45:723] : 	Status: BLE_STATUS_OK
+[17:42:45:730] : 'Characteristic Value Notification' event received
+[17:42:45:730] : 	Attribute Handle: 0x000E
+[17:42:45:730] : 	Value: [01:10:12:05:28:EC:3A:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:737] : 'Read Characteristic Descriptor Response' event received
+[17:42:45:737] : 	Value: [00:00]
+[17:42:45:780] : 'Command Complete' event received
+[17:42:45:780] : 	Status: BLE_STATUS_OK
+[17:42:45:882] : 'Characteristic Value Notification' event received
+[17:42:45:882] : 	Attribute Handle: 0x000E
+[17:42:45:882] : 	Value: [01:10:C6:05:48:3A:3B:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:882] : 'Characteristic Value Notification' event received
+[17:42:45:882] : 	Attribute Handle: 0x000E
+[17:42:45:882] : 	Value: [01:10:2E:05:68:88:3B:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:882] : 'Characteristic Value Notification' event received
+[17:42:45:882] : 	Attribute Handle: 0x000E
+[17:42:45:882] : 	Value: [01:10:D0:05:88:D6:3B:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:882] : 'Characteristic Value Notification' event received
+[17:42:45:882] : 	Attribute Handle: 0x000E
+[17:42:45:882] : 	Value: [01:10:AC:05:A8:24:3C:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:882] : 'Characteristic Value Notification' event received
+[17:42:45:882] : 	Attribute Handle: 0x000E
+[17:42:45:882] : 	Value: [01:10:0C:05:C8:72:3C:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:882] : 'Characteristic Value Notification' event received
+[17:42:45:882] : 	Attribute Handle: 0x000E
+[17:42:45:882] : 	Value: [01:10:E4:05:E8:C0:3C:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:882] : 'Characteristic Value Notification' event received
+[17:42:45:882] : 	Attribute Handle: 0x000E
+[17:42:45:882] : 	Value: [01:10:32:05:08:0F:3D:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:882] : 'Write Characteristic Descriptor' request sent
+[17:42:45:882] : 	Attribute Handle: 0x000F
+[17:42:45:882] : 	Value: [00:00]
+[17:42:45:885] : 'Command Status' event received
+[17:42:45:885] : 	Status: BLE_STATUS_OK
+[17:42:45:888] : 'Characteristic Value Notification' event received
+[17:42:45:888] : 	Attribute Handle: 0x000E
+[17:42:45:888] : 	Value: [01:10:34:05:28:5D:3D:0E:71:F9:C1:FF:C6:FF:00:00:00:00:00:00]
+[17:42:45:903] : 'Command Complete' event received
+[17:42:45:903] : 	Status: BLE_STATUS_OK
+[17:42:45:929] : 'Read Characteristic Descriptor' request sent
+[17:42:45:929] : 	Attribute Handle: 0x000F
+[17:42:45:932] : 'Command Status' event received
+[17:42:45:932] : 	Status: BLE_STATUS_OK
+[17:42:45:947] : 'Read Characteristic Descriptor Response' event received
+[17:42:45:947] : 	Value: [00:00]
+[17:42:45:972] : 'Command Complete' event received
+[17:42:45:972] : 	Status: BLE_STATUS_OK
+[17:42:45:987] : 'Write Characteristic Descriptor' request sent
+[17:42:45:987] : 	Attribute Handle: 0x0015
+[17:42:45:987] : 	Value: [00:00]
+[17:42:45:989] : 'Command Status' event received
+[17:42:45:989] : 	Status: BLE_STATUS_OK
+[17:42:46:007] : 'Command Complete' event received
+[17:42:46:007] : 	Status: BLE_STATUS_OK
+[17:42:46:009] : 'Read Characteristic Descriptor' request sent
+[17:42:46:009] : 	Attribute Handle: 0x0015
+[17:42:46:012] : 'Command Status' event received
+[17:42:46:012] : 	Status: BLE_STATUS_OK
+[17:42:46:025] : 'Read Characteristic Descriptor Response' event received
+[17:42:46:025] : 	Value: [00:00]
+[17:42:46:051] : 'Command Complete' event received
+[17:42:46:051] : 	Status: BLE_STATUS_OK
+[17:42:46:062] : 'Write Characteristic Descriptor' request sent
+[17:42:46:062] : 	Attribute Handle: 0x001B
+[17:42:46:062] : 	Value: [00:00]
+[17:42:46:065] : 'Command Status' event received
+[17:42:46:065] : 	Status: BLE_STATUS_OK
+[17:42:46:077] : 'Command Complete' event received
+[17:42:46:077] : 	Status: BLE_STATUS_OK
+[17:42:46:079] : 'Read Characteristic Descriptor' request sent
+[17:42:46:079] : 	Attribute Handle: 0x001B
+[17:42:46:082] : 'Command Status' event received
+[17:42:46:082] : 	Status: BLE_STATUS_OK
+[17:42:46:095] : 'Read Characteristic Descriptor Response' event received
+[17:42:46:095] : 	Value: [00:00]
+[17:42:46:120] : 'Command Complete' event received
+[17:42:46:120] : 	Status: BLE_STATUS_OK
